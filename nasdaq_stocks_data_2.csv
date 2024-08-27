@@ -1,0 +1,3501 @@
+Symbol,Company Name,Market Cap,Stock Price,Revenue
+AAPL,Apple Inc.,"3,448.91B",226.84,385.60B
+NVDA,NVIDIA Corporation,"3,179.31B",129.37,79.77B
+MSFT,Microsoft Corporation,"3,098.02B",416.79,245.12B
+GOOG,Alphabet Inc.,"2,048.89B",167.43,328.28B
+GOOGL,Alphabet Inc.,"2,038.78B",165.62,328.28B
+AMZN,"Amazon.com, Inc.","1,858.14B",177.04,604.33B
+META,"Meta Platforms, Inc.","1,335.74B",528.00,149.78B
+AVGO,Broadcom Inc.,774.39B,166.36,42.62B
+TSLA,"Tesla, Inc.",703.84B,220.32,95.32B
+COST,Costco Wholesale Corporation,389.78B,879.21,253.70B
+ASML,ASML Holding N.V.,360.37B,907.26,27.26B
+NFLX,"Netflix, Inc.",294.72B,686.73,36.30B
+AZN,AstraZeneca PLC,268.01B,86.66,49.13B
+AMD,"Advanced Micro Devices, Inc.",250.83B,154.98,23.28B
+ADBE,Adobe Inc.,247.55B,558.30,20.43B
+PEP,"PepsiCo, Inc.",241.57B,175.87,92.05B
+TMUS,"T-Mobile US, Inc.",231.70B,198.58,79.10B
+LIN,Linde plc,222.39B,465.74,32.82B
+CSCO,"Cisco Systems, Inc.",204.42B,50.74,53.80B
+PDD,PDD Holdings Inc.,194.25B,139.87,41.11B
+QCOM,QUALCOMM Incorporated,193.28B,173.50,37.35B
+TXN,Texas Instruments Incorporated,191.63B,209.88,16.09B
+AMGN,Amgen Inc.,176.67B,328.80,30.93B
+INTU,Intuit Inc.,173.28B,619.85,16.29B
+ISRG,"Intuitive Surgical, Inc.",172.90B,486.55,7.57B
+AMAT,"Applied Materials, Inc.",167.08B,202.67,26.85B
+CMCSA,Comcast Corporation,154.20B,39.82,121.11B
+ARM,Arm Holdings plc,142.14B,135.63,3.50B
+SNY,Sanofi,140.76B,56.21,50.44B
+HON,Honeywell International Inc.,131.55B,202.48,37.33B
+REGN,"Regeneron Pharmaceuticals, Inc.",129.43B,"1,199.12",13.49B
+BKNG,Booking Holdings Inc.,128.42B,"3,830.58",22.40B
+VRTX,Vertex Pharmaceuticals Incorporated,124.21B,481.24,10.34B
+MU,"Micron Technology, Inc.",114.04B,102.85,21.37B
+PANW,"Palo Alto Networks, Inc.",113.57B,350.75,8.03B
+ADI,"Analog Devices, Inc.",113.39B,228.39,9.70B
+LRCX,Lam Research Corporation,110.48B,847.37,14.91B
+ADP,"Automatic Data Processing, Inc.",109.94B,269.60,19.20B
+KLAC,KLA Corporation,109.94B,817.84,9.81B
+SBUX,Starbucks Corporation,106.54B,94.02,36.48B
+MELI,"MercadoLibre, Inc.",101.41B,"2,000.31",17.11B
+GILD,"Gilead Sciences, Inc.",95.52B,76.72,27.81B
+MDLZ,"Mondelez International, Inc.",95.15B,71.23,35.98B
+INTC,Intel Corporation,87.83B,20.54,55.12B
+SNPS,"Synopsys, Inc.",82.86B,539.39,6.48B
+CTAS,Cintas Corporation,79.46B,788.50,9.60B
+EQIX,"Equinix, Inc.",78.61B,827.96,8.02B
+CDNS,"Cadence Design Systems, Inc.",75.00B,273.90,4.16B
+CME,CME Group Inc.,74.56B,207.05,5.79B
+ABNB,"Airbnb, Inc.",73.90B,116.85,10.51B
+PYPL,"PayPal Holdings, Inc.",73.30B,71.70,31.03B
+WDAY,"Workday, Inc.",68.96B,259.95,7.86B
+CRWD,"CrowdStrike Holdings, Inc.",66.08B,271.54,3.28B
+CSX,CSX Corporation,65.32B,33.69,14.63B
+ORLY,"O'Reilly Automotive, Inc.",64.77B,"1,116.57",16.28B
+NXPI,NXP Semiconductors N.V.,64.35B,252.63,13.11B
+MAR,"Marriott International, Inc.",63.42B,225.26,6.47B
+MRVL,"Marvell Technology, Inc.",62.18B,71.84,5.35B
+CEG,Constellation Energy Corporation,60.97B,194.99,23.54B
+ROP,"Roper Technologies, Inc.",58.73B,547.82,6.57B
+FTNT,"Fortinet, Inc.",57.16B,74.73,5.54B
+ADSK,"Autodesk, Inc.",55.01B,255.26,5.65B
+DASH,"DoorDash, Inc.",53.01B,128.81,9.61B
+NTES,"NetEase, Inc.",52.90B,82.08,14.69B
+COIN,"Coinbase Global, Inc.",52.53B,211.40,4.50B
+AEP,"American Electric Power Company, Inc.",52.28B,98.25,19.52B
+ROST,"Ross Stores, Inc.",51.77B,155.21,21.09B
+TTD,"The Trade Desk, Inc.",51.62B,105.00,2.17B
+CPRT,"Copart, Inc.",50.77B,52.76,4.17B
+PCAR,PACCAR Inc,50.57B,96.46,35.29B
+CHTR,"Charter Communications, Inc.",49.78B,348.73,54.66B
+KDP,Keurig Dr Pepper Inc.,48.45B,35.73,15.06B
+PAYX,"Paychex, Inc.",46.82B,130.00,5.28B
+MNST,Monster Beverage Corporation,45.70B,46.65,7.39B
+MPWR,"Monolithic Power Systems, Inc.",45.65B,936.29,1.89B
+MCHP,Microchip Technology Incorporated,43.88B,81.79,6.59B
+ODFL,"Old Dominion Freight Line, Inc.",43.67B,203.77,5.97B
+KHC,The Kraft Heinz Company,43.42B,35.91,26.32B
+TEAM,Atlassian Corporation,41.60B,160.00,4.36B
+ACGL,Arch Capital Group Ltd.,40.83B,109.02,15.47B
+NDAQ,"Nasdaq, Inc.",40.52B,70.35,6.57B
+IDXX,"IDEXX Laboratories, Inc.",40.18B,488.13,3.78B
+DDOG,"Datadog, Inc.",39.52B,117.23,2.39B
+JD,"JD.com, Inc.",39.28B,26.83,152.09B
+EA,Electronic Arts Inc.,39.00B,147.62,7.30B
+FAST,Fastenal Company,39.00B,68.10,7.42B
+GEHC,GE HealthCare Technologies Inc.,38.72B,84.78,19.52B
+VRSK,"Verisk Analytics, Inc.",38.19B,268.15,2.78B
+CTSH,Cognizant Technology Solutions Corporation,38.01B,76.68,19.27B
+EXC,Exelon Corporation,37.81B,37.79,22.75B
+CCEP,Coca-Cola Europacific Partners PLC,36.12B,78.73,20.52B
+SMCI,"Super Micro Computer, Inc.",35.91B,613.24,14.94B
+ALNY,"Alnylam Pharmaceuticals, Inc.",35.00B,272.64,2.34B
+BKR,Baker Hughes Company,34.99B,35.22,27.03B
+FANG,"Diamondback Energy, Inc.",34.83B,195.22,8.85B
+LULU,Lululemon Athletica Inc.,33.57B,268.55,9.83B
+XEL,Xcel Energy Inc.,33.52B,60.12,13.78B
+ON,ON Semiconductor Corporation,32.71B,76.36,7.80B
+MRNA,"Moderna, Inc.",31.69B,82.44,5.05B
+CSGP,"CoStar Group, Inc.",31.55B,76.99,2.60B
+ARGX,argenx SE,31.10B,516.69,1.66B
+CDW,CDW Corporation,30.69B,229.74,20.94B
+FER,Ferrovial SE,30.24B,41.75,9.47B
+APP,AppLovin Corporation,30.15B,90.20,3.96B
+ZS,"Zscaler, Inc.",30.14B,199.43,2.03B
+BIDU,"Baidu, Inc.",30.05B,85.70,18.56B
+BIIB,Biogen Inc.,29.86B,205.00,9.67B
+DXCM,"DexCom, Inc.",29.68B,74.07,3.93B
+MSTR,MicroStrategy Incorporated,29.15B,150.01,480.63M
+FCNCA,"First Citizens BancShares, Inc.",29.15B,"2,015.05",9.44B
+TSCO,Tractor Supply Company,29.04B,269.18,14.71B
+FCNCO,"First Citizens BancShares, Inc.",28.94B,23.60,9.44B
+EBAY,eBay Inc.,28.79B,58.88,10.19B
+WTW,Willis Towers Watson Public Limited Company,28.58B,281.46,9.69B
+FITB,Fifth Third Bancorp,28.48B,42.12,8.13B
+ANSS,"ANSYS, Inc.",28.27B,323.45,2.32B
+AXON,"Axon Enterprise, Inc.",28.02B,370.70,1.81B
+TTWO,"Take-Two Interactive Software, Inc.",27.94B,159.39,5.40B
+TCOM,Trip.com Group Limited,27.46B,42.18,6.54B
+NTAP,"NetApp, Inc.",27.40B,133.12,6.27B
+ICLR,ICON Public Limited Company,26.85B,324.16,8.33B
+VOD,Vodafone Group Public Limited Company,25.83B,9.72,39.61B
+ERIE,Erie Indemnity Company,25.58B,489.24,3.55B
+GFS,GlobalFoundries Inc.,25.42B,46.07,6.89B
+TW,Tradeweb Markets Inc.,25.04B,117.45,1.51B
+FSLR,"First Solar, Inc.",24.73B,231.07,3.76B
+ERIC,Telefonaktiebolaget LM Ericsson (publ),24.64B,7.40,23.54B
+SBAC,SBA Communications Corporation,24.43B,227.28,2.68B
+TROW,"T. Rowe Price Group, Inc.",24.40B,109.62,6.80B
+KSPI,Joint Stock Company Kaspi.kz,24.24B,127.58,4.70B
+LI,Li Auto Inc.,22.51B,21.22,18.10B
+TER,"Teradyne, Inc.",22.18B,135.94,2.70B
+WDC,Western Digital Corporation,22.10B,64.35,13.00B
+STX,Seagate Technology Holdings plc,21.95B,104.41,6.55B
+ZM,"Zoom Video Communications, Inc.",21.59B,70.14,4.59B
+CHKP,Check Point Software Technologies Ltd.,21.49B,190.31,2.49B
+PTC,PTC Inc.,21.30B,177.31,2.22B
+HBAN,Huntington Bancshares Incorporated,21.25B,14.63,6.71B
+BNTX,BioNTech SE,20.97B,88.19,2.88B
+ILMN,"Illumina, Inc.",20.93B,131.39,4.43B
+DLTR,"Dollar Tree, Inc.",20.85B,97.00,30.91B
+CINF,Cincinnati Financial Corporation,20.75B,132.81,10.65B
+BGNE,"BeiGene, Ltd.",20.57B,193.82,3.10B
+WBD,"Warner Bros. Discovery, Inc.",19.74B,8.05,39.93B
+LINE,"Lineage, Inc.",19.54B,85.82,5.33B
+FOXA,Fox Corporation,18.87B,41.01,13.98B
+RYAAY,Ryanair Holdings plc,18.86B,105.74,14.38B
+COO,"The Cooper Companies, Inc.",18.84B,94.62,3.73B
+HOOD,"Robinhood Markets, Inc.",18.68B,21.12,2.24B
+STLD,"Steel Dynamics, Inc.",18.65B,120.88,18.15B
+HOLX,"Hologic, Inc.",18.64B,80.25,3.99B
+PFG,"Principal Financial Group, Inc.",18.41B,79.48,15.65B
+FWONK,Formula One Group,18.22B,77.50,3.69B
+FOX,Fox Corporation,18.20B,38.14,13.98B
+SSNC,"SS&C Technologies Holdings, Inc.",18.17B,74.03,5.66B
+MDB,"MongoDB, Inc.",18.16B,247.61,1.77B
+ZBRA,Zebra Technologies Corporation,18.14B,351.62,4.36B
+ULTA,"Ulta Beauty, Inc.",18.07B,378.65,11.30B
+JBHT,"J.B. Hunt Transport Services, Inc.",18.05B,176.97,12.34B
+FWONA,Formula One Group,18.02B,70.44,3.69B
+EXPE,"Expedia Group, Inc.",17.98B,138.13,13.26B
+NTRS,Northern Trust Corporation,17.89B,88.70,7.61B
+DKNG,DraftKings Inc.,17.66B,36.37,4.30B
+ENTG,"Entegris, Inc.",17.56B,116.32,3.28B
+VRSN,"VeriSign, Inc.",17.50B,179.32,1.53B
+ALGN,"Align Technology, Inc.",17.48B,233.97,3.94B
+SWKS,"Skyworks Solutions, Inc.",17.44B,109.21,4.37B
+GMAB,Genmab A/S,17.36B,27.34,2.73B
+BMRN,BioMarin Pharmaceutical Inc.,17.14B,90.02,2.59B
+LPLA,LPL Financial Holdings Inc.,16.73B,223.82,10.93B
+ENPH,"Enphase Energy, Inc.",16.66B,123.00,1.42B
+OKTA,"Okta, Inc.",16.66B,99.01,2.36B
+NWS,News Corporation,16.19B,29.20,10.09B
+MANH,"Manhattan Associates, Inc.",16.08B,262.51,996.57M
+NWSA,News Corporation,15.99B,28.14,10.09B
+BSY,"Bentley Systems, Incorporated",15.92B,50.22,1.29B
+GEN,Gen Digital Inc.,15.83B,25.72,3.83B
+UTHR,United Therapeutics Corporation,15.48B,348.03,2.62B
+NBIX,"Neurocrine Biosciences, Inc.",15.43B,152.81,2.12B
+AKAM,"Akamai Technologies, Inc.",15.43B,101.83,3.93B
+NTRA,"Natera, Inc.",15.18B,122.71,1.36B
+CPB,Campbell Soup Company,15.17B,50.80,9.41B
+WMG,Warner Music Group Corp.,15.07B,29.10,6.38B
+LNT,Alliant Energy Corporation,14.88B,58.03,3.96B
+NDSN,Nordson Corporation,14.72B,257.40,2.66B
+CG,The Carlyle Group Inc.,14.34B,40.25,2.78B
+UAL,"United Airlines Holdings, Inc.",14.25B,43.32,55.64B
+RIVN,"Rivian Automotive, Inc.",14.08B,13.96,5.01B
+LOGI,Logitech International S.A.,14.05B,92.26,4.41B
+VTRS,Viatris Inc.,14.04B,11.76,15.24B
+GLPI,"Gaming and Leisure Properties, Inc.",13.92B,50.74,1.49B
+TRMB,Trimble Inc.,13.92B,56.99,3.71B
+POOL,Pool Corporation,13.72B,358.52,5.37B
+CASY,"Casey's General Stores, Inc.",13.71B,369.40,14.86B
+AZPN,"Aspen Technology, Inc.",13.68B,216.23,1.13B
+INSM,Insmed Incorporated,13.55B,78.84,328.61M
+EVRG,"Evergy, Inc.",13.46B,58.53,5.64B
+MORN,"Morningstar, Inc.",13.44B,313.83,2.17B
+IBKR,"Interactive Brokers Group, Inc.",13.43B,123.40,4.77B
+SRPT,"Sarepta Therapeutics, Inc.",13.40B,140.56,1.50B
+ARCC,Ares Capital Corporation,13.19B,20.92,2.82B
+NTNX,"Nutanix, Inc.",13.16B,53.35,2.10B
+MNDY,monday.com Ltd.,13.13B,263.42,844.78M
+FLEX,Flex Ltd.,13.08B,32.93,25.84B
+PODD,Insulet Corporation,12.96B,185.04,1.87B
+Z,"Zillow Group, Inc.",12.93B,56.35,2.07B
+REG,Regency Centers Corporation,12.93B,71.42,1.46B
+GRAB,Grab Holdings Limited,12.79B,3.23,2.58B
+RPRX,Royalty Pharma plc,12.63B,28.19,2.24B
+ZG,"Zillow Group, Inc.",12.62B,54.53,2.07B
+TTEK,"Tetra Tech, Inc.",12.62B,235.71,4.23B
+PAA,"Plains All American Pipeline, L.P.",12.51B,17.85,49.70B
+LAMR,Lamar Advertising Company,12.50B,122.19,2.16B
+FTAI,FTAI Aviation Ltd.,12.44B,121.74,1.37B
+INCY,Incyte Corporation,12.35B,64.14,3.86B
+SIRI,Sirius XM Holdings Inc.,12.32B,3.20,8.90B
+HST,"Host Hotels & Resorts, Inc.",12.23B,17.41,5.48B
+MEDP,"Medpace Holdings, Inc.",12.09B,390.91,2.03B
+CYBR,CyberArk Software Ltd.,12.08B,279.88,860.60M
+JKHY,"Jack Henry & Associates, Inc.",12.00B,164.63,2.19B
+CHRW,"C.H. Robinson Worldwide, Inc.",11.94B,101.79,17.46B
+WING,Wingstop Inc.,11.84B,403.89,545.65M
+COKE,"Coca-Cola Consolidated, Inc.",11.83B,"1,350.00",6.73B
+DOCU,"DocuSign, Inc.",11.76B,57.44,2.81B
+EWBC,"East West Bancorp, Inc.",11.74B,84.69,2.36B
+MBLY,Mobileye Global Inc.,11.68B,14.40,1.85B
+FFIV,"F5, Inc.",11.60B,199.01,2.78B
+TECH,Bio-Techne Corporation,11.47B,72.29,1.16B
+TXRH,"Texas Roadhouse, Inc.",11.24B,168.59,4.95B
+NICE,NICE Ltd.,11.24B,178.26,2.55B
+LKQ,LKQ Corporation,11.22B,42.63,14.48B
+LECO,"Lincoln Electric Holdings, Inc.",11.22B,197.98,4.09B
+EXAS,Exact Sciences Corporation,11.03B,59.70,2.61B
+MMYT,MakeMyTrip Limited,10.98B,100.00,840.31M
+QRVO,"Qorvo, Inc.",10.96B,115.52,4.01B
+SAIA,"Saia, Inc.",10.67B,402.33,3.10B
+PPC,Pilgrim's Pride Corporation,10.59B,44.67,17.81B
+LEGN,Legend Biotech Corporation,10.53B,57.50,455.99M
+APA,APA Corporation,10.53B,28.47,8.91B
+XP,XP Inc.,10.50B,19.60,2.84B
+CHDN,Churchill Downs Incorporated,10.15B,138.24,2.62B
+TEM,"Tempus AI, Inc",10.02B,64.95,595.57M
+ROKU,"Roku, Inc.",10.00B,69.15,3.75B
+SFM,"Sprouts Farmers Market, Inc.",9.80B,97.87,7.19B
+DOX,Amdocs Limited,9.76B,85.43,4.98B
+LCID,"Lucid Group, Inc.",9.74B,4.20,668.29M
+AFRM,"Affirm Holdings, Inc.",9.73B,31.46,2.11B
+BRKR,Bruker Corporation,9.72B,64.20,3.12B
+WWD,"Woodward, Inc.",9.70B,162.52,3.25B
+CHK,Chesapeake Energy Corporation,9.64B,73.44,4.10B
+MTCH,"Match Group, Inc.",9.62B,37.32,3.47B
+LNW,"Light & Wonder, Inc.",9.59B,108.14,3.08B
+HAS,"Hasbro, Inc.",9.48B,68.02,4.54B
+SMMT,Summit Therapeutics Inc.,9.48B,13.08,-
+WIX,Wix.com Ltd.,9.40B,167.97,1.65B
+CHRD,Chord Energy Corporation,9.28B,150.00,4.15B
+RGLD,"Royal Gold, Inc.",9.28B,141.15,607.22M
+DUOL,"Duolingo, Inc.",9.26B,212.57,634.49M
+CELH,"Celsius Holdings, Inc.",9.22B,39.54,1.49B
+OLED,Universal Display Corporation,9.21B,194.12,623.16M
+CART,Maplebear Inc.,9.15B,35.60,3.21B
+HTHT,H World Group Limited,9.11B,29.08,3.21B
+ESLT,Elbit Systems Ltd.,9.07B,199.00,6.31B
+HSIC,"Henry Schein, Inc.",8.97B,70.82,12.49B
+MKTX,MarketAxess Holdings Inc.,8.90B,235.82,777.51M
+WBA,"Walgreens Boots Alliance, Inc.",8.89B,10.30,145.53B
+LBRDK,Liberty Broadband Corporation,8.88B,62.13,981.00M
+PCVX,"Vaxcyte, Inc.",8.86B,79.35,-
+LBRDA,Liberty Broadband Corporation,8.85B,60.87,981.00M
+ROIV,Roivant Sciences Ltd.,8.79B,11.88,158.30M
+SEIC,SEI Investments Company,8.75B,67.37,1.99B
+PCTY,Paylocity Holding Corporation,8.69B,156.43,1.40B
+FUTU,Futu Holdings Limited,8.68B,62.92,1.22B
+OTEX,Open Text Corporation,8.64B,32.59,5.77B
+CROX,"Crocs, Inc.",8.59B,144.69,4.06B
+VFS,VinFast Auto Ltd.,8.56B,3.66,1.37B
+WYNN,"Wynn Resorts, Limited",8.51B,77.37,7.11B
+DSGX,The Descartes Systems Group Inc.,8.51B,99.50,587.67M
+ENSG,"The Ensign Group, Inc.",8.40B,148.07,3.97B
+APPF,"AppFolio, Inc.",8.32B,229.46,722.08M
+CZR,"Caesars Entertainment, Inc.",8.28B,38.29,11.39B
+AMKR,"Amkor Technology, Inc.",8.22B,33.37,6.40B
+RGEN,Repligen Corporation,8.22B,146.80,602.35M
+MKSI,"MKS Instruments, Inc.",8.19B,121.68,3.58B
+CBSH,"Commerce Bancshares, Inc.",8.18B,63.48,1.58B
+PARAA,Paramount Global,8.10B,24.20,29.27B
+SOFI,"SoFi Technologies, Inc.",8.02B,7.52,2.34B
+ASND,Ascendis Pharma A/S,8.01B,139.68,354.97M
+AGNC,AGNC Investment Corp.,7.97B,10.19,514.00M
+HALO,"Halozyme Therapeutics, Inc.",7.95B,62.72,873.30M
+DBX,"Dropbox, Inc.",7.92B,24.33,2.53B
+FSV,FirstService Corporation,7.91B,175.72,4.65B
+WFRD,Weatherford International plc,7.90B,108.01,5.44B
+ITCI,"Intra-Cellular Therapies, Inc.",7.87B,74.48,564.53M
+MTSI,"MACOM Technology Solutions Holdings, Inc.",7.72B,107.00,679.24M
+CRUS,"Cirrus Logic, Inc.",7.72B,144.52,1.85B
+ALTR,Altair Engineering Inc.,7.67B,90.41,627.21M
+AAON,"AAON, Inc.",7.66B,94.55,1.19B
+MIDD,The Middleby Corporation,7.64B,142.05,3.91B
+LSXMK,The Liberty SiriusXM Group,7.60B,23.26,8.90B
+LSXMB,The Liberty SiriusXM Group,7.59B,23.15,8.90B
+LSXMA,The Liberty SiriusXM Group,7.59B,23.24,8.90B
+UFPI,"UFP Industries, Inc.",7.59B,125.02,6.89B
+TLN,Talen Energy Corporation,7.59B,148.80,2.11B
+PARA,Paramount Global,7.57B,11.36,29.27B
+IEP,Icahn Enterprises L.P.,7.56B,15.89,10.28B
+PNFP,"Pinnacle Financial Partners, Inc.",7.53B,98.39,1.49B
+DRS,"Leonardo DRS, Inc.",7.49B,28.42,3.07B
+GTLB,GitLab Inc.,7.47B,46.98,622.22M
+SPSC,"SPS Commerce, Inc.",7.45B,198.36,583.80M
+LNTH,"Lantheus Holdings, Inc.",7.44B,107.16,1.44B
+ACHC,"Acadia Healthcare Company, Inc.",7.42B,79.91,3.06B
+AUR,"Aurora Innovation, Inc.",7.40B,4.30,-
+EXEL,"Exelixis, Inc.",7.38B,25.88,2.01B
+ZION,"Zions Bancorporation, National Association",7.37B,49.91,2.96B
+WSC,WillScot Holdings Corporation,7.34B,38.93,2.41B
+CIGI,Colliers International Group Inc.,7.31B,145.40,4.43B
+RVMD,"Revolution Medicines, Inc.",7.29B,43.64,742.00K
+BPOP,"Popular, Inc.",7.20B,99.50,2.60B
+GNTX,Gentex Corporation,7.19B,31.21,2.33B
+VKTX,"Viking Therapeutics, Inc.",7.16B,64.63,-
+WTFC,Wintrust Financial Corporation,7.16B,107.65,2.22B
+FYBR,"Frontier Communications Parent, Inc.",7.13B,28.62,5.80B
+JAZZ,Jazz Pharmaceuticals plc,7.03B,113.87,3.91B
+LBTYB,Liberty Global Ltd.,7.01B,19.79,7.59B
+LBTYK,Liberty Global Ltd.,7.01B,19.46,7.59B
+GGAL,Grupo Financiero Galicia S.A.,6.96B,34.68,6.47B
+NSIT,"Insight Enterprises, Inc.",6.95B,213.39,9.04B
+GRFS,"Grifols, S.A.",6.90B,8.58,7.30B
+CFLT,"Confluent, Inc.",6.89B,21.36,865.59M
+LBTYA,Liberty Global Ltd.,6.88B,18.84,7.59B
+IONS,"Ionis Pharmaceuticals, Inc.",6.86B,46.92,813.46M
+AAL,American Airlines Group Inc.,6.82B,10.39,53.45B
+CCCS,CCC Intelligent Solutions Holdings Inc.,6.82B,10.94,909.60M
+HCP,"HashiCorp, Inc.",6.82B,33.90,605.73M
+CGNX,Cognex Corporation,6.81B,39.69,844.00M
+LFUS,"Littelfuse, Inc.",6.77B,273.15,2.23B
+CYTK,"Cytokinetics, Incorporated",6.74B,57.32,3.13M
+FRPT,"Freshpet, Inc.",6.73B,138.84,875.14M
+BOKF,BOK Financial Corporation,6.73B,104.89,1.98B
+LSTR,"Landstar System, Inc.",6.69B,188.61,4.90B
+CVLT,"Commvault Systems, Inc.",6.67B,152.62,865.77M
+HQY,"HealthEquity, Inc.",6.67B,76.62,1.04B
+MAT,"Mattel, Inc.",6.65B,19.55,5.43B
+SAIC,Science Applications International Corporation,6.64B,129.56,7.26B
+NOVT,Novanta Inc.,6.59B,183.54,899.85M
+LSCC,Lattice Semiconductor Corporation,6.58B,47.78,627.66M
+ALAB,"Astera Labs, Inc.",6.54B,41.77,229.55M
+NVMI,Nova Ltd.,6.48B,223.01,561.68M
+REYN,Reynolds Consumer Products Inc.,6.45B,30.70,3.71B
+VRNS,"Varonis Systems, Inc.",6.42B,57.27,520.78M
+MASI,Masimo Corporation,6.38B,119.94,2.02B
+ETSY,"Etsy, Inc.",6.36B,55.40,2.77B
+BZ,Kanzhun Limited,6.26B,14.18,883.35M
+ONB,Old National Bancorp,6.25B,19.58,1.73B
+CWST,"Casella Waste Systems, Inc.",6.23B,107.10,1.43B
+BILI,Bilibili Inc.,6.19B,14.94,3.30B
+HLNE,Hamilton Lane Incorporated,6.14B,151.45,625.54M
+CHX,ChampionX Corporation,6.08B,31.94,3.70B
+OLLI,"Ollie's Bargain Outlet Holdings, Inc.",6.05B,98.89,2.15B
+NXT,Nextracker Inc.,6.04B,42.11,2.74B
+CRDO,Credo Technology Group Holding Ltd,6.02B,36.45,192.97M
+PEGA,Pegasystems Inc.,6.00B,70.22,1.49B
+BPMC,Blueprint Medicines Corporation,5.99B,94.55,362.80M
+COOP,Mr. Cooper Group Inc.,5.98B,92.76,2.13B
+RCM,R1 RCM Inc.,5.93B,14.04,2.38B
+TMDX,"TransMedics Group, Inc.",5.86B,175.66,358.76M
+EXLS,"ExlService Holdings, Inc.",5.85B,36.27,1.71B
+GLBE,Global-E Online Ltd.,5.83B,34.91,632.89M
+CACC,Credit Acceptance Corporation,5.83B,480.97,815.20M
+KRYS,"Krystal Biotech, Inc.",5.79B,201.58,166.23M
+VERX,"Vertex, Inc.",5.76B,37.06,617.83M
+FRHC,Freedom Holding Corp.,5.69B,93.75,1.16B
+QXO,"QXO, Inc.",5.69B,13.90,57.11M
+BECN,"Beacon Roofing Supply, Inc.",5.61B,90.60,9.47B
+BCPC,Balchem Corporation,5.60B,172.74,932.39M
+NXST,"Nexstar Media Group, Inc.",5.53B,171.55,4.99B
+NUVL,"Nuvalent, Inc.",5.53B,85.32,-
+MARA,"Marathon Digital Holdings, Inc.",5.50B,18.69,564.95M
+MDGL,"Madrigal Pharmaceuticals, Inc.",5.49B,252.74,14.64M
+ACT,"Enact Holdings, Inc.",5.48B,35.20,1.19B
+ALGM,"Allegro MicroSystems, Inc.",5.47B,24.99,937.99M
+SRCL,"Stericycle, Inc.",5.46B,58.86,2.63B
+SIGI,"Selective Insurance Group, Inc.",5.46B,89.80,4.55B
+OPCH,"Option Care Health, Inc.",5.44B,31.83,4.59B
+MMSI,"Merit Medical Systems, Inc.",5.43B,93.29,1.30B
+EXPO,"Exponent, Inc.",5.39B,106.26,508.47M
+CRVL,CorVel Corporation,5.39B,314.57,816.78M
+FCFS,"FirstCash Holdings, Inc.",5.30B,118.52,3.31B
+SATS,EchoStar Corporation,5.30B,19.52,16.24B
+DOOO,BRP Inc.,5.25B,71.58,7.25B
+COLB,"Columbia Banking System, Inc.",5.23B,24.97,1.85B
+RARE,Ultragenyx Pharmaceutical Inc.,5.23B,56.75,481.30M
+UBSI,"United Bankshares, Inc.",5.22B,38.69,1.01B
+AVAV,"AeroVironment, Inc.",5.20B,185.62,716.72M
+FFIN,"First Financial Bankshares, Inc.",5.20B,36.61,496.90M
+ACIW,"ACI Worldwide, Inc.",5.18B,49.48,1.53B
+TPG,TPG Inc.,5.17B,50.21,2.71B
+XRAY,DENTSPLY SIRONA Inc.,5.13B,25.31,3.90B
+RNA,"Avidity Biosciences, Inc.",5.10B,43.52,10.60M
+UMBF,UMB Financial Corporation,5.07B,104.08,1.49B
+CSWI,"CSW Industrials, Inc.",5.05B,325.18,815.66M
+RMBS,Rambus Inc.,5.02B,46.65,477.53M
+ASTS,"AST SpaceMobile, Inc.",4.98B,32.86,1.40M
+OZK,Bank OZK,4.94B,43.51,1.42B
+TENB,"Tenable Holdings, Inc.",4.93B,41.35,852.04M
+COLM,Columbia Sportswear Company,4.90B,83.74,3.39B
+APLS,"Apellis Pharmaceuticals, Inc.",4.88B,40.11,628.79M
+AVT,"Avnet, Inc.",4.87B,55.30,23.76B
+RDNT,"RadNet, Inc.",4.81B,65.00,1.71B
+RUN,Sunrun Inc.,4.81B,21.50,2.06B
+LYFT,"Lyft, Inc.",4.79B,11.68,5.10B
+ESGR,Enstar Group Limited,4.79B,326.60,1.13B
+LANC,Lancaster Colony Corporation,4.78B,173.51,1.87B
+BBIO,"BridgeBio Pharma, Inc.",4.76B,25.31,219.12M
+EEFT,"Euronet Worldwide, Inc.",4.75B,105.72,3.80B
+IMVT,"Immunovant, Inc.",4.75B,32.42,-
+NVEI,Nuvei Corporation,4.72B,33.22,1.31B
+BGC,"BGC Group, Inc.",4.72B,9.70,2.05B
+SLM,SLM Corporation,4.71B,21.65,1.68B
+FELE,"Franklin Electric Co., Inc.",4.69B,102.74,2.02B
+DYN,"Dyne Therapeutics, Inc.",4.67B,46.53,-
+OS,"OneStream, Inc.",4.63B,29.60,406.39M
+QLYS,"Qualys, Inc.",4.60B,125.06,581.08M
+ALKS,Alkermes plc,4.60B,27.95,1.51B
+PI,"Impinj, Inc.",4.60B,163.67,314.98M
+TSEM,Tower Semiconductor Ltd.,4.60B,41.43,1.39B
+VRRM,Verra Mobility Corporation,4.59B,27.85,853.10M
+ITRI,"Itron, Inc.",4.58B,101.96,2.35B
+TIGO,Millicom International Cellular S.A.,4.57B,26.68,5.84B
+CNXC,Concentrix Corporation,4.57B,69.95,8.65B
+BRZE,"Braze, Inc.",4.56B,44.86,505.48M
+FIVE,"Five Below, Inc.",4.54B,82.46,3.64B
+HWC,Hancock Whitney Corporation,4.53B,52.46,1.30B
+VLY,Valley National Bancorp,4.53B,8.89,1.65B
+IAC,IAC Inc.,4.47B,51.96,4.05B
+PECO,"Phillips Edison & Company, Inc.",4.47B,36.45,629.74M
+CAMT,Camtek Ltd.,4.44B,97.97,368.76M
+DJT,Trump Media & Technology Group Corp.,4.44B,22.81,3.43M
+WAY,Waystar Holding Corp.,4.40B,26.39,863.29M
+SHC,Sotera Health Company,4.37B,15.42,1.10B
+VNOM,"Viper Energy, Inc.",4.34B,47.41,878.51M
+CRSP,CRISPR Therapeutics AG,4.31B,48.69,202.23M
+FIZZ,National Beverage Corp.,4.29B,45.84,1.19B
+ADMA,"ADMA Biologics, Inc.",4.29B,18.40,330.24M
+STNE,StoneCo Ltd.,4.27B,13.94,2.18B
+SGRY,"Surgery Partners, Inc.",4.26B,33.69,2.89B
+CRNX,"Crinetics Pharmaceuticals, Inc.",4.25B,53.15,1.39M
+RUSHA,"Rush Enterprises, Inc.",4.22B,53.64,7.91B
+AXSM,"Axsome Therapeutics, Inc.",4.22B,87.99,291.49M
+AEIS,"Advanced Energy Industries, Inc.",4.17B,110.70,1.51B
+LOPE,"Grand Canyon Education, Inc.",4.13B,142.29,1.00B
+BLKB,"Blackbaud, Inc.",4.13B,81.77,1.14B
+RUSHB,"Rush Enterprises, Inc.",4.13B,47.80,7.91B
+PRCT,PROCEPT BioRobotics Corporation,4.12B,79.34,176.58M
+NCNO,"nCino, Inc.",4.03B,35.00,490.96M
+IPAR,"Inter Parfums, Inc.",4.02B,125.66,1.36B
+LITE,Lumentum Holdings Inc.,4.02B,59.17,1.36B
+ICUI,"ICU Medical, Inc.",3.99B,163.55,2.30B
+FORM,"FormFactor, Inc.",3.98B,51.41,705.94M
+GBDC,"Golub Capital BDC, Inc.",3.97B,14.99,664.81M
+ASO,"Academy Sports and Outdoors, Inc.",3.93B,54.49,6.14B
+SBRA,"Sabra Health Care REIT, Inc.",3.90B,16.63,665.99M
+QFIN,"Qifu Technology, Inc.",3.88B,25.02,2.35B
+IBOC,International Bancshares Corporation,3.88B,62.45,798.42M
+SANM,Sanmina Corporation,3.87B,70.76,7.60B
+POWI,"Power Integrations, Inc.",3.86B,67.90,412.90M
+IESC,"IES Holdings, Inc.",3.84B,192.43,2.76B
+SLAB,Silicon Laboratories Inc.,3.82B,118.32,542.35M
+OTTR,Otter Tail Corporation,3.80B,90.89,1.36B
+UPST,"Upstart Holdings, Inc.",3.76B,42.00,575.96M
+PAGP,"Plains GP Holdings, L.P.",3.76B,19.05,49.70B
+TFSL,TFS Financial Corporation,3.75B,13.46,305.49M
+ACLX,"Arcellx, Inc.",3.73B,69.38,144.75M
+ACLS,"Axcelis Technologies, Inc.",3.73B,114.22,1.11B
+FTDR,"Frontdoor, Inc.",3.71B,48.52,1.81B
+PTEN,"Patterson-UTI Energy, Inc.",3.66B,9.31,5.45B
+MRUS,Merus N.V.,3.66B,53.59,35.19M
+STEP,StepStone Group Inc.,3.65B,53.68,720.02M
+NEOG,Neogen Corporation,3.64B,16.78,924.22M
+CORT,Corcept Therapeutics Incorporated,3.64B,34.79,569.61M
+LLYVK,Liberty Live Group,3.63B,39.61,-
+STRL,"Sterling Infrastructure, Inc.",3.63B,118.10,2.07B
+TRMD,TORM plc,3.61B,38.32,1.63B
+LLYVA,Liberty Live Group,3.61B,38.83,-
+FRSH,Freshworks Inc.,3.61B,11.95,652.94M
+IOVA,"Iovance Biotherapeutics, Inc.",3.60B,11.87,32.77M
+ALVO,Alvotech,3.59B,11.89,308.73M
+GH,"Guardant Health, Inc.",3.57B,29.02,643.81M
+CLBT,Cellebrite DI Ltd.,3.57B,17.15,346.76M
+URBN,"Urban Outfitters, Inc.",3.56B,38.59,5.32B
+ZI,ZoomInfo Technologies Inc.,3.55B,9.72,1.23B
+VCTR,"Victory Capital Holdings, Inc.",3.55B,54.69,850.96M
+DNLI,Denali Therapeutics Inc.,3.55B,24.77,1.27M
+BANF,BancFirst Corporation,3.54B,107.06,594.14M
+AXNX,"Axonics, Inc.",3.52B,68.95,408.81M
+TGTX,"TG Therapeutics, Inc.",3.51B,24.46,346.72M
+FULT,Fulton Financial Corporation,3.51B,19.28,1.08B
+CALM,"Cal-Maine Foods, Inc.",3.50B,71.45,2.33B
+LOT,Lotus Technology Inc.,3.50B,5.17,832.97M
+AAPL,Apple Inc.,"3,448.91B",226.84,385.60B
+NVDA,NVIDIA Corporation,"3,179.31B",129.37,79.77B
+MSFT,Microsoft Corporation,"3,098.02B",416.79,245.12B
+GOOG,Alphabet Inc.,"2,048.89B",167.43,328.28B
+GOOGL,Alphabet Inc.,"2,038.78B",165.62,328.28B
+AMZN,"Amazon.com, Inc.","1,858.14B",177.04,604.33B
+META,"Meta Platforms, Inc.","1,335.74B",528.00,149.78B
+AVGO,Broadcom Inc.,774.39B,166.36,42.62B
+TSLA,"Tesla, Inc.",703.84B,220.32,95.32B
+COST,Costco Wholesale Corporation,389.78B,879.21,253.70B
+ASML,ASML Holding N.V.,360.37B,907.26,27.26B
+NFLX,"Netflix, Inc.",294.72B,686.73,36.30B
+AZN,AstraZeneca PLC,268.01B,86.66,49.13B
+AMD,"Advanced Micro Devices, Inc.",250.83B,154.98,23.28B
+ADBE,Adobe Inc.,247.55B,558.30,20.43B
+PEP,"PepsiCo, Inc.",241.57B,175.87,92.05B
+TMUS,"T-Mobile US, Inc.",231.70B,198.58,79.10B
+LIN,Linde plc,222.39B,465.74,32.82B
+CSCO,"Cisco Systems, Inc.",204.42B,50.74,53.80B
+PDD,PDD Holdings Inc.,194.25B,139.87,41.11B
+QCOM,QUALCOMM Incorporated,193.28B,173.50,37.35B
+TXN,Texas Instruments Incorporated,191.63B,209.88,16.09B
+AMGN,Amgen Inc.,176.67B,328.80,30.93B
+INTU,Intuit Inc.,173.28B,619.85,16.29B
+ISRG,"Intuitive Surgical, Inc.",172.90B,486.55,7.57B
+AMAT,"Applied Materials, Inc.",167.08B,202.67,26.85B
+CMCSA,Comcast Corporation,154.20B,39.82,121.11B
+ARM,Arm Holdings plc,142.14B,135.63,3.50B
+SNY,Sanofi,140.76B,56.21,50.44B
+HON,Honeywell International Inc.,131.55B,202.48,37.33B
+REGN,"Regeneron Pharmaceuticals, Inc.",129.43B,"1,199.12",13.49B
+BKNG,Booking Holdings Inc.,128.42B,"3,830.58",22.40B
+VRTX,Vertex Pharmaceuticals Incorporated,124.21B,481.24,10.34B
+MU,"Micron Technology, Inc.",114.04B,102.85,21.37B
+PANW,"Palo Alto Networks, Inc.",113.57B,350.75,8.03B
+ADI,"Analog Devices, Inc.",113.39B,228.39,9.70B
+LRCX,Lam Research Corporation,110.48B,847.37,14.91B
+ADP,"Automatic Data Processing, Inc.",109.94B,269.60,19.20B
+KLAC,KLA Corporation,109.94B,817.84,9.81B
+SBUX,Starbucks Corporation,106.54B,94.02,36.48B
+MELI,"MercadoLibre, Inc.",101.41B,"2,000.31",17.11B
+GILD,"Gilead Sciences, Inc.",95.52B,76.72,27.81B
+MDLZ,"Mondelez International, Inc.",95.15B,71.23,35.98B
+INTC,Intel Corporation,87.83B,20.54,55.12B
+SNPS,"Synopsys, Inc.",82.86B,539.39,6.48B
+CTAS,Cintas Corporation,79.46B,788.50,9.60B
+EQIX,"Equinix, Inc.",78.61B,827.96,8.02B
+CDNS,"Cadence Design Systems, Inc.",75.00B,273.90,4.16B
+CME,CME Group Inc.,74.56B,207.05,5.79B
+ABNB,"Airbnb, Inc.",73.90B,116.85,10.51B
+PYPL,"PayPal Holdings, Inc.",73.30B,71.70,31.03B
+WDAY,"Workday, Inc.",68.96B,259.95,7.86B
+CRWD,"CrowdStrike Holdings, Inc.",66.08B,271.54,3.28B
+CSX,CSX Corporation,65.32B,33.69,14.63B
+ORLY,"O'Reilly Automotive, Inc.",64.77B,"1,116.57",16.28B
+NXPI,NXP Semiconductors N.V.,64.35B,252.63,13.11B
+MAR,"Marriott International, Inc.",63.42B,225.26,6.47B
+MRVL,"Marvell Technology, Inc.",62.18B,71.84,5.35B
+CEG,Constellation Energy Corporation,60.97B,194.99,23.54B
+ROP,"Roper Technologies, Inc.",58.73B,547.82,6.57B
+FTNT,"Fortinet, Inc.",57.16B,74.73,5.54B
+ADSK,"Autodesk, Inc.",55.01B,255.26,5.65B
+DASH,"DoorDash, Inc.",53.01B,128.81,9.61B
+NTES,"NetEase, Inc.",52.90B,82.08,14.69B
+COIN,"Coinbase Global, Inc.",52.53B,211.40,4.50B
+AEP,"American Electric Power Company, Inc.",52.28B,98.25,19.52B
+ROST,"Ross Stores, Inc.",51.77B,155.21,21.09B
+TTD,"The Trade Desk, Inc.",51.62B,105.00,2.17B
+CPRT,"Copart, Inc.",50.77B,52.76,4.17B
+PCAR,PACCAR Inc,50.57B,96.46,35.29B
+CHTR,"Charter Communications, Inc.",49.78B,348.73,54.66B
+KDP,Keurig Dr Pepper Inc.,48.45B,35.73,15.06B
+PAYX,"Paychex, Inc.",46.82B,130.00,5.28B
+MNST,Monster Beverage Corporation,45.70B,46.65,7.39B
+MPWR,"Monolithic Power Systems, Inc.",45.65B,936.29,1.89B
+MCHP,Microchip Technology Incorporated,43.88B,81.79,6.59B
+ODFL,"Old Dominion Freight Line, Inc.",43.67B,203.77,5.97B
+KHC,The Kraft Heinz Company,43.42B,35.91,26.32B
+TEAM,Atlassian Corporation,41.60B,160.00,4.36B
+ACGL,Arch Capital Group Ltd.,40.83B,109.02,15.47B
+NDAQ,"Nasdaq, Inc.",40.52B,70.35,6.57B
+IDXX,"IDEXX Laboratories, Inc.",40.18B,488.13,3.78B
+DDOG,"Datadog, Inc.",39.52B,117.23,2.39B
+JD,"JD.com, Inc.",39.28B,26.83,152.09B
+EA,Electronic Arts Inc.,39.00B,147.62,7.30B
+FAST,Fastenal Company,39.00B,68.10,7.42B
+GEHC,GE HealthCare Technologies Inc.,38.72B,84.78,19.52B
+VRSK,"Verisk Analytics, Inc.",38.19B,268.15,2.78B
+CTSH,Cognizant Technology Solutions Corporation,38.01B,76.68,19.27B
+EXC,Exelon Corporation,37.81B,37.79,22.75B
+CCEP,Coca-Cola Europacific Partners PLC,36.12B,78.73,20.52B
+SMCI,"Super Micro Computer, Inc.",35.91B,613.24,14.94B
+ALNY,"Alnylam Pharmaceuticals, Inc.",35.00B,272.64,2.34B
+BKR,Baker Hughes Company,34.99B,35.22,27.03B
+FANG,"Diamondback Energy, Inc.",34.83B,195.22,8.85B
+LULU,Lululemon Athletica Inc.,33.57B,268.55,9.83B
+XEL,Xcel Energy Inc.,33.52B,60.12,13.78B
+ON,ON Semiconductor Corporation,32.71B,76.36,7.80B
+MRNA,"Moderna, Inc.",31.69B,82.44,5.05B
+CSGP,"CoStar Group, Inc.",31.55B,76.99,2.60B
+ARGX,argenx SE,31.10B,516.69,1.66B
+CDW,CDW Corporation,30.69B,229.74,20.94B
+FER,Ferrovial SE,30.24B,41.75,9.47B
+APP,AppLovin Corporation,30.15B,90.20,3.96B
+ZS,"Zscaler, Inc.",30.14B,199.43,2.03B
+BIDU,"Baidu, Inc.",30.05B,85.70,18.56B
+BIIB,Biogen Inc.,29.86B,205.00,9.67B
+DXCM,"DexCom, Inc.",29.68B,74.07,3.93B
+MSTR,MicroStrategy Incorporated,29.15B,150.01,480.63M
+FCNCA,"First Citizens BancShares, Inc.",29.15B,"2,015.05",9.44B
+TSCO,Tractor Supply Company,29.04B,269.18,14.71B
+FCNCO,"First Citizens BancShares, Inc.",28.94B,23.60,9.44B
+EBAY,eBay Inc.,28.79B,58.88,10.19B
+WTW,Willis Towers Watson Public Limited Company,28.58B,281.46,9.69B
+FITB,Fifth Third Bancorp,28.48B,42.12,8.13B
+ANSS,"ANSYS, Inc.",28.27B,323.45,2.32B
+AXON,"Axon Enterprise, Inc.",28.02B,370.70,1.81B
+TTWO,"Take-Two Interactive Software, Inc.",27.94B,159.39,5.40B
+TCOM,Trip.com Group Limited,27.46B,42.18,6.54B
+NTAP,"NetApp, Inc.",27.40B,133.12,6.27B
+ICLR,ICON Public Limited Company,26.85B,324.16,8.33B
+VOD,Vodafone Group Public Limited Company,25.83B,9.72,39.61B
+ERIE,Erie Indemnity Company,25.58B,489.24,3.55B
+GFS,GlobalFoundries Inc.,25.42B,46.07,6.89B
+TW,Tradeweb Markets Inc.,25.04B,117.45,1.51B
+FSLR,"First Solar, Inc.",24.73B,231.07,3.76B
+ERIC,Telefonaktiebolaget LM Ericsson (publ),24.64B,7.40,23.54B
+SBAC,SBA Communications Corporation,24.43B,227.28,2.68B
+TROW,"T. Rowe Price Group, Inc.",24.40B,109.62,6.80B
+KSPI,Joint Stock Company Kaspi.kz,24.24B,127.58,4.70B
+LI,Li Auto Inc.,22.51B,21.22,18.10B
+TER,"Teradyne, Inc.",22.18B,135.94,2.70B
+WDC,Western Digital Corporation,22.10B,64.35,13.00B
+STX,Seagate Technology Holdings plc,21.95B,104.41,6.55B
+ZM,"Zoom Video Communications, Inc.",21.59B,70.14,4.59B
+CHKP,Check Point Software Technologies Ltd.,21.49B,190.31,2.49B
+PTC,PTC Inc.,21.30B,177.31,2.22B
+HBAN,Huntington Bancshares Incorporated,21.25B,14.63,6.71B
+BNTX,BioNTech SE,20.97B,88.19,2.88B
+ILMN,"Illumina, Inc.",20.93B,131.39,4.43B
+DLTR,"Dollar Tree, Inc.",20.85B,97.00,30.91B
+CINF,Cincinnati Financial Corporation,20.75B,132.81,10.65B
+BGNE,"BeiGene, Ltd.",20.57B,193.82,3.10B
+WBD,"Warner Bros. Discovery, Inc.",19.74B,8.05,39.93B
+LINE,"Lineage, Inc.",19.54B,85.82,5.33B
+FOXA,Fox Corporation,18.87B,41.01,13.98B
+RYAAY,Ryanair Holdings plc,18.86B,105.74,14.38B
+COO,"The Cooper Companies, Inc.",18.84B,94.62,3.73B
+HOOD,"Robinhood Markets, Inc.",18.68B,21.12,2.24B
+STLD,"Steel Dynamics, Inc.",18.65B,120.88,18.15B
+HOLX,"Hologic, Inc.",18.64B,80.25,3.99B
+PFG,"Principal Financial Group, Inc.",18.41B,79.48,15.65B
+FWONK,Formula One Group,18.22B,77.50,3.69B
+FOX,Fox Corporation,18.20B,38.14,13.98B
+SSNC,"SS&C Technologies Holdings, Inc.",18.17B,74.03,5.66B
+MDB,"MongoDB, Inc.",18.16B,247.61,1.77B
+ZBRA,Zebra Technologies Corporation,18.14B,351.62,4.36B
+ULTA,"Ulta Beauty, Inc.",18.07B,378.65,11.30B
+JBHT,"J.B. Hunt Transport Services, Inc.",18.05B,176.97,12.34B
+FWONA,Formula One Group,18.02B,70.44,3.69B
+EXPE,"Expedia Group, Inc.",17.98B,138.13,13.26B
+NTRS,Northern Trust Corporation,17.89B,88.70,7.61B
+DKNG,DraftKings Inc.,17.66B,36.37,4.30B
+ENTG,"Entegris, Inc.",17.56B,116.32,3.28B
+VRSN,"VeriSign, Inc.",17.50B,179.32,1.53B
+ALGN,"Align Technology, Inc.",17.48B,233.97,3.94B
+SWKS,"Skyworks Solutions, Inc.",17.44B,109.21,4.37B
+GMAB,Genmab A/S,17.36B,27.34,2.73B
+BMRN,BioMarin Pharmaceutical Inc.,17.14B,90.02,2.59B
+LPLA,LPL Financial Holdings Inc.,16.73B,223.82,10.93B
+ENPH,"Enphase Energy, Inc.",16.66B,123.00,1.42B
+OKTA,"Okta, Inc.",16.66B,99.01,2.36B
+NWS,News Corporation,16.19B,29.20,10.09B
+MANH,"Manhattan Associates, Inc.",16.08B,262.51,996.57M
+NWSA,News Corporation,15.99B,28.14,10.09B
+BSY,"Bentley Systems, Incorporated",15.92B,50.22,1.29B
+GEN,Gen Digital Inc.,15.83B,25.72,3.83B
+UTHR,United Therapeutics Corporation,15.48B,348.03,2.62B
+NBIX,"Neurocrine Biosciences, Inc.",15.43B,152.81,2.12B
+AKAM,"Akamai Technologies, Inc.",15.43B,101.83,3.93B
+NTRA,"Natera, Inc.",15.18B,122.71,1.36B
+CPB,Campbell Soup Company,15.17B,50.80,9.41B
+WMG,Warner Music Group Corp.,15.07B,29.10,6.38B
+LNT,Alliant Energy Corporation,14.88B,58.03,3.96B
+NDSN,Nordson Corporation,14.72B,257.40,2.66B
+CG,The Carlyle Group Inc.,14.34B,40.25,2.78B
+UAL,"United Airlines Holdings, Inc.",14.25B,43.32,55.64B
+RIVN,"Rivian Automotive, Inc.",14.08B,13.96,5.01B
+LOGI,Logitech International S.A.,14.05B,92.26,4.41B
+VTRS,Viatris Inc.,14.04B,11.76,15.24B
+GLPI,"Gaming and Leisure Properties, Inc.",13.92B,50.74,1.49B
+TRMB,Trimble Inc.,13.92B,56.99,3.71B
+POOL,Pool Corporation,13.72B,358.52,5.37B
+CASY,"Casey's General Stores, Inc.",13.71B,369.40,14.86B
+AZPN,"Aspen Technology, Inc.",13.68B,216.23,1.13B
+INSM,Insmed Incorporated,13.55B,78.84,328.61M
+EVRG,"Evergy, Inc.",13.46B,58.53,5.64B
+MORN,"Morningstar, Inc.",13.44B,313.83,2.17B
+IBKR,"Interactive Brokers Group, Inc.",13.43B,123.40,4.77B
+SRPT,"Sarepta Therapeutics, Inc.",13.40B,140.56,1.50B
+ARCC,Ares Capital Corporation,13.19B,20.92,2.82B
+NTNX,"Nutanix, Inc.",13.16B,53.35,2.10B
+MNDY,monday.com Ltd.,13.13B,263.42,844.78M
+FLEX,Flex Ltd.,13.08B,32.93,25.84B
+PODD,Insulet Corporation,12.96B,185.04,1.87B
+Z,"Zillow Group, Inc.",12.93B,56.35,2.07B
+REG,Regency Centers Corporation,12.93B,71.42,1.46B
+GRAB,Grab Holdings Limited,12.79B,3.23,2.58B
+RPRX,Royalty Pharma plc,12.63B,28.19,2.24B
+ZG,"Zillow Group, Inc.",12.62B,54.53,2.07B
+TTEK,"Tetra Tech, Inc.",12.62B,235.71,4.23B
+PAA,"Plains All American Pipeline, L.P.",12.51B,17.85,49.70B
+LAMR,Lamar Advertising Company,12.50B,122.19,2.16B
+FTAI,FTAI Aviation Ltd.,12.44B,121.74,1.37B
+INCY,Incyte Corporation,12.35B,64.14,3.86B
+SIRI,Sirius XM Holdings Inc.,12.32B,3.20,8.90B
+HST,"Host Hotels & Resorts, Inc.",12.23B,17.41,5.48B
+MEDP,"Medpace Holdings, Inc.",12.09B,390.91,2.03B
+CYBR,CyberArk Software Ltd.,12.08B,279.88,860.60M
+JKHY,"Jack Henry & Associates, Inc.",12.00B,164.63,2.19B
+CHRW,"C.H. Robinson Worldwide, Inc.",11.94B,101.79,17.46B
+WING,Wingstop Inc.,11.84B,403.89,545.65M
+COKE,"Coca-Cola Consolidated, Inc.",11.83B,"1,350.00",6.73B
+DOCU,"DocuSign, Inc.",11.76B,57.44,2.81B
+EWBC,"East West Bancorp, Inc.",11.74B,84.69,2.36B
+MBLY,Mobileye Global Inc.,11.68B,14.40,1.85B
+FFIV,"F5, Inc.",11.60B,199.01,2.78B
+TECH,Bio-Techne Corporation,11.47B,72.29,1.16B
+TXRH,"Texas Roadhouse, Inc.",11.24B,168.59,4.95B
+NICE,NICE Ltd.,11.24B,178.26,2.55B
+LKQ,LKQ Corporation,11.22B,42.63,14.48B
+LECO,"Lincoln Electric Holdings, Inc.",11.22B,197.98,4.09B
+EXAS,Exact Sciences Corporation,11.03B,59.70,2.61B
+MMYT,MakeMyTrip Limited,10.98B,100.00,840.31M
+QRVO,"Qorvo, Inc.",10.96B,115.52,4.01B
+SAIA,"Saia, Inc.",10.67B,402.33,3.10B
+PPC,Pilgrim's Pride Corporation,10.59B,44.67,17.81B
+LEGN,Legend Biotech Corporation,10.53B,57.50,455.99M
+APA,APA Corporation,10.53B,28.47,8.91B
+XP,XP Inc.,10.50B,19.60,2.84B
+CHDN,Churchill Downs Incorporated,10.15B,138.24,2.62B
+TEM,"Tempus AI, Inc",10.02B,64.95,595.57M
+ROKU,"Roku, Inc.",10.00B,69.15,3.75B
+SFM,"Sprouts Farmers Market, Inc.",9.80B,97.87,7.19B
+DOX,Amdocs Limited,9.76B,85.43,4.98B
+LCID,"Lucid Group, Inc.",9.74B,4.20,668.29M
+AFRM,"Affirm Holdings, Inc.",9.73B,31.46,2.11B
+BRKR,Bruker Corporation,9.72B,64.20,3.12B
+WWD,"Woodward, Inc.",9.70B,162.52,3.25B
+CHK,Chesapeake Energy Corporation,9.64B,73.44,4.10B
+MTCH,"Match Group, Inc.",9.62B,37.32,3.47B
+LNW,"Light & Wonder, Inc.",9.59B,108.14,3.08B
+HAS,"Hasbro, Inc.",9.48B,68.02,4.54B
+SMMT,Summit Therapeutics Inc.,9.48B,13.08,-
+WIX,Wix.com Ltd.,9.40B,167.97,1.65B
+CHRD,Chord Energy Corporation,9.28B,150.00,4.15B
+RGLD,"Royal Gold, Inc.",9.28B,141.15,607.22M
+DUOL,"Duolingo, Inc.",9.26B,212.57,634.49M
+CELH,"Celsius Holdings, Inc.",9.22B,39.54,1.49B
+OLED,Universal Display Corporation,9.21B,194.12,623.16M
+CART,Maplebear Inc.,9.15B,35.60,3.21B
+HTHT,H World Group Limited,9.11B,29.08,3.21B
+ESLT,Elbit Systems Ltd.,9.07B,199.00,6.31B
+HSIC,"Henry Schein, Inc.",8.97B,70.82,12.49B
+MKTX,MarketAxess Holdings Inc.,8.90B,235.82,777.51M
+WBA,"Walgreens Boots Alliance, Inc.",8.89B,10.30,145.53B
+LBRDK,Liberty Broadband Corporation,8.88B,62.13,981.00M
+PCVX,"Vaxcyte, Inc.",8.86B,79.35,-
+LBRDA,Liberty Broadband Corporation,8.85B,60.87,981.00M
+ROIV,Roivant Sciences Ltd.,8.79B,11.88,158.30M
+SEIC,SEI Investments Company,8.75B,67.37,1.99B
+PCTY,Paylocity Holding Corporation,8.69B,156.43,1.40B
+FUTU,Futu Holdings Limited,8.68B,62.92,1.22B
+OTEX,Open Text Corporation,8.64B,32.59,5.77B
+CROX,"Crocs, Inc.",8.59B,144.69,4.06B
+VFS,VinFast Auto Ltd.,8.56B,3.66,1.37B
+WYNN,"Wynn Resorts, Limited",8.51B,77.37,7.11B
+DSGX,The Descartes Systems Group Inc.,8.51B,99.50,587.67M
+ENSG,"The Ensign Group, Inc.",8.40B,148.07,3.97B
+APPF,"AppFolio, Inc.",8.32B,229.46,722.08M
+CZR,"Caesars Entertainment, Inc.",8.28B,38.29,11.39B
+AMKR,"Amkor Technology, Inc.",8.22B,33.37,6.40B
+RGEN,Repligen Corporation,8.22B,146.80,602.35M
+MKSI,"MKS Instruments, Inc.",8.19B,121.68,3.58B
+CBSH,"Commerce Bancshares, Inc.",8.18B,63.48,1.58B
+PARAA,Paramount Global,8.10B,24.20,29.27B
+SOFI,"SoFi Technologies, Inc.",8.02B,7.52,2.34B
+ASND,Ascendis Pharma A/S,8.01B,139.68,354.97M
+AGNC,AGNC Investment Corp.,7.97B,10.19,514.00M
+HALO,"Halozyme Therapeutics, Inc.",7.95B,62.72,873.30M
+DBX,"Dropbox, Inc.",7.92B,24.33,2.53B
+FSV,FirstService Corporation,7.91B,175.72,4.65B
+WFRD,Weatherford International plc,7.90B,108.01,5.44B
+ITCI,"Intra-Cellular Therapies, Inc.",7.87B,74.48,564.53M
+MTSI,"MACOM Technology Solutions Holdings, Inc.",7.72B,107.00,679.24M
+CRUS,"Cirrus Logic, Inc.",7.72B,144.52,1.85B
+ALTR,Altair Engineering Inc.,7.67B,90.41,627.21M
+AAON,"AAON, Inc.",7.66B,94.55,1.19B
+MIDD,The Middleby Corporation,7.64B,142.05,3.91B
+LSXMK,The Liberty SiriusXM Group,7.60B,23.26,8.90B
+LSXMB,The Liberty SiriusXM Group,7.59B,23.15,8.90B
+LSXMA,The Liberty SiriusXM Group,7.59B,23.24,8.90B
+UFPI,"UFP Industries, Inc.",7.59B,125.02,6.89B
+TLN,Talen Energy Corporation,7.59B,148.80,2.11B
+PARA,Paramount Global,7.57B,11.36,29.27B
+IEP,Icahn Enterprises L.P.,7.56B,15.89,10.28B
+PNFP,"Pinnacle Financial Partners, Inc.",7.53B,98.39,1.49B
+DRS,"Leonardo DRS, Inc.",7.49B,28.42,3.07B
+GTLB,GitLab Inc.,7.47B,46.98,622.22M
+SPSC,"SPS Commerce, Inc.",7.45B,198.36,583.80M
+LNTH,"Lantheus Holdings, Inc.",7.44B,107.16,1.44B
+ACHC,"Acadia Healthcare Company, Inc.",7.42B,79.91,3.06B
+AUR,"Aurora Innovation, Inc.",7.40B,4.30,-
+EXEL,"Exelixis, Inc.",7.38B,25.88,2.01B
+ZION,"Zions Bancorporation, National Association",7.37B,49.91,2.96B
+WSC,WillScot Holdings Corporation,7.34B,38.93,2.41B
+CIGI,Colliers International Group Inc.,7.31B,145.40,4.43B
+RVMD,"Revolution Medicines, Inc.",7.29B,43.64,742.00K
+BPOP,"Popular, Inc.",7.20B,99.50,2.60B
+GNTX,Gentex Corporation,7.19B,31.21,2.33B
+VKTX,"Viking Therapeutics, Inc.",7.16B,64.63,-
+WTFC,Wintrust Financial Corporation,7.16B,107.65,2.22B
+FYBR,"Frontier Communications Parent, Inc.",7.13B,28.62,5.80B
+JAZZ,Jazz Pharmaceuticals plc,7.03B,113.87,3.91B
+LBTYB,Liberty Global Ltd.,7.01B,19.79,7.59B
+LBTYK,Liberty Global Ltd.,7.01B,19.46,7.59B
+GGAL,Grupo Financiero Galicia S.A.,6.96B,34.68,6.47B
+NSIT,"Insight Enterprises, Inc.",6.95B,213.39,9.04B
+GRFS,"Grifols, S.A.",6.90B,8.58,7.30B
+CFLT,"Confluent, Inc.",6.89B,21.36,865.59M
+LBTYA,Liberty Global Ltd.,6.88B,18.84,7.59B
+IONS,"Ionis Pharmaceuticals, Inc.",6.86B,46.92,813.46M
+AAL,American Airlines Group Inc.,6.82B,10.39,53.45B
+CCCS,CCC Intelligent Solutions Holdings Inc.,6.82B,10.94,909.60M
+HCP,"HashiCorp, Inc.",6.82B,33.90,605.73M
+CGNX,Cognex Corporation,6.81B,39.69,844.00M
+LFUS,"Littelfuse, Inc.",6.77B,273.15,2.23B
+CYTK,"Cytokinetics, Incorporated",6.74B,57.32,3.13M
+FRPT,"Freshpet, Inc.",6.73B,138.84,875.14M
+BOKF,BOK Financial Corporation,6.73B,104.89,1.98B
+LSTR,"Landstar System, Inc.",6.69B,188.61,4.90B
+CVLT,"Commvault Systems, Inc.",6.67B,152.62,865.77M
+HQY,"HealthEquity, Inc.",6.67B,76.62,1.04B
+MAT,"Mattel, Inc.",6.65B,19.55,5.43B
+SAIC,Science Applications International Corporation,6.64B,129.56,7.26B
+NOVT,Novanta Inc.,6.59B,183.54,899.85M
+LSCC,Lattice Semiconductor Corporation,6.58B,47.78,627.66M
+ALAB,"Astera Labs, Inc.",6.54B,41.77,229.55M
+NVMI,Nova Ltd.,6.48B,223.01,561.68M
+REYN,Reynolds Consumer Products Inc.,6.45B,30.70,3.71B
+VRNS,"Varonis Systems, Inc.",6.42B,57.27,520.78M
+MASI,Masimo Corporation,6.38B,119.94,2.02B
+ETSY,"Etsy, Inc.",6.36B,55.40,2.77B
+BZ,Kanzhun Limited,6.26B,14.18,883.35M
+ONB,Old National Bancorp,6.25B,19.58,1.73B
+CWST,"Casella Waste Systems, Inc.",6.23B,107.10,1.43B
+BILI,Bilibili Inc.,6.19B,14.94,3.30B
+HLNE,Hamilton Lane Incorporated,6.14B,151.45,625.54M
+CHX,ChampionX Corporation,6.08B,31.94,3.70B
+OLLI,"Ollie's Bargain Outlet Holdings, Inc.",6.05B,98.89,2.15B
+NXT,Nextracker Inc.,6.04B,42.11,2.74B
+CRDO,Credo Technology Group Holding Ltd,6.02B,36.45,192.97M
+PEGA,Pegasystems Inc.,6.00B,70.22,1.49B
+BPMC,Blueprint Medicines Corporation,5.99B,94.55,362.80M
+COOP,Mr. Cooper Group Inc.,5.98B,92.76,2.13B
+RCM,R1 RCM Inc.,5.93B,14.04,2.38B
+TMDX,"TransMedics Group, Inc.",5.86B,175.66,358.76M
+EXLS,"ExlService Holdings, Inc.",5.85B,36.27,1.71B
+GLBE,Global-E Online Ltd.,5.83B,34.91,632.89M
+CACC,Credit Acceptance Corporation,5.83B,480.97,815.20M
+KRYS,"Krystal Biotech, Inc.",5.79B,201.58,166.23M
+VERX,"Vertex, Inc.",5.76B,37.06,617.83M
+FRHC,Freedom Holding Corp.,5.69B,93.75,1.16B
+QXO,"QXO, Inc.",5.69B,13.90,57.11M
+BECN,"Beacon Roofing Supply, Inc.",5.61B,90.60,9.47B
+BCPC,Balchem Corporation,5.60B,172.74,932.39M
+NXST,"Nexstar Media Group, Inc.",5.53B,171.55,4.99B
+NUVL,"Nuvalent, Inc.",5.53B,85.32,-
+MARA,"Marathon Digital Holdings, Inc.",5.50B,18.69,564.95M
+MDGL,"Madrigal Pharmaceuticals, Inc.",5.49B,252.74,14.64M
+ACT,"Enact Holdings, Inc.",5.48B,35.20,1.19B
+ALGM,"Allegro MicroSystems, Inc.",5.47B,24.99,937.99M
+SRCL,"Stericycle, Inc.",5.46B,58.86,2.63B
+SIGI,"Selective Insurance Group, Inc.",5.46B,89.80,4.55B
+OPCH,"Option Care Health, Inc.",5.44B,31.83,4.59B
+MMSI,"Merit Medical Systems, Inc.",5.43B,93.29,1.30B
+EXPO,"Exponent, Inc.",5.39B,106.26,508.47M
+CRVL,CorVel Corporation,5.39B,314.57,816.78M
+FCFS,"FirstCash Holdings, Inc.",5.30B,118.52,3.31B
+SATS,EchoStar Corporation,5.30B,19.52,16.24B
+DOOO,BRP Inc.,5.25B,71.58,7.25B
+COLB,"Columbia Banking System, Inc.",5.23B,24.97,1.85B
+RARE,Ultragenyx Pharmaceutical Inc.,5.23B,56.75,481.30M
+UBSI,"United Bankshares, Inc.",5.22B,38.69,1.01B
+AVAV,"AeroVironment, Inc.",5.20B,185.62,716.72M
+FFIN,"First Financial Bankshares, Inc.",5.20B,36.61,496.90M
+ACIW,"ACI Worldwide, Inc.",5.18B,49.48,1.53B
+TPG,TPG Inc.,5.17B,50.21,2.71B
+XRAY,DENTSPLY SIRONA Inc.,5.13B,25.31,3.90B
+RNA,"Avidity Biosciences, Inc.",5.10B,43.52,10.60M
+UMBF,UMB Financial Corporation,5.07B,104.08,1.49B
+CSWI,"CSW Industrials, Inc.",5.05B,325.18,815.66M
+RMBS,Rambus Inc.,5.02B,46.65,477.53M
+ASTS,"AST SpaceMobile, Inc.",4.98B,32.86,1.40M
+OZK,Bank OZK,4.94B,43.51,1.42B
+TENB,"Tenable Holdings, Inc.",4.93B,41.35,852.04M
+COLM,Columbia Sportswear Company,4.90B,83.74,3.39B
+APLS,"Apellis Pharmaceuticals, Inc.",4.88B,40.11,628.79M
+AVT,"Avnet, Inc.",4.87B,55.30,23.76B
+RDNT,"RadNet, Inc.",4.81B,65.00,1.71B
+RUN,Sunrun Inc.,4.81B,21.50,2.06B
+LYFT,"Lyft, Inc.",4.79B,11.68,5.10B
+ESGR,Enstar Group Limited,4.79B,326.60,1.13B
+LANC,Lancaster Colony Corporation,4.78B,173.51,1.87B
+BBIO,"BridgeBio Pharma, Inc.",4.76B,25.31,219.12M
+EEFT,"Euronet Worldwide, Inc.",4.75B,105.72,3.80B
+IMVT,"Immunovant, Inc.",4.75B,32.42,-
+NVEI,Nuvei Corporation,4.72B,33.22,1.31B
+BGC,"BGC Group, Inc.",4.72B,9.70,2.05B
+SLM,SLM Corporation,4.71B,21.65,1.68B
+FELE,"Franklin Electric Co., Inc.",4.69B,102.74,2.02B
+DYN,"Dyne Therapeutics, Inc.",4.67B,46.53,-
+OS,"OneStream, Inc.",4.63B,29.60,406.39M
+QLYS,"Qualys, Inc.",4.60B,125.06,581.08M
+ALKS,Alkermes plc,4.60B,27.95,1.51B
+PI,"Impinj, Inc.",4.60B,163.67,314.98M
+TSEM,Tower Semiconductor Ltd.,4.60B,41.43,1.39B
+VRRM,Verra Mobility Corporation,4.59B,27.85,853.10M
+ITRI,"Itron, Inc.",4.58B,101.96,2.35B
+TIGO,Millicom International Cellular S.A.,4.57B,26.68,5.84B
+CNXC,Concentrix Corporation,4.57B,69.95,8.65B
+BRZE,"Braze, Inc.",4.56B,44.86,505.48M
+FIVE,"Five Below, Inc.",4.54B,82.46,3.64B
+HWC,Hancock Whitney Corporation,4.53B,52.46,1.30B
+VLY,Valley National Bancorp,4.53B,8.89,1.65B
+IAC,IAC Inc.,4.47B,51.96,4.05B
+PECO,"Phillips Edison & Company, Inc.",4.47B,36.45,629.74M
+CAMT,Camtek Ltd.,4.44B,97.97,368.76M
+DJT,Trump Media & Technology Group Corp.,4.44B,22.81,3.43M
+WAY,Waystar Holding Corp.,4.40B,26.39,863.29M
+SHC,Sotera Health Company,4.37B,15.42,1.10B
+VNOM,"Viper Energy, Inc.",4.34B,47.41,878.51M
+CRSP,CRISPR Therapeutics AG,4.31B,48.69,202.23M
+FIZZ,National Beverage Corp.,4.29B,45.84,1.19B
+ADMA,"ADMA Biologics, Inc.",4.29B,18.40,330.24M
+STNE,StoneCo Ltd.,4.27B,13.94,2.18B
+SGRY,"Surgery Partners, Inc.",4.26B,33.69,2.89B
+CRNX,"Crinetics Pharmaceuticals, Inc.",4.25B,53.15,1.39M
+RUSHA,"Rush Enterprises, Inc.",4.22B,53.64,7.91B
+AXSM,"Axsome Therapeutics, Inc.",4.22B,87.99,291.49M
+AEIS,"Advanced Energy Industries, Inc.",4.17B,110.70,1.51B
+LOPE,"Grand Canyon Education, Inc.",4.13B,142.29,1.00B
+BLKB,"Blackbaud, Inc.",4.13B,81.77,1.14B
+RUSHB,"Rush Enterprises, Inc.",4.13B,47.80,7.91B
+PRCT,PROCEPT BioRobotics Corporation,4.12B,79.34,176.58M
+NCNO,"nCino, Inc.",4.03B,35.00,490.96M
+IPAR,"Inter Parfums, Inc.",4.02B,125.66,1.36B
+LITE,Lumentum Holdings Inc.,4.02B,59.17,1.36B
+ICUI,"ICU Medical, Inc.",3.99B,163.55,2.30B
+FORM,"FormFactor, Inc.",3.98B,51.41,705.94M
+GBDC,"Golub Capital BDC, Inc.",3.97B,14.99,664.81M
+ASO,"Academy Sports and Outdoors, Inc.",3.93B,54.49,6.14B
+SBRA,"Sabra Health Care REIT, Inc.",3.90B,16.63,665.99M
+QFIN,"Qifu Technology, Inc.",3.88B,25.02,2.35B
+IBOC,International Bancshares Corporation,3.88B,62.45,798.42M
+SANM,Sanmina Corporation,3.87B,70.76,7.60B
+POWI,"Power Integrations, Inc.",3.86B,67.90,412.90M
+IESC,"IES Holdings, Inc.",3.84B,192.43,2.76B
+SLAB,Silicon Laboratories Inc.,3.82B,118.32,542.35M
+OTTR,Otter Tail Corporation,3.80B,90.89,1.36B
+UPST,"Upstart Holdings, Inc.",3.76B,42.00,575.96M
+PAGP,"Plains GP Holdings, L.P.",3.76B,19.05,49.70B
+TFSL,TFS Financial Corporation,3.75B,13.46,305.49M
+ACLX,"Arcellx, Inc.",3.73B,69.38,144.75M
+ACLS,"Axcelis Technologies, Inc.",3.73B,114.22,1.11B
+FTDR,"Frontdoor, Inc.",3.71B,48.52,1.81B
+PTEN,"Patterson-UTI Energy, Inc.",3.66B,9.31,5.45B
+MRUS,Merus N.V.,3.66B,53.59,35.19M
+STEP,StepStone Group Inc.,3.65B,53.68,720.02M
+NEOG,Neogen Corporation,3.64B,16.78,924.22M
+CORT,Corcept Therapeutics Incorporated,3.64B,34.79,569.61M
+LLYVK,Liberty Live Group,3.63B,39.61,-
+STRL,"Sterling Infrastructure, Inc.",3.63B,118.10,2.07B
+TRMD,TORM plc,3.61B,38.32,1.63B
+LLYVA,Liberty Live Group,3.61B,38.83,-
+FRSH,Freshworks Inc.,3.61B,11.95,652.94M
+IOVA,"Iovance Biotherapeutics, Inc.",3.60B,11.87,32.77M
+ALVO,Alvotech,3.59B,11.89,308.73M
+GH,"Guardant Health, Inc.",3.57B,29.02,643.81M
+CLBT,Cellebrite DI Ltd.,3.57B,17.15,346.76M
+URBN,"Urban Outfitters, Inc.",3.56B,38.59,5.32B
+ZI,ZoomInfo Technologies Inc.,3.55B,9.72,1.23B
+VCTR,"Victory Capital Holdings, Inc.",3.55B,54.69,850.96M
+DNLI,Denali Therapeutics Inc.,3.55B,24.77,1.27M
+BANF,BancFirst Corporation,3.54B,107.06,594.14M
+AXNX,"Axonics, Inc.",3.52B,68.95,408.81M
+TGTX,"TG Therapeutics, Inc.",3.51B,24.46,346.72M
+FULT,Fulton Financial Corporation,3.51B,19.28,1.08B
+CALM,"Cal-Maine Foods, Inc.",3.50B,71.45,2.33B
+LOT,Lotus Technology Inc.,3.50B,5.17,832.97M
+SRAD,Sportradar Group AG,3.49B,11.71,1.07B
+FOLD,"Amicus Therapeutics, Inc.",3.49B,11.76,455.66M
+PLXS,Plexus Corp.,3.49B,128.04,3.93B
+PCH,PotlatchDeltic Corporation,3.48B,44.16,1.07B
+RKLB,"Rocket Lab USA, Inc.",3.46B,6.96,326.67M
+CCOI,"Cogent Communications Holdings, Inc.",3.46B,72.93,999.44M
+DORM,"Dorman Products, Inc.",3.44B,111.89,1.95B
+KTOS,"Kratos Defense & Security Solutions, Inc.",3.44B,22.77,1.13B
+WEN,The Wendy's Company,3.43B,16.90,2.20B
+WDFC,WD-40 Company,3.42B,252.40,575.02M
+GLNG,Golar LNG Limited,3.42B,32.84,276.58M
+ROAD,"Construction Partners, Inc.",3.41B,64.67,1.76B
+IDCC,"InterDigital, Inc.",3.39B,135.08,732.66M
+CVCO,"Cavco Industries, Inc.",3.38B,409.16,1.80B
+EBC,"Eastern Bankshares, Inc.",3.37B,16.64,601.89M
+INTR,"Inter & Co, Inc.",3.36B,7.65,690.49M
+SITM,SiTime Corporation,3.35B,144.75,154.81M
+IDYA,"IDEAYA Biosciences, Inc.",3.34B,39.49,11.96M
+ALKT,"Alkami Technology, Inc.",3.34B,33.70,297.36M
+RRR,"Red Rock Resorts, Inc.",3.32B,56.25,1.85B
+NWE,"NorthWestern Energy Group, Inc.",3.31B,54.04,1.47B
+DIOD,Diodes Incorporated,3.30B,71.28,1.35B
+WSFS,WSFS Financial Corporation,3.28B,55.37,959.60M
+SHOO,"Steven Madden, Ltd.",3.28B,45.16,2.15B
+JJSF,J&J Snack Foods Corp.,3.26B,167.99,1.59B
+GDS,GDS Holdings Limited,3.24B,16.69,1.45B
+CATY,Cathay General Bancorp,3.24B,44.84,735.21M
+FIBK,"First Interstate BancSystem, Inc.",3.21B,30.73,974.90M
+INTA,"Intapp, Inc.",3.21B,43.75,430.52M
+SMPL,The Simply Good Foods Company,3.20B,31.96,1.28B
+AMED,"Amedisys, Inc.",3.19B,97.56,2.29B
+SYNA,Synaptics Incorporated,3.19B,80.54,959.40M
+NMIH,"NMI Holdings, Inc.",3.17B,39.80,617.91M
+BL,"BlackLine, Inc.",3.16B,50.83,624.41M
+ACVA,ACV Auctions Inc.,3.16B,18.96,543.70M
+TCBI,"Texas Capital Bancshares, Inc.",3.16B,68.35,972.13M
+MGEE,"MGE Energy, Inc.",3.16B,87.24,645.73M
+IPGP,IPG Photonics Corporation,3.14B,71.05,1.11B
+IRDM,Iridium Communications Inc.,3.14B,26.53,797.26M
+CAR,"Avis Budget Group, Inc.",3.14B,87.92,11.93B
+MLTX,MoonLake Immunotherapeutics,3.13B,49.77,-
+CLSK,"CleanSpark, Inc.",3.13B,12.61,342.21M
+GDRX,"GoodRx Holdings, Inc.",3.12B,8.23,775.09M
+MEOH,Methanex Corporation,3.11B,46.05,3.58B
+FHB,"First Hawaiian, Inc.",3.10B,24.26,802.87M
+XENE,Xenon Pharmaceuticals Inc.,3.09B,40.76,-
+ARWR,"Arrowhead Pharmaceuticals, Inc.",3.08B,24.78,19.65M
+ARLP,"Alliance Resource Partners, L.P.",3.08B,24.05,2.51B
+NWL,Newell Brands Inc.,3.08B,7.40,7.81B
+SKYW,"SkyWest, Inc.",3.06B,76.29,3.19B
+ICFI,"ICF International, Inc.",3.06B,163.09,1.99B
+SWTX,"SpringWorks Therapeutics, Inc.",3.05B,41.15,86.19M
+KYMR,"Kymera Therapeutics, Inc.",3.05B,47.78,88.55M
+AGYS,"Agilysys, Inc.",3.04B,110.40,244.92M
+ALRM,"Alarm.com Holdings, Inc.",3.04B,61.67,905.18M
+QDEL,QuidelOrtho Corporation,3.03B,45.01,2.83B
+OMAB,"Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",3.00B,62.23,814.04M
+WAFD,"WaFd, Inc.",3.00B,36.89,666.87M
+PATK,"Patrick Industries, Inc.",2.98B,132.98,3.60B
+HCM,HUTCHMED (China) Limited,2.97B,17.26,610.81M
+CARG,"CarGurus, Inc.",2.97B,28.72,877.03M
+BWIN,"The Baldwin Insurance Group, Inc.",2.97B,44.46,1.31B
+IBRX,"ImmunityBio, Inc.",2.96B,4.25,1.31M
+LIF,"Life360, Inc.",2.94B,40.24,328.68M
+PENN,"PENN Entertainment, Inc.",2.93B,19.57,6.28B
+FROG,JFrog Ltd.,2.93B,26.51,389.25M
+TNDM,"Tandem Diabetes Care, Inc.",2.92B,44.60,796.00M
+PLTK,Playtika Holding Corp.,2.91B,7.83,2.55B
+IOSP,Innospec Inc.,2.84B,113.69,1.89B
+TXG,"10x Genomics, Inc.",2.83B,23.49,631.73M
+APGE,"Apogee Therapeutics, Inc.",2.83B,48.36,-
+RYTM,"Rhythm Pharmaceuticals, Inc.",2.82B,46.12,101.78M
+VC,Visteon Corporation,2.79B,100.90,3.95B
+CORZ,"Core Scientific, Inc.",2.78B,10.76,575.23M
+SMTC,Semtech Corporation,2.77B,36.91,838.32M
+FA,First Advantage Corporation,2.76B,18.99,756.89M
+CRTO,Criteo S.A.,2.76B,49.30,1.96B
+BHF,"Brighthouse Financial, Inc.",2.76B,45.37,4.01B
+BATRA,"Atlanta Braves Holdings, Inc.",2.74B,46.24,659.53M
+GERN,Geron Corporation,2.74B,4.54,1.37M
+HUBG,"Hub Group, Inc.",2.72B,43.69,4.00B
+MQ,"Marqeta, Inc.",2.71B,5.34,470.95M
+BATRK,"Atlanta Braves Holdings, Inc.",2.71B,43.74,659.53M
+PSMT,"PriceSmart, Inc.",2.71B,89.30,4.81B
+RELY,"Remitly Global, Inc.",2.69B,13.78,1.08B
+PAYO,Payoneer Global Inc.,2.68B,7.03,900.06M
+MGRC,McGrath RentCorp,2.68B,109.13,865.53M
+INDB,Independent Bank Corp.,2.68B,62.99,677.67M
+SFNC,Simmons First National Corporation,2.67B,21.30,727.05M
+CENT,Central Garden & Pet Company,2.67B,39.63,3.28B
+LGIH,"LGI Homes, Inc.",2.65B,112.85,2.22B
+NFE,New Fortress Energy Inc.,2.65B,12.90,2.36B
+ACAD,ACADIA Pharmaceuticals Inc.,2.64B,15.94,890.53M
+PRFT,"Perficient, Inc.",2.64B,75.14,882.15M
+AGIO,"Agios Pharmaceuticals, Inc.",2.63B,46.22,31.31M
+PTCT,"PTC Therapeutics, Inc.",2.63B,34.15,900.45M
+ARCB,ArcBest Corporation,2.63B,111.06,4.33B
+VIRT,"Virtu Financial, Inc.",2.62B,30.09,1.83B
+HWKN,"Hawkins, Inc.",2.62B,125.18,923.92M
+PLMR,"Palomar Holdings, Inc.",2.60B,99.04,445.93M
+AMRX,"Amneal Pharmaceuticals, Inc.",2.59B,8.38,2.60B
+SNEX,StoneX Group Inc.,2.59B,81.50,84.27B
+UFPT,"UFP Technologies, Inc.",2.58B,336.70,417.47M
+RIOT,"Riot Platforms, Inc.",2.58B,8.50,280.02M
+AY,Atlantica Sustainable Infrastructure plc,2.58B,22.20,1.13B
+TBBK,"The Bancorp, Inc.",2.56B,52.26,463.58M
+TWST,Twist Bioscience Corporation,2.56B,43.66,295.21M
+OSIS,"OSI Systems, Inc.",2.56B,150.00,1.54B
+FFBC,First Financial Bancorp.,2.56B,26.77,772.98M
+MYGN,"Myriad Genetics, Inc.",2.55B,28.12,802.20M
+PYCR,"Paycor HCM, Inc.",2.55B,14.26,654.95M
+CVBF,CVB Financial Corp.,2.54B,18.19,527.11M
+PLUS,ePlus inc.,2.54B,95.51,2.20B
+TOWN,TowneBank,2.54B,34.31,668.08M
+GT,The Goodyear Tire & Rubber Company,2.53B,8.89,19.37B
+LIVN,LivaNova PLC,2.53B,46.60,1.21B
+FLNC,"Fluence Energy, Inc.",2.53B,19.58,2.14B
+NARI,"Inari Medical, Inc.",2.53B,43.34,547.47M
+PPBI,"Pacific Premier Bancorp, Inc.",2.52B,26.18,394.69M
+FIVN,"Five9, Inc.",2.52B,33.77,968.26M
+SBLK,Star Bulk Carriers Corp.,2.52B,21.23,1.10B
+PRVA,"Privia Health Group, Inc.",2.49B,20.86,1.70B
+CGON,"CG Oncology, Inc.",2.48B,37.02,539.00K
+PRGS,Progress Software Corporation,2.47B,57.80,711.72M
+CLDX,"Celldex Therapeutics, Inc.",2.46B,37.17,8.30M
+VCYT,"Veracyte, Inc.",2.46B,32.00,399.58M
+PTGX,"Protagonist Therapeutics, Inc.",2.46B,41.68,319.12M
+GOGL,Golden Ocean Group Limited,2.45B,12.24,935.99M
+DLO,DLocal Limited,2.45B,8.52,707.64M
+MLCO,Melco Resorts & Entertainment Limited,2.43B,5.51,4.38B
+SYM,Symbotic Inc.,2.42B,23.36,1.68B
+VCEL,Vericel Corporation,2.42B,49.29,214.52M
+RPD,"Rapid7, Inc.",2.41B,38.49,817.20M
+CPRX,"Catalyst Pharmaceuticals, Inc.",2.41B,20.32,434.48M
+ATAT,Atour Lifestyle Holdings Limited,2.41B,17.52,742.38M
+AZTA,"Azenta, Inc.",2.41B,49.24,658.62M
+NTLA,"Intellia Therapeutics, Inc.",2.40B,23.63,45.97M
+HTLF,"Heartland Financial USA, Inc.",2.40B,55.89,546.04M
+IBTX,"Independent Bank Group, Inc.",2.40B,57.82,473.48M
+JANX,"Janux Therapeutics, Inc.",2.40B,45.92,15.13M
+ADUS,Addus HomeCare Corporation,2.39B,133.58,1.11B
+DRVN,Driven Brands Holdings Inc.,2.38B,14.50,2.32B
+CENTA,Central Garden & Pet Company,2.38B,34.26,3.28B
+KLIC,"Kulicke and Soffa Industries, Inc.",2.37B,43.57,727.23M
+STRA,"Strategic Education, Inc.",2.37B,97.39,1.19B
+LFST,"LifeStance Health Group, Inc.",2.36B,6.18,1.16B
+ASTH,"Astrana Health, Inc.",2.36B,48.12,1.59B
+JAMF,Jamf Holding Corp.,2.36B,18.50,598.41M
+NMRK,"Newmark Group, Inc.",2.36B,13.73,2.54B
+LAUR,"Laureate Education, Inc.",2.34B,15.31,1.55B
+WERN,"Werner Enterprises, Inc.",2.33B,37.77,3.17B
+AMPH,"Amphastar Pharmaceuticals, Inc.",2.33B,47.95,712.89M
+SBCF,Seacoast Banking Corporation of Florida,2.33B,27.60,504.47M
+USLM,"United States Lime & Minerals, Inc.",2.32B,81.38,288.80M
+NBTB,NBT Bancorp Inc.,2.32B,49.12,516.78M
+POWL,"Powell Industries, Inc.",2.31B,192.78,945.93M
+CMPR,Cimpress plc,2.31B,92.19,3.29B
+GPCR,Structure Therapeutics Inc.,2.28B,39.79,-
+APPN,Appian Corporation,2.28B,31.45,578.70M
+FRME,First Merchants Corporation,2.25B,38.42,601.34M
+IQ,"iQIYI, Inc.",2.25B,2.34,4.28B
+RXST,"RxSight, Inc.",2.24B,56.45,115.18M
+MRCY,"Mercury Systems, Inc.",2.23B,37.49,835.28M
+FLYW,Flywire Corporation,2.20B,17.58,441.65M
+PDCO,"Patterson Companies, Inc.",2.20B,24.98,6.57B
+RXRX,"Recursion Pharmaceuticals, Inc.",2.19B,7.81,49.64M
+VSAT,"Viasat, Inc.",2.19B,17.14,4.63B
+IRTC,"iRhythm Technologies, Inc.",2.19B,70.01,537.09M
+VRNA,Verona Pharma plc,2.18B,26.88,-
+LION,Lionsgate Studios Corp.,2.18B,7.55,2.95B
+ODD,Oddity Tech Ltd.,2.16B,38.04,596.12M
+SIMO,Silicon Motion Technology Corporation,2.16B,64.07,774.69M
+VECO,Veeco Instruments Inc.,2.16B,38.00,701.65M
+BTSG,"BrightSpring Health Services, Inc.",2.16B,12.57,9.94B
+VERA,"Vera Therapeutics, Inc.",2.15B,39.30,-
+CERT,"Certara, Inc.",2.14B,13.29,363.55M
+NEO,"NeoGenomics, Inc.",2.14B,16.66,628.25M
+RZLV,Rezolve AI Limited,2.13B,10.05,-
+PSEC,Prospect Capital Corporation,2.12B,5.08,870.91M
+MBIN,Merchants Bancorp,2.12B,46.37,614.23M
+BEAM,Beam Therapeutics Inc.,2.12B,26.81,352.57M
+ROCK,"Gibraltar Industries, Inc.",2.10B,68.88,1.37B
+TTMI,"TTM Technologies, Inc.",2.09B,20.49,2.32B
+MLKN,"MillerKnoll, Inc.",2.08B,29.85,3.63B
+ZD,"Ziff Davis, Inc.",2.08B,46.45,1.37B
+HRMY,"Harmony Biosciences Holdings, Inc.",2.07B,36.36,656.11M
+CAKE,The Cheesecake Factory Incorporated,2.07B,40.61,3.50B
+PTVE,Pactiv Evergreen Inc.,2.07B,11.52,5.24B
+OMCL,"Omnicell, Inc.",2.06B,44.80,1.08B
+LMAT,"LeMaitre Vascular, Inc.",2.06B,91.67,205.62M
+PINC,"Premier, Inc.",2.05B,20.50,1.35B
+NSSC,"Napco Security Technologies, Inc.",2.05B,55.47,183.15M
+AMBA,"Ambarella, Inc.",2.04B,49.87,218.81M
+BANR,Banner Corporation,2.04B,59.15,593.74M
+TRMK,Trustmark Corporation,2.03B,33.18,536.99M
+YY,JOYY Inc.,2.03B,34.23,2.25B
+VRNT,Verint Systems Inc.,2.03B,32.89,915.10M
+TRIP,"Tripadvisor, Inc.",2.02B,14.60,1.82B
+EXPI,"eXp World Holdings, Inc.",2.02B,13.11,4.44B
+SPNS,Sapiens International Corporation N.V.,2.01B,36.08,532.61M
+AVPT,"AvePoint, Inc.",2.01B,10.79,299.88M
+TFIN,"Triumph Financial, Inc.",2.01B,86.25,400.00M
+MGPI,"MGP Ingredients, Inc.",2.00B,91.10,787.88M
+MGNI,"Magnite, Inc.",2.00B,14.16,649.22M
+ENLT,Enlight Renewable Energy Ltd,1.98B,16.24,307.24M
+ROIC,Retail Opportunity Investments Corp.,1.98B,15.51,335.05M
+FTRE,Fortrea Holdings Inc.,1.97B,22.03,3.01B
+EFSC,Enterprise Financial Services Corp,1.97B,52.81,582.46M
+HPK,"HighPeak Energy, Inc.",1.97B,15.47,1.21B
+PGNY,"Progyny, Inc.",1.97B,21.80,1.13B
+TRUP,"Trupanion, Inc.",1.97B,46.63,1.20B
+MIRM,"Mirum Pharmaceuticals, Inc.",1.96B,41.12,264.38M
+EXTR,"Extreme Networks, Inc.",1.96B,15.01,1.12B
+KNSA,"Kiniksa Pharmaceuticals International, plc",1.95B,27.38,338.93M
+NVCR,NovoCure Limited,1.95B,18.02,549.96M
+GSHD,"Goosehead Insurance, Inc",1.94B,80.30,275.47M
+PLUG,Plug Power Inc.,1.94B,2.20,684.49M
+WSBC,"WesBanco, Inc.",1.93B,32.46,563.25M
+SUPN,"Supernus Pharmaceuticals, Inc.",1.93B,34.97,630.16M
+VEON,VEON Ltd.,1.92B,27.37,3.87B
+NVAX,"Novavax, Inc.",1.92B,11.99,987.67M
+EVCM,EverCommerce Inc.,1.92B,10.41,691.69M
+AKRO,"Akero Therapeutics, Inc.",1.91B,27.46,-
+HLMN,Hillman Solutions Corp.,1.90B,9.67,1.48B
+LGND,Ligand Pharmaceuticals Incorporated,1.90B,103.82,133.48M
+WB,Weibo Corporation,1.89B,7.77,1.74B
+WULF,TeraWulf Inc.,1.89B,4.93,120.25M
+IAS,Integral Ad Science Holding Corp.,1.88B,11.68,498.16M
+CNXN,"PC Connection, Inc.",1.88B,71.46,2.76B
+SPT,"Sprout Social, Inc.",1.88B,32.91,375.30M
+PSNY,Polestar Automotive Holding UK PLC,1.88B,0.89,2.18B
+NMRA,"Neumora Therapeutics, Inc.",1.87B,11.68,-
+CLBK,"Columbia Financial, Inc.",1.87B,17.85,205.62M
+ENVX,Enovix Corporation,1.86B,10.57,16.62M
+VIAV,Viavi Solutions Inc.,1.86B,8.38,1.00B
+LILAK,Liberty Latin America Ltd.,1.84B,9.38,4.51B
+RNW,ReNew Energy Global Plc,1.84B,5.68,984.89M
+LILA,Liberty Latin America Ltd.,1.84B,9.37,4.51B
+UPBD,"Upbound Group, Inc.",1.83B,33.41,4.17B
+GTX,Garrett Motion Inc.,1.82B,8.34,3.71B
+PTON,"Peloton Interactive, Inc.",1.82B,4.84,2.70B
+DNUT,"Krispy Kreme, Inc.",1.81B,10.69,1.74B
+PAX,Patria Investments Limited,1.81B,11.87,316.72M
+EWTX,"Edgewise Therapeutics, Inc.",1.81B,19.33,-
+SOUN,"SoundHound AI, Inc.",1.80B,5.03,55.47M
+ARVN,"Arvinas, Inc.",1.80B,26.18,93.30M
+IMCR,Immunocore Holdings plc,1.79B,35.76,280.91M
+ARHS,"Arhaus, Inc.",1.79B,12.71,1.28B
+ALHC,"Alignment Healthcare, Inc.",1.77B,9.27,2.23B
+FBNC,First Bancorp,1.77B,42.95,380.10M
+SYBT,"Stock Yards Bancorp, Inc.",1.77B,60.27,327.47M
+ZLAB,Zai Lab Limited,1.77B,18.02,322.71M
+HURN,Huron Consulting Group Inc.,1.76B,107.64,1.43B
+MRX,Marex Group plc,1.76B,24.24,2.08B
+NAVI,Navient Corporation,1.76B,16.12,1.03B
+VICR,Vicor Corporation,1.76B,39.05,370.22M
+SLNO,"Soleno Therapeutics, Inc.",1.76B,45.25,-
+NWBI,"Northwest Bancshares, Inc.",1.76B,13.80,491.91M
+HEES,"H&E Equipment Services, Inc.",1.75B,48.55,1.53B
+CHCO,City Holding Company,1.75B,119.15,287.62M
+SNDX,"Syndax Pharmaceuticals, Inc.",1.75B,20.58,3.50M
+DSGR,"Distribution Solutions Group, Inc.",1.75B,37.43,1.70B
+WBTN,WEBTOON Entertainment Inc.,1.74B,13.55,1.30B
+UCTT,"Ultra Clean Holdings, Inc.",1.74B,38.59,1.87B
+GO,Grocery Outlet Holding Corp.,1.74B,17.73,4.16B
+GLPG,Galapagos NV,1.72B,25.89,280.08M
+FOXF,Fox Factory Holding Corp.,1.72B,41.21,1.35B
+CLMT,"Calumet, Inc.",1.72B,19.98,4.27B
+KROS,"Keros Therapeutics, Inc.",1.71B,45.51,271.00K
+LKFN,Lakeland Financial Corporation,1.70B,66.78,243.10M
+MYRG,MYR Group Inc.,1.70B,102.80,3.59B
+RCKT,"Rocket Pharmaceuticals, Inc.",1.69B,18.59,-
+ANDE,"The Andersons, Inc.",1.69B,49.91,12.36B
+RUM,Rumble Inc.,1.68B,5.93,78.58M
+HLIT,Harmonic Inc.,1.68B,14.41,555.10M
+BCRX,"BioCryst Pharmaceuticals, Inc.",1.68B,8.10,382.24M
+VSEC,VSE Corporation,1.68B,90.94,974.18M
+CASH,"Pathward Financial, Inc.",1.67B,67.03,695.79M
+CDNA,"CareDx, Inc",1.66B,31.54,297.08M
+CLOV,"Clover Health Investments, Corp.",1.66B,3.34,2.09B
+JBLU,JetBlue Airways Corporation,1.66B,4.78,9.32B
+STBA,"S&T Bancorp, Inc.",1.66B,43.32,386.45M
+AVDX,"AvidXchange Holdings, Inc.",1.64B,7.89,413.47M
+AFYA,Afya Limited,1.64B,18.17,552.54M
+SEDG,"SolarEdge Technologies, Inc.",1.64B,28.77,1.51B
+STAA,STAAR Surgical Company,1.64B,33.27,332.94M
+IART,Integra LifeSciences Holdings Corporation,1.63B,21.07,1.57B
+TLRY,"Tilray Brands, Inc.",1.63B,1.93,788.94M
+INDV,Indivior PLC,1.62B,12.30,1.15B
+OSW,OneSpaWorld Holdings Limited,1.61B,15.39,847.19M
+IREN,Iris Energy Limited,1.61B,8.62,165.54M
+CHEF,"The Chefs' Warehouse, Inc.",1.61B,40.33,3.66B
+SKWD,"Skyward Specialty Insurance Group, Inc.",1.60B,39.82,1.03B
+AVDL,Avadel Pharmaceuticals plc,1.59B,16.50,95.15M
+BLBD,Blue Bird Corporation,1.58B,48.96,1.30B
+STER,Sterling Check Corp.,1.58B,16.16,736.51M
+OPEN,Opendoor Technologies Inc.,1.58B,2.25,4.54B
+THRM,Gentherm Incorporated,1.58B,50.31,1.46B
+OLPX,"Olaplex Holdings, Inc.",1.58B,2.38,438.12M
+NVEE,"NV5 Global, Inc.",1.57B,96.48,904.41M
+BUSE,First Busey Corporation,1.56B,27.44,436.32M
+AMWD,American Woodmark Corporation,1.55B,99.74,1.85B
+PLAB,"Photronics, Inc.",1.55B,24.53,885.01M
+HOPE,"Hope Bancorp, Inc.",1.55B,12.84,497.58M
+NRIX,"Nurix Therapeutics, Inc.",1.55B,24.02,62.30M
+KURA,"Kura Oncology, Inc.",1.55B,20.18,-
+BLMN,"Bloomin' Brands, Inc.",1.54B,18.18,4.59B
+BCYC,Bicycle Therapeutics plc,1.54B,22.38,39.57M
+HROW,"Harrow, Inc.",1.52B,42.70,154.15M
+DVAX,Dynavax Technologies Corporation,1.51B,11.49,249.69M
+NTCT,"NetScout Systems, Inc.",1.50B,21.08,792.88M
+PRDO,Perdoceo Education Corporation,1.50B,22.88,662.85M
+SRCE,1st Source Corporation,1.50B,61.16,367.02M
+PZZA,"Papa John's International, Inc.",1.50B,45.93,2.12B
+BLTE,"Belite Bio, Inc",1.50B,48.91,-
+ARDX,"Ardelyx, Inc.",1.49B,6.35,210.00M
+SAVA,"Cassava Sciences, Inc.",1.48B,30.95,-
+TCBK,TriCo Bancshares,1.48B,44.86,388.27M
+MNKD,MannKind Corporation,1.48B,5.37,248.37M
+APOG,"Apogee Enterprises, Inc.",1.48B,67.26,1.39B
+IRON,"Disc Medicine, Inc.",1.47B,49.41,-
+NAMS,NewAmsterdam Pharma Company N.V.,1.46B,16.26,7.42M
+CNTA,Centessa Pharmaceuticals plc,1.46B,12.85,6.85M
+SDGR,"Schrödinger, Inc.",1.45B,19.87,200.63M
+MRTN,"Marten Transport, Ltd.",1.44B,17.63,1.04B
+OPRA,Opera Limited,1.43B,16.18,427.25M
+INFN,Infinera Corporation,1.43B,6.07,1.50B
+OCUL,"Ocular Therapeutix, Inc.",1.42B,9.11,61.10M
+SASR,"Sandy Spring Bancorp, Inc.",1.42B,31.42,395.98M
+COCO,"The Vita Coco Company, Inc.",1.41B,24.89,500.02M
+TWKS,"Thoughtworks Holding, Inc.",1.41B,4.36,1.03B
+CENX,Century Aluminum Company,1.41B,15.16,2.11B
+OCSL,Oaktree Specialty Lending Corporation,1.40B,17.02,388.87M
+SONO,"Sonos, Inc.",1.39B,11.51,1.57B
+WABC,Westamerica Bancorporation,1.39B,52.08,312.49M
+MTTR,"Matterport, Inc.",1.39B,4.35,162.28M
+VITL,"Vital Farms, Inc.",1.39B,32.18,541.56M
+DAWN,"Day One Biopharmaceuticals, Inc.",1.39B,14.09,8.19M
+INMD,InMode Ltd.,1.38B,16.25,416.63M
+MCRI,"Monarch Casino & Resort, Inc.",1.37B,74.24,510.95M
+IMKTA,"Ingles Markets, Incorporated",1.37B,71.94,5.83B
+AHCO,AdaptHealth Corp.,1.36B,10.45,3.26B
+LBPH,"Longboard Pharmaceuticals, Inc.",1.35B,34.79,-
+RDFN,Redfin Corporation,1.35B,11.08,1.01B
+XRX,Xerox Holdings Corporation,1.34B,10.79,6.50B
+ANGI,Angi Inc.,1.34B,2.68,1.27B
+DCBO,Docebo Inc.,1.34B,44.20,200.24M
+NMFC,New Mountain Finance Corporation,1.33B,12.36,372.54M
+CSGS,"CSG Systems International, Inc.",1.33B,47.15,1.17B
+VBTX,"Veritex Holdings, Inc.",1.33B,24.45,363.13M
+UPWK,Upwork Inc.,1.32B,10.02,743.73M
+PLSE,"Pulse Biosciences, Inc.",1.32B,21.48,-
+CIFR,Cipher Mining Inc.,1.32B,4.00,158.67M
+ADEA,Adeia Inc.,1.31B,12.07,359.02M
+WINA,Winmark Corporation,1.31B,371.59,82.59M
+WKME,WalkMe Ltd.,1.30B,13.85,272.99M
+SANA,"Sana Biotechnology, Inc.",1.30B,5.84,-
+PLAY,"Dave & Buster's Entertainment, Inc.",1.30B,32.79,2.20B
+SYRE,"Spyre Therapeutics, Inc.",1.30B,25.53,-
+MFIC,MidCap Financial Investment Corporation,1.30B,13.81,277.61M
+QCRH,"QCR Holdings, Inc.",1.29B,76.46,336.45M
+MOMO,Hello Group Inc.,1.28B,6.92,1.63B
+REAX,The Real Brokerage Inc.,1.28B,6.66,937.50M
+ESTA,Establishment Labs Holdings Inc.,1.28B,45.65,151.35M
+SAFT,"Safety Insurance Group, Inc.",1.27B,85.83,1.03B
+NEXT,NextDecade Corporation,1.27B,4.90,-
+MRVI,"Maravai LifeSciences Holdings, Inc.",1.26B,8.91,278.59M
+COHU,"Cohu, Inc.",1.26B,26.87,500.35M
+SPRY,"ARS Pharmaceuticals, Inc.",1.26B,12.96,500.00K
+RBCAA,"Republic Bancorp, Inc.",1.25B,64.55,315.69M
+CRCT,"Cricut, Inc.",1.25B,5.79,741.49M
+XPEL,"XPEL, Inc.",1.25B,45.27,408.24M
+TNGX,"Tango Therapeutics, Inc.",1.24B,11.57,42.51M
+ATRC,"AtriCure, Inc.",1.24B,25.44,429.95M
+DMLP,"Dorchester Minerals, L.P.",1.23B,30.78,155.58M
+PDFS,"PDF Solutions, Inc.",1.23B,31.81,166.45M
+UDMY,"Udemy, Inc.",1.22B,8.14,765.47M
+ACMR,"ACM Research, Inc.",1.22B,19.49,693.56M
+HELE,Helen of Troy Limited,1.22B,53.36,1.95B
+TASK,"TaskUs, Inc.",1.22B,13.72,925.29M
+SCSC,"ScanSource, Inc.",1.22B,49.19,3.46B
+ADV,Advantage Solutions Inc.,1.21B,3.78,4.07B
+ANIP,"ANI Pharmaceuticals, Inc.",1.20B,61.68,538.95M
+VIR,"Vir Biotechnology, Inc.",1.20B,8.77,78.88M
+ECPG,"Encore Capital Group, Inc.",1.20B,50.58,1.27B
+SGML,Sigma Lithium Corporation,1.19B,10.78,215.17M
+GABC,"German American Bancorp, Inc.",1.19B,40.24,246.85M
+GIII,"G-III Apparel Group, Ltd.",1.19B,26.54,3.10B
+SCVL,"Shoe Carnival, Inc.",1.19B,43.87,1.20B
+FSUN,FirstSun Capital Bancorp,1.19B,42.89,342.97M
+KALU,Kaiser Aluminum Corporation,1.18B,74.30,2.98B
+SABR,Sabre Corporation,1.18B,3.07,2.98B
+INVA,"Innoviva, Inc.",1.18B,18.86,330.50M
+COLL,"Collegium Pharmaceutical, Inc.",1.17B,36.26,576.65M
+PRTA,Prothena Corporation plc,1.17B,21.71,217.25M
+BLFS,"BioLife Solutions, Inc.",1.17B,25.30,139.96M
+EVO,Evotec SE,1.16B,3.35,844.79M
+TYRA,"Tyra Biosciences, Inc.",1.16B,22.06,-
+LZ,"LegalZoom.com, Inc.",1.16B,6.62,677.51M
+CSWC,Capital Southwest Corporation,1.16B,24.72,189.13M
+TRNS,"Transcat, Inc.",1.16B,126.64,265.59M
+IMTX,Immatics N.V.,1.16B,11.21,75.94M
+FORTY,Formula Systems (1985) Ltd.,1.15B,76.06,2.66B
+ARQT,"Arcutis Biotherapeutics, Inc.",1.15B,9.83,132.06M
+HUT,Hut 8 Corp.,1.14B,12.57,171.99M
+ANAB,"AnaptysBio, Inc.",1.14B,37.75,30.47M
+TBLA,Taboola.com Ltd.,1.13B,3.38,1.62B
+KARO,Karooooo Ltd.,1.13B,36.68,227.97M
+SSRM,SSR Mining Inc.,1.13B,5.60,1.23B
+OPK,"OPKO Health, Inc.",1.12B,1.61,716.37M
+COGT,"Cogent Biosciences, Inc.",1.11B,10.18,-
+CRAI,"CRA International, Inc.",1.11B,163.48,652.40M
+SGH,"SMART Global Holdings, Inc.",1.11B,20.94,1.18B
+PEBO,Peoples Bancorp Inc.,1.11B,31.85,434.19M
+SILK,"Silk Road Medical, Inc",1.11B,27.24,191.43M
+ULH,"Universal Logistics Holdings, Inc.",1.11B,42.04,1.77B
+CALT,Calliditas Therapeutics AB (publ),1.10B,40.47,151.09M
+AOSL,Alpha and Omega Semiconductor Limited,1.10B,38.33,657.27M
+GYRE,"Gyre Therapeutics, Inc.",1.10B,12.84,111.59M
+BITF,Bitfarms Ltd.,1.10B,2.44,172.70M
+PFBC,Preferred Bank,1.10B,82.29,263.71M
+TILE,"Interface, Inc.",1.10B,18.82,1.27B
+UNIT,Uniti Group Inc.,1.10B,4.49,1.16B
+XNCR,"Xencor, Inc.",1.09B,17.67,133.62M
+BELFA,Bel Fuse Inc.,1.09B,86.99,559.99M
+JBSS,"John B. Sanfilippo & Son, Inc.",1.09B,93.90,1.07B
+MSEX,Middlesex Water Company,1.09B,61.08,174.99M
+AMPL,"Amplitude, Inc.",1.09B,8.81,287.96M
+ELVN,"Enliven Therapeutics, Inc.",1.09B,23.00,-
+AVAH,Aveanna Healthcare Holdings Inc.,1.08B,5.60,1.95B
+ATSG,"Air Transport Services Group, Inc.",1.07B,16.43,2.01B
+DGII,Digi International Inc.,1.07B,29.47,431.16M
+MXL,"MaxLinear, Inc.",1.07B,12.76,448.14M
+GDYN,"Grid Dynamics Holdings, Inc.",1.07B,13.91,318.34M
+AUTL,Autolus Therapeutics plc,1.06B,3.99,10.50M
+PNTG,"The Pennant Group, Inc.",1.06B,34.96,611.81M
+ERII,"Energy Recovery, Inc.",1.05B,18.23,133.51M
+PWP,Perella Weinberg Partners,1.05B,20.01,725.53M
+ARRY,"Array Technologies, Inc.",1.05B,6.92,1.10B
+ICHR,"Ichor Holdings, Ltd.",1.05B,31.07,804.85M
+CGEM,"Cullinan Therapeutics, Inc.",1.05B,18.03,-
+HIMX,"Himax Technologies, Inc.",1.04B,5.96,913.37M
+ACDC,ProFrac Holding Corp.,1.04B,6.50,2.22B
+FWRG,"First Watch Restaurant Group, Inc.",1.04B,17.21,964.86M
+OCFC,OceanFirst Financial Corp.,1.04B,17.80,376.06M
+BTDR,Bitdeer Technologies Group,1.04B,7.54,420.89M
+SBSI,"Southside Bancshares, Inc.",1.02B,33.84,240.49M
+MDXG,"MiMedx Group, Inc.",1.01B,6.90,340.46M
+ASTL,Algoma Steel Group Inc.,1.01B,9.72,1.91B
+HDL,Super Hi International Holding Ltd.,1.01B,15.55,712.07M
+HTZ,"Hertz Global Holdings, Inc.",1.01B,3.29,9.32B
+QNST,"QuinStreet, Inc.",1.01B,17.96,613.51M
+CECO,CECO Environmental Corp.,1.00B,28.65,566.96M
+BHRB,Burke & Herbert Financial Services Corp.,1.00B,66.97,124.67M
+EOLS,"Evolus, Inc.",1.00B,15.86,237.26M
+AMAL,Amalgamated Financial Corp.,995.30M,32.48,292.03M
+XMTR,"Xometry, Inc.",994.80M,20.18,502.36M
+TRS,TriMas Corporation,994.23M,24.46,912.50M
+WTO,UTime Limited,992.05M,2.20,23.84M
+ODP,The ODP Corporation,989.97M,29.48,7.40B
+PLYA,Playa Hotels & Resorts N.V.,989.59M,7.64,980.60M
+JACK,Jack in the Box Inc.,989.58M,51.74,1.59B
+DCOM,"Dime Community Bancshares, Inc.",982.63M,25.10,320.39M
+GOGO,Gogo Inc.,978.80M,7.71,402.14M
+TH,Target Hospitality Corp.,976.19M,9.72,479.55M
+FIP,FTAI Infrastructure Inc.,975.86M,9.29,329.57M
+CMCO,Columbus McKinnon Corporation,975.39M,33.81,1.02B
+HTLD,"Heartland Express, Inc.",971.77M,12.38,1.12B
+TARS,"Tarsus Pharmaceuticals, Inc.",971.21M,25.53,83.37M
+CNOB,"ConnectOne Bancorp, Inc.",968.34M,25.31,251.24M
+PCT,"PureCycle Technologies, Inc.",968.32M,5.87,-
+EH,EHang Holdings Limited,968.27M,15.30,34.26M
+AUPH,Aurinia Pharmaceuticals Inc.,966.62M,6.76,207.11M
+PHVS,Pharvaris N.V.,964.04M,17.85,-
+RLAY,"Relay Therapeutics, Inc.",964.01M,7.20,35.21M
+WGS,GeneDx Holdings Corp.,963.23M,35.76,243.66M
+VRDN,"Viridian Therapeutics, Inc.",961.54M,15.05,288.00K
+NRDS,"NerdWallet, Inc.",959.44M,12.19,599.00M
+FMBH,"First Mid Bancshares, Inc.",955.25M,39.96,304.67M
+KRNT,Kornit Digital Ltd.,954.84M,20.08,208.21M
+COMM,"CommScope Holding Company, Inc.",943.27M,4.37,5.09B
+BFC,Bank First Corporation,941.79M,94.05,182.76M
+AMSF,"AMERISAFE, Inc.",940.15M,49.33,309.13M
+ETNB,"89bio, Inc.",937.83M,8.86,-
+PGY,Pagaya Technologies Ltd.,937.19M,13.05,925.42M
+BBSI,"Barrett Business Services, Inc.",934.95M,35.77,1.10B
+GCT,GigaCloud Technology Inc.,932.29M,22.54,984.85M
+PHAT,"Phathom Pharmaceuticals, Inc.",930.32M,13.84,9.92M
+SBGI,"Sinclair, Inc.",929.74M,14.01,3.22B
+IMNM,"Immunome, Inc.",927.84M,15.45,10.78M
+SDA,SunCar Technology Group Inc.,923.96M,10.30,363.75M
+RDWR,Radware Ltd.,923.07M,22.09,259.01M
+CPLP,Capital Product Partners L.P.,920.46M,16.77,393.20M
+BASE,"Couchbase, Inc.",919.16M,18.27,190.37M
+HEPS,D-Market Elektronik Hizmetler ve Ticaret A.S.,915.94M,2.85,1.21B
+BRKL,"Brookline Bancorp, Inc.",909.57M,10.23,335.68M
+CFB,"CrossFirst Bankshares, Inc.",908.35M,18.43,236.86M
+SHLS,"Shoals Technologies Group, Inc.",908.22M,5.45,454.70M
+GPRE,Green Plains Inc.,907.76M,14.04,2.82B
+CBRL,"Cracker Barrel Old Country Store, Inc.",906.52M,40.83,3.41B
+CTBI,"Community Trust Bancorp, Inc.",905.50M,50.16,223.50M
+PETQ,"PetIQ, Inc.",905.05M,30.52,1.13B
+PFC,Premier Financial Corp.,904.21M,25.23,250.95M
+HA,"Hawaiian Holdings, Inc.",903.93M,17.38,2.77B
+PRAA,"PRA Group, Inc.",901.87M,22.88,977.66M
+GDEN,"Golden Entertainment, Inc.",895.87M,31.64,829.80M
+PRAX,"Praxis Precision Medicines, Inc.",894.07M,50.35,1.77M
+SCHL,Scholastic Corporation,892.35M,31.57,1.59B
+CSIQ,Canadian Solar Inc.,891.88M,13.48,6.51B
+CRON,Cronos Group Inc.,888.93M,2.34,101.78M
+FWRD,Forward Air Corporation,886.95M,32.02,1.86B
+NN,NextNav Inc.,879.19M,6.96,4.38M
+BELFB,Bel Fuse Inc.,875.51M,66.28,559.99M
+HSTM,"HealthStream, Inc.",875.45M,28.79,285.24M
+INNV,InnovAge Holding Corp.,860.80M,6.33,741.33M
+AMRK,"A-Mark Precious Metals, Inc.",859.93M,37.56,10.29B
+VMEO,"Vimeo, Inc.",858.83M,5.18,421.08M
+IMOS,ChipMOS TECHNOLOGIES INC.,856.49M,23.31,693.69M
+CGBD,"Carlyle Secured Lending, Inc.",856.29M,16.84,243.46M
+GSM,Ferroglobe PLC,852.06M,4.54,1.64B
+PAHC,Phibro Animal Health Corporation,848.15M,20.94,999.56M
+BMBL,Bumble Inc.,844.02M,6.67,1.09B
+AMSC,American Superconductor Corporation,842.55M,21.28,155.68M
+SLRC,SLR Investment Corp.,842.32M,15.44,236.51M
+DHC,Diversified Healthcare Trust,842.01M,3.50,1.46B
+HUMA,"Humacyte, Inc.",839.04M,7.03,-
+NYAX,Nayax Ltd.,836.79M,23.79,268.97M
+DNTH,"Dianthus Therapeutics, Inc.",830.73M,28.30,4.12M
+UVSP,Univest Financial Corporation,829.62M,28.44,286.64M
+EYE,"National Vision Holdings, Inc.",826.46M,10.51,2.16B
+CRGX,"CARGO Therapeutics, Inc.",823.99M,17.95,-
+MNRO,"Monro, Inc.",822.23M,27.48,1.24B
+SHEN,Shenandoah Telecommunications Company,820.77M,15.04,308.62M
+CSTL,"Castle Biosciences, Inc.",820.18M,29.57,287.59M
+DXPE,"DXP Enterprises, Inc.",818.64M,51.85,1.68B
+PLRX,"Pliant Therapeutics, Inc.",817.78M,13.45,-
+WOOF,"Petco Health and Wellness Company, Inc.",816.25M,2.99,6.23B
+RAPP,"Rapport Therapeutics, Inc.",815.65M,22.30,-
+AVBP,"ArriVent BioPharma, Inc.",815.13M,24.27,-
+ZYME,Zymeworks Inc.,809.23M,11.39,62.71M
+FCBC,"First Community Bankshares, Inc.",809.02M,44.28,164.34M
+EMBC,Embecta Corp.,807.83M,14.00,1.12B
+ATEC,"Alphatec Holdings, Inc.",806.24M,5.74,540.28M
+STGW,Stagwell Inc.,802.23M,7.18,2.61B
+HCSG,"Healthcare Services Group, Inc.",800.61M,10.91,1.68B
+TCPC,BlackRock TCP Capital Corp.,800.28M,9.35,232.32M
+NBBK,"NB Bancorp, Inc.",796.46M,18.65,141.69M
+IRWD,"Ironwood Pharmaceuticals, Inc.",795.50M,4.98,400.57M
+CFFN,"Capitol Federal Financial, Inc.",795.14M,6.13,-38.13M
+LAB,Standard BioTools Inc.,794.27M,2.14,136.30M
+HFWA,Heritage Financial Corporation,793.41M,23.00,214.40M
+ALGT,Allegiant Travel Company,792.13M,44.78,2.50B
+PUBM,"PubMatic, Inc.",790.87M,15.95,282.25M
+MATW,Matthews International Corporation,789.72M,25.81,1.83B
+KIDS,OrthoPediatrics Corp.,788.42M,32.56,175.07M
+EVER,"EverQuote, Inc.",777.82M,22.17,318.92M
+FDMT,"4D Molecular Therapeutics, Inc.",777.47M,14.96,20.22M
+ERAS,"Erasca, Inc.",776.55M,2.75,-
+ASTE,"Astec Industries, Inc.",775.90M,34.03,1.30B
+EXAI,Exscientia plc,775.53M,6.00,26.57M
+ULCC,"Frontier Group Holdings, Inc.",774.47M,3.45,3.61B
+IGIC,International General Insurance Holdings Ltd.,770.05M,17.42,486.56M
+TTGT,"TechTarget, Inc.",770.03M,26.95,224.97M
+ABCL,AbCellera Biologics Inc.,769.08M,2.61,33.05M
+ABL,"Abacus Life, Inc.",768.91M,10.30,95.38M
+LQDA,Liquidia Corporation,765.63M,9.97,14.84M
+HAYN,"Haynes International, Inc.",765.11M,60.25,614.33M
+TREE,"LendingTree, Inc.",764.67M,57.31,667.45M
+RPAY,Repay Holdings Corporation,759.29M,8.66,305.93M
+HSII,"Heidrick & Struggles International, Inc.",758.24M,37.32,1.06B
+PTLO,Portillo's Inc.,758.22M,12.27,702.36M
+SLN,Silence Therapeutics plc,758.12M,16.20,22.62M
+KRUS,"Kura Sushi USA, Inc.",757.57M,67.37,226.78M
+BJRI,"BJ's Restaurants, Inc.",756.69M,32.68,1.33B
+WEST,Westrock Coffee Company,756.41M,8.56,835.47M
+TRIN,Trinity Capital Inc.,752.53M,14.10,191.01M
+MCBS,"MetroCity Bankshares, Inc.",751.60M,29.67,126.44M
+SWIM,"Latham Group, Inc.",751.25M,6.50,522.40M
+CRML,Critical Metals Corp.,751.09M,9.20,-
+MESO,Mesoblast Limited,747.71M,6.56,7.47M
+AVO,"Mission Produce, Inc.",747.39M,10.54,1.08B
+MBWM,Mercantile Bank Corporation,746.85M,46.28,220.24M
+SVC,Service Properties Trust,746.50M,4.50,1.89B
+CTKB,"Cytek Biosciences, Inc.",743.01M,5.65,197.71M
+CVAC,CureVac N.V.,742.48M,3.31,70.57M
+MREO,Mereo BioPharma Group plc,741.91M,4.83,1.00M
+SRRK,Scholar Rock Holding Corporation,741.90M,9.27,-
+MBUU,"Malibu Boats, Inc.",741.14M,36.26,1.04B
+OSBC,"Old Second Bancorp, Inc.",740.92M,16.52,265.72M
+KELYA,"Kelly Services, Inc.",739.11M,20.78,4.45B
+SLP,"Simulations Plus, Inc.",736.88M,36.83,66.98M
+LMB,"Limbach Holdings, Inc.",736.81M,65.36,511.67M
+STOK,"Stoke Therapeutics, Inc.",736.54M,13.99,15.16M
+ABVX,ABIVAX Société Anonyme,736.47M,11.60,4.97M
+KELYB,"Kelly Services, Inc.",735.55M,19.70,4.45B
+MLAB,"Mesa Laboratories, Inc.",734.78M,135.84,223.71M
+ABUS,Arbutus Biopharma Corporation,734.36M,3.89,10.06M
+DAKT,"Daktronics, Inc.",734.06M,15.84,818.08M
+INDI,"indie Semiconductor, Inc.",733.63M,4.09,235.32M
+ARKO,Arko Corp.,732.83M,6.33,9.32B
+STKL,SunOpta Inc.,728.51M,6.10,688.01M
+CLNE,Clean Energy Fuels Corp.,726.14M,3.25,404.09M
+ATRO,Astronics Corporation,725.04M,20.72,741.40M
+WLFC,Willis Lease Finance Corporation,722.25M,109.84,481.26M
+FLGT,"Fulgent Genetics, Inc.",721.06M,23.80,290.71M
+HCKT,"The Hackett Group, Inc.",719.94M,26.04,297.42M
+SVRA,Savara Inc.,719.30M,4.37,-
+CRBP,"Corbus Pharmaceuticals Holdings, Inc.",719.02M,59.70,-
+HBT,"HBT Financial, Inc.",717.34M,22.73,213.79M
+IBCP,Independent Bank Corporation,717.17M,34.32,212.03M
+ADPT,Adaptive Biotechnologies Corporation,716.71M,4.86,168.77M
+SEZL,Sezzle Inc.,716.38M,127.93,192.69M
+WVE,Wave Life Sciences Ltd.,716.00M,5.74,110.50M
+SPTN,SpartanNash Company,715.06M,21.19,9.55B
+CCB,Coastal Financial Corporation,713.86M,53.05,271.68M
+TIPT,Tiptree Inc.,713.72M,19.40,1.91B
+FUFU,BitFuFu Inc.,708.62M,4.35,423.70M
+ATEX,Anterix Inc.,708.28M,38.09,5.11M
+CRSR,"Corsair Gaming, Inc.",707.15M,6.79,1.38B
+ROOT,"Root, Inc.",704.40M,46.96,854.20M
+GSBC,"Great Southern Bancorp, Inc.",703.00M,60.20,219.38M
+DDI,"DoubleDown Interactive Co., Ltd.",698.70M,14.10,332.46M
+ALMS,Alumis Inc.,694.19M,12.76,-
+ATXS,"Astria Therapeutics, Inc.",694.03M,12.30,-
+SCWX,SecureWorks Corp.,693.65M,7.85,357.14M
+ORRF,"Orrstown Financial Services, Inc.",693.48M,35.80,129.78M
+REPL,"Replimune Group, Inc.",692.78M,10.14,-
+RVNC,"Revance Therapeutics, Inc.",691.83M,6.60,251.18M
+SIBN,"SI-BONE, Inc.",690.04M,16.55,150.71M
+HBNC,"Horizon Bancorp, Inc.",689.78M,15.78,180.00M
+TVTX,"Travere Therapeutics, Inc.",686.89M,8.98,177.64M
+LQDT,"Liquidity Services, Inc.",684.84M,22.43,336.35M
+OLMA,"Olema Pharmaceuticals, Inc.",683.85M,11.95,-
+CCAP,"Crescent Capital BDC, Inc.",680.45M,18.36,197.42M
+SWBI,"Smith & Wesson Brands, Inc.",678.45M,15.05,535.83M
+SIGA,"SIGA Technologies, Inc.",677.29M,9.49,172.96M
+ORIC,"ORIC Pharmaceuticals, Inc.",677.21M,9.60,-
+LPRO,Open Lending Corporation,676.16M,5.67,98.42M
+LEGH,Legacy Housing Corporation,673.64M,27.89,169.39M
+DJCO,Daily Journal Corporation,672.94M,488.55,71.61M
+THRY,"Thryv Holdings, Inc.",672.70M,18.53,877.69M
+CDMO,"Avid Bioservices, Inc.",672.69M,10.58,139.91M
+EU,enCore Energy Corp.,668.33M,3.61,35.71M
+APLD,Applied Digital Corporation,666.81M,4.55,143.91M
+EGBN,"Eagle Bancorp, Inc.",666.62M,22.09,244.03M
+APLT,"Applied Therapeutics, Inc.",662.66M,5.77,-333.00K
+LXRX,"Lexicon Pharmaceuticals, Inc.",661.53M,1.83,3.64M
+FDUS,Fidus Investment Corporation,660.90M,19.93,140.81M
+OFIX,Orthofix Medical Inc.,660.04M,17.29,771.65M
+NCMI,"National CineMedia, Inc.",658.20M,6.91,207.60M
+TRST,TrustCo Bank Corp NY,654.72M,34.44,172.19M
+SMBC,"Southern Missouri Bancorp, Inc.",654.56M,58.04,163.14M
+PCRX,"Pacira BioSciences, Inc.",654.54M,14.19,690.31M
+EZPW,"EZCORP, Inc.",648.67M,11.85,1.14B
+BVS,Bioventus Inc.,646.65M,9.92,536.89M
+CELC,Celcuity Inc.,642.47M,17.35,-
+WRLD,World Acceptance Corporation,642.37M,117.07,563.21M
+EVLV,"Evolv Technologies Holdings, Inc.",641.23M,4.07,89.22M
+CHUY,"Chuy's Holdings, Inc.",640.97M,37.20,460.07M
+ITOS,"iTeos Therapeutics, Inc.",638.40M,17.48,35.00M
+FSBC,Five Star Bancorp,635.54M,29.81,111.97M
+MNTK,"Montauk Renewables, Inc.",628.79M,4.42,184.62M
+TIGR,UP Fintech Holding Limited,627.91M,4.02,231.79M
+GOOD,Gladstone Commercial Corporation,627.79M,14.76,145.15M
+ADSE,ADS-TEC Energy PLC,627.76M,12.41,118.70M
+BIOX,Bioceres Crop Solutions Corp.,625.31M,9.95,445.59M
+CRESY,"Cresud Sociedad Anónima, Comercial, Inmobiliaria, Financiera y Agropecuaria",625.30M,7.75,248.05M
+ANNX,"Annexon, Inc.",622.30M,5.89,-
+IGMS,"IGM Biosciences, Inc.",619.88M,10.45,2.91M
+SEAT,Vivid Seats Inc.,619.73M,4.70,775.60M
+HTBI,"HomeTrust Bancshares, Inc.",619.45M,35.69,187.18M
+METC,"Ramaco Resources, Inc.",618.88M,11.80,717.69M
+LENZ,"LENZ Therapeutics, Inc.",618.67M,22.50,-
+BFST,"Business First Bancshares, Inc.",615.62M,24.14,247.78M
+HTBK,Heritage Commerce Corp,615.40M,10.04,174.59M
+DMRC,Digimarc Corporation,615.34M,28.81,38.60M
+YMAB,"Y-mAbs Therapeutics, Inc.",612.39M,13.74,86.55M
+METCB,"Ramaco Resources, Inc.",612.08M,11.02,717.69M
+OSPN,OneSpan Inc.,610.48M,16.12,247.53M
+HAFC,Hanmi Financial Corporation,610.46M,20.30,237.49M
+GLDD,Great Lakes Dredge & Dock Corporation,609.40M,9.07,667.66M
+FLWS,"1-800-FLOWERS.COM, Inc.",608.71M,9.48,1.87B
+PLPC,Preformed Line Products Company,606.29M,123.39,585.67M
+NYMT,"New York Mortgage Trust, Inc.",602.35M,6.65,151.83M
+RGNX,REGENXBIO Inc.,599.50M,12.13,89.04M
+GHRS,GH Research PLC,597.28M,11.48,-
+URGN,UroGen Pharma Ltd.,596.34M,14.16,85.01M
+ARCT,Arcturus Therapeutics Holdings Inc.,594.66M,21.99,163.87M
+BLDP,Ballard Power Systems Inc.,592.01M,1.99,104.27M
+CNDT,Conduent Incorporated,591.13M,3.64,3.63B
+ZUMZ,Zumiez Inc.,590.19M,29.11,869.99M
+RBBN,Ribbon Communications Inc.,589.90M,3.38,801.85M
+CASS,"Cass Information Systems, Inc.",589.33M,43.25,218.45M
+VINP,Vinci Partners Investments Ltd.,587.56M,11.06,85.53M
+ITRN,Ituran Location and Control Ltd.,587.46M,29.53,328.76M
+CAC,Camden National Corporation,586.48M,40.24,162.23M
+CEVA,"CEVA, Inc.",583.86M,24.65,98.74M
+HAIN,"The Hain Celestial Group, Inc.",581.29M,6.47,1.77B
+TRDA,"Entrada Therapeutics, Inc.",581.29M,16.52,239.40M
+IRMD,IRADIMED CORPORATION,580.78M,45.84,69.48M
+KC,Kingsoft Cloud Holdings Limited,580.61M,2.52,965.35M
+TERN,"Terns Pharmaceuticals, Inc.",578.46M,8.22,-
+MLYS,"Mineralys Therapeutics, Inc.",577.33M,11.61,-
+IMXI,"International Money Express, Inc.",577.16M,17.70,666.16M
+CCBG,"Capital City Bank Group, Inc.",576.70M,34.04,221.12M
+FULC,"Fulcrum Therapeutics, Inc.",572.22M,9.17,81.63M
+LESL,"Leslie's, Inc.",571.38M,3.09,1.36B
+FMNB,Farmers National Banc Corp.,570.78M,15.19,169.11M
+LVRO,Lavoro Limited,570.21M,4.89,1.85B
+NBN,Northeast Bank,568.78M,69.98,152.68M
+PPTA,Perpetua Resources Corp.,568.29M,8.79,-
+DOYU,DouYu International Holdings Limited,567.54M,17.94,704.53M
+NVTS,Navitas Semiconductor Corporation,566.88M,3.09,91.68M
+SRDX,"Surmodics, Inc.",566.54M,39.71,120.82M
+BTBT,"Bit Digital, Inc.",565.55M,3.83,86.85M
+FRPH,"FRP Holdings, Inc.",564.06M,29.64,31.30M
+LASR,"nLIGHT, Inc.",562.11M,11.68,197.56M
+ECX,ECARX Holdings Inc.,561.19M,1.66,705.23M
+VNET,"VNET Group, Inc.",560.63M,2.10,1.04B
+SPFI,"South Plains Financial, Inc.",559.77M,34.16,185.14M
+SNDL,SNDL Inc.,559.31M,2.11,666.29M
+HIFS,Hingham Institution for Savings,559.08M,256.43,54.79M
+LIND,"Lindblad Expeditions Holdings, Inc.",556.99M,10.45,591.46M
+GCBC,"Greene County Bancorp, Inc.",556.78M,32.70,64.12M
+SSYS,Stratasys Ltd.,556.48M,7.90,622.27M
+FNKO,"Funko, Inc.",556.04M,10.59,1.07B
+INOD,Innodata Inc.,554.85M,19.14,107.34M
+PHAR,Pharming Group N.V.,552.39M,7.56,277.56M
+WLDN,"Willdan Group, Inc.",549.42M,39.26,551.90M
+AXGN,"AxoGen, Inc.",548.75M,12.52,173.48M
+NEXN,Nexxen International Ltd.,548.09M,7.99,339.02M
+YORW,The York Water Company,548.06M,38.16,73.24M
+OTLY,Oatly Group AB,547.09M,0.92,793.07M
+WASH,"Washington Trust Bancorp, Inc.",546.72M,32.05,189.11M
+ALLO,"Allogene Therapeutics, Inc.",545.78M,2.61,65.00K
+GRPN,"Groupon, Inc.",545.26M,13.72,511.89M
+HONE,"HarborOne Bancorp, Inc.",544.87M,13.13,164.89M
+RXT,"Rackspace Technology, Inc.",544.74M,2.41,2.83B
+KALV,"KalVista Pharmaceuticals, Inc.",544.12M,12.63,-
+HSAI,Hesai Group,543.70M,4.27,251.10M
+ACIC,American Coastal Insurance Corporation,543.56M,11.29,261.18M
+CGNT,Cognyte Software Ltd.,542.08M,7.54,322.85M
+CNSL,"Consolidated Communications Holdings, Inc.",541.44M,4.57,1.10B
+YXT,YXT.COM Group Holding Limited,541.28M,9.01,53.33M
+CLFD,"Clearfield, Inc.",538.91M,37.85,169.62M
+VALN,Valneva SE,537.67M,7.76,167.66M
+AVXL,Anavex Life Sciences Corp.,535.91M,6.32,-
+SNCY,"Sun Country Airlines Holdings, Inc.",534.94M,10.13,1.06B
+DH,Definitive Healthcare Corp.,530.57M,4.53,258.47M
+THRD,"Third Harmonic Bio, Inc.",529.75M,12.89,-
+CGC,Canopy Growth Corporation,529.67M,6.21,209.77M
+NFBK,"Northfield Bancorp, Inc. (Staten Island, NY)",529.03M,12.25,126.91M
+THFF,First Financial Corporation,528.92M,44.77,192.70M
+KRT,Karat Packaging Inc.,526.99M,26.33,409.32M
+MGIC,Magic Software Enterprises Ltd.,526.34M,10.72,523.33M
+PRTC,PureTech Health plc,525.22M,22.45,3.33M
+NRC,National Research Corporation,522.30M,21.88,146.28M
+AIOT,"PowerFleet, Inc.",519.36M,4.89,133.74M
+UFCS,"United Fire Group, Inc.",518.63M,20.47,1.16B
+CCRN,"Cross Country Healthcare, Inc.",518.62M,15.34,1.58B
+IIIV,"i3 Verticals, Inc.",518.60M,21.83,371.16M
+QTRX,Quanterix Corporation,518.12M,13.50,129.33M
+ALEC,"Alector, Inc.",516.77M,5.31,55.28M
+CCNE,CNB Financial Corporation,516.45M,24.82,214.48M
+CTNM,"Contineum Therapeutics, Inc.",516.01M,20.06,-
+ATLC,Atlanticus Holdings Corporation,515.62M,34.97,362.25M
+PRME,"Prime Medicine, Inc.",514.05M,4.42,591.00K
+SAGE,"Sage Therapeutics, Inc.",513.43M,8.41,97.24M
+SHCR,"Sharecare, Inc.",511.88M,1.38,403.73M
+EOSE,"Eos Energy Enterprises, Inc.",511.43M,2.36,14.79M
+AROW,Arrow Financial Corporation,511.18M,30.55,133.55M
+SOHU,Sohu.com Limited,509.88M,15.76,598.51M
+ABSI,Absci Corporation,509.87M,4.49,3.25M
+PAL,"Proficient Auto Logistics, Inc.",507.53M,19.55,-
+VREX,Varex Imaging Corporation,507.08M,12.41,832.70M
+CTLP,"Cantaloupe, Inc.",506.03M,6.95,260.11M
+OABI,"OmniAb, Inc.",505.74M,4.28,21.71M
+DAVE,Dave Inc.,501.63M,39.44,292.68M
+LRMR,"Larimar Therapeutics, Inc.",501.52M,7.86,-
+HPH,Highest Performances Holdings Inc.,501.48M,2.03,11.51M
+DGICA,Donegal Group Inc.,501.25M,14.97,961.31M
+OCS,Oculis Holding AG,497.96M,11.93,971.12K
+RSVR,"Reservoir Media, Inc.",497.85M,7.65,147.34M
+MPB,"Mid Penn Bancorp, Inc.",497.39M,29.79,169.32M
+AILE,"iLearningEngines, Inc.",495.52M,3.51,485.83M
+MRNO,Murano Global Investments Plc,495.27M,6.25,21.14M
+LAZR,"Luminar Technologies, Inc.",493.76M,1.00,76.49M
+PGC,Peapack-Gladstone Financial Corporation,493.46M,28.13,204.35M
+GLAD,Gladstone Capital Corporation,493.39M,22.68,96.66M
+ALT,"Altimmune, Inc.",493.23M,6.94,409.00K
+MSBI,"Midland States Bancorp, Inc.",493.11M,23.05,255.63M
+EYPT,"EyePoint Pharmaceuticals, Inc.",491.83M,9.19,50.39M
+CMPS,COMPASS Pathways plc,491.71M,7.19,-
+MNMD,Mind Medicine (MindMed) Inc.,490.21M,6.02,-
+ZIMV,ZimVie Inc.,489.40M,17.75,453.38M
+GLRE,"Greenlight Capital Re, Ltd.",489.20M,13.85,688.99M
+DGICB,Donegal Group Inc.,488.98M,12.77,961.31M
+NNDM,Nano Dimension Ltd.,488.90M,2.23,54.96M
+LAND,Gladstone Land Corporation,488.48M,13.63,89.37M
+SHYF,"The Shyft Group, Inc.",488.34M,14.17,794.33M
+LE,"Lands' End, Inc.",485.54M,15.46,1.45B
+GDEV,GDEV Inc.,485.25M,2.68,452.21M
+GCMG,GCM Grosvenor Inc.,484.52M,10.87,461.33M
+TROO,"TROOPS, Inc.",481.57M,4.74,3.57M
+ACTG,Acacia Research Corporation,480.80M,4.79,152.55M
+ZJYL,Jin Medical International Ltd.,480.60M,3.07,20.13M
+BRY,Berry Corporation,479.33M,6.23,844.47M
+BCAL,California BanCorp.,479.16M,14.92,87.33M
+ESQ,"Esquire Financial Holdings, Inc.",479.04M,61.26,112.34M
+GRAL,"GRAIL, Inc.",478.47M,15.41,109.74M
+OFLX,"Omega Flex, Inc.",478.27M,47.38,105.48M
+SLRN,"Acelyrin, Inc.",478.08M,4.79,-
+QTTB,Q32 Bio Inc.,476.24M,39.49,-12.80M
+SFIX,"Stitch Fix, Inc.",475.91M,3.89,1.43B
+LILM,Lilium N.V.,475.80M,0.77,-
+BAND,Bandwidth Inc.,473.08M,17.33,662.03M
+GAIN,Gladstone Investment Corporation,471.82M,12.86,89.18M
+PFIS,Peoples Financial Services Corp.,470.56M,47.17,90.82M
+SHBI,"Shore Bancshares, Inc.",470.43M,14.12,167.59M
+FFWM,First Foundation Inc.,468.86M,6.91,230.71M
+MOFG,"MidWestOne Financial Group, Inc.",465.63M,29.52,173.96M
+VLGEA,"Village Super Market, Inc.",464.95M,31.44,2.21B
+ZEUS,"Olympic Steel, Inc.",463.34M,41.62,2.07B
+SKYT,"SkyWater Technology, Inc.",462.92M,9.75,323.74M
+CCCC,"C4 Therapeutics, Inc.",460.40M,6.64,29.38M
+AMCX,AMC Networks Inc.,459.94M,10.43,2.54B
+MXCT,"MaxCyte, Inc.",458.49M,4.35,45.44M
+NIPG,NIP Group Inc.,455.53M,8.10,83.67M
+BWMN,Bowman Consulting Group Ltd.,454.22M,24.95,386.81M
+NGNE,Neurogene Inc.,454.00M,34.94,925.00K
+NWPX,Northwest Pipe Company,453.88M,45.76,471.61M
+KE,"Kimball Electronics, Inc.",453.61M,18.24,1.71B
+NTGR,"NETGEAR, Inc.",452.55M,15.78,695.01M
+HNST,"The Honest Company, Inc.",452.37M,4.52,355.70M
+BIGC,"BigCommerce Holdings, Inc.",451.75M,5.81,324.38M
+OPT,Opthea Limited,451.35M,2.87,390.44K
+TSHA,"Taysha Gene Therapies, Inc.",450.88M,2.20,12.87M
+EVGO,"EVgo, Inc.",449.74M,4.21,206.88M
+LSEA,Landsea Homes Corporation,446.19M,12.30,1.40B
+ANSC,Agriculture & Natural Solutions Acquisition Corporation,445.91M,10.34,-
+GRVY,"Gravity Co., Ltd.",445.77M,64.15,399.94M
+ALRS,Alerus Financial Corporation,444.60M,22.48,164.06M
+FHTX,Foghorn Therapeutics Inc.,443.18M,8.01,35.19M
+DHIL,"Diamond Hill Investment Group, Inc.",442.80M,160.96,142.33M
+ADTN,"ADTRAN Holdings, Inc.",441.42M,5.59,949.97M
+HCAT,"Health Catalyst, Inc.",439.62M,7.27,299.48M
+BYND,"Beyond Meat, Inc.",438.36M,6.74,317.78M
+CYRX,"Cryoport, Inc.",437.79M,8.86,225.61M
+FATE,"Fate Therapeutics, Inc.",437.29M,3.84,12.32M
+GTI,Graphjet Technology,435.82M,2.97,-
+MITK,"Mitek Systems, Inc.",435.70M,9.43,166.52M
+LYTS,LSI Industries Inc.,432.63M,15.39,469.64M
+CERS,Cerus Corporation,431.74M,2.33,169.98M
+AEHR,"Aehr Test Systems, Inc.",431.28M,14.59,66.22M
+SVCO,"Silvaco Group, Inc.",430.17M,16.36,58.28M
+KRNY,Kearny Financial Corp.,429.46M,6.88,134.38M
+CVGW,"Calavo Growers, Inc.",429.16M,24.11,992.90M
+XERS,"Xeris Biopharma Holdings, Inc.",429.12M,2.88,181.41M
+CWCO,Consolidated Water Co. Ltd.,426.90M,26.96,175.27M
+ALTI,"AlTi Global, Inc.",426.17M,4.64,241.81M
+PACB,"Pacific Biosciences of California, Inc.",425.15M,1.56,188.87M
+ISPR,Ispire Technology Inc.,424.81M,7.50,147.19M
+BSRR,Sierra Bancorp,424.42M,29.90,142.35M
+FFIC,Flushing Financial Corporation,422.37M,14.53,190.70M
+HIVE,HIVE Digital Technologies Ltd.,421.90M,3.63,123.14M
+RDUS,"Radius Recycling, Inc.",421.71M,15.04,2.69B
+CCSI,"Consensus Cloud Solutions, Inc.",421.26M,21.83,353.96M
+SENEB,Seneca Foods Corporation,420.61M,57.51,1.46B
+RMR,The RMR Group Inc.,420.46M,25.14,191.26M
+SENEA,Seneca Foods Corporation,419.37M,60.50,1.46B
+KRRO,"Korro Bio, Inc.",419.28M,45.09,-
+MERC,Mercer International Inc.,419.15M,6.27,1.99B
+VERV,"Verve Therapeutics, Inc.",418.05M,4.94,20.65M
+PERI,Perion Network Ltd.,417.40M,8.62,686.05M
+RICK,"RCI Hospitality Holdings, Inc.",416.90M,46.34,297.62M
+ITIC,Investors Title Company,416.71M,221.20,233.77M
+SDST,Stardust Power Inc.,414.09M,8.86,-
+CRMT,"America's Car-Mart, Inc.",413.90M,62.51,1.39B
+RWAY,Runway Growth Finance Corp.,412.84M,10.71,157.21M
+NNOX,Nano-X Imaging Ltd.,411.82M,7.04,10.13M
+STRO,"Sutro Biopharma, Inc.",410.64M,5.01,169.36M
+LMNR,Limoneira Company,409.39M,22.73,178.27M
+RBB,RBB Bancorp,409.15M,22.98,117.60M
+APPS,"Digital Turbine, Inc.",409.05M,3.98,516.11M
+PTSI,"P.A.M. Transportation Services, Inc.",408.00M,18.74,747.21M
+LOCO,"El Pollo Loco Holdings, Inc.",407.62M,13.62,470.98M
+CLMB,"Climb Global Solutions, Inc.",406.73M,91.12,369.74M
+AQST,"Aquestive Therapeutics, Inc.",406.13M,4.46,58.36M
+NVEC,NVE Corporation,406.03M,84.00,27.76M
+NETD,Nabors Energy Transition Corp. II,405.27M,10.63,-
+TRML,"Tourmaline Bio, Inc.",404.88M,15.79,-
+IPX,IperionX Limited,403.97M,15.82,-
+WALD,Waldencast plc,403.42M,3.29,218.14M
+ELYM,"Eliem Therapeutics, Inc.",402.36M,6.00,-
+VALU,"Value Line, Inc.",402.15M,42.70,37.49M
+FISI,"Financial Institutions, Inc.",401.35M,25.94,220.79M
+SERV,Serve Robotics Inc.,400.22M,10.19,1.52M
+LYEL,"Lyell Immunopharma, Inc.",399.36M,1.56,54.00K
+TMCI,"Treace Medical Concepts, Inc.",399.26M,6.42,198.53M
+HRZN,Horizon Technology Finance Corporation,399.18M,11.07,109.13M
+LXEO,"Lexeo Therapeutics, Inc.",398.39M,12.05,-
+ATNI,"ATN International, Inc.",397.74M,26.82,760.08M
+LINC,Lincoln Educational Services Corporation,397.53M,12.63,408.42M
+AAOI,"Applied Optoelectronics, Inc.",397.10M,9.71,206.94M
+CARE,"Carter Bankshares, Inc.",396.85M,17.20,125.73M
+TBPH,"Theravance Biopharma, Inc.",395.78M,8.09,62.02M
+PRTH,"Priority Technology Holdings, Inc.",394.15M,5.13,813.88M
+RDVT,"Red Violet, Inc.",394.09M,28.70,67.47M
+PKOH,Park-Ohio Holdings Corp.,393.78M,30.50,1.66B
+USAP,"Universal Stainless & Alloy Products, Inc.",389.75M,42.19,311.46M
+FRBA,First Bank,388.74M,15.46,114.39M
+GLUE,"Monte Rosa Therapeutics, Inc.",388.46M,6.33,5.76M
+ORGO,Organogenesis Holdings Inc.,388.44M,2.93,448.39M
+CWBC,Community West Bancshares,384.49M,20.30,85.23M
+AIRJ,Montana Technologies Corporation,383.74M,6.34,-
+TWFG,"TWFG, Inc.",383.04M,25.86,179.39M
+DCGO,DocGo Inc.,380.62M,3.72,742.84M
+MODV,ModivCare Inc.,380.07M,26.69,2.77B
+NKLA,Nikola Corporation,379.73M,7.51,48.62M
+HDSN,"Hudson Technologies, Inc.",379.20M,8.33,261.88M
+ANIK,"Anika Therapeutics, Inc.",378.65M,25.59,166.88M
+ZVRA,"Zevra Therapeutics, Inc.",377.80M,7.18,23.69M
+GTHX,"G1 Therapeutics, Inc.",376.58M,7.12,58.20M
+AURA,"Aura Biosciences, Inc.",376.51M,7.59,-
+JOUT,Johnson Outdoors Inc.,376.35M,36.92,583.32M
+BWB,"Bridgewater Bancshares, Inc.",376.06M,13.75,106.31M
+NKTX,"Nkarta, Inc.",375.37M,5.32,-
+OCGN,"Ocugen, Inc.",374.22M,1.30,7.26M
+LOVE,The Lovesac Company,373.68M,24.03,691.72M
+NRIM,"Northrim BanCorp, Inc.",373.14M,67.82,136.39M
+FBIZ,"First Business Financial Services, Inc.",372.18M,44.87,139.46M
+EBTC,"Enterprise Bancorp, Inc.",372.05M,30.42,162.52M
+RRBI,"Red River Bancshares, Inc.",371.79M,53.99,104.93M
+VYGR,"Voyager Therapeutics, Inc.",370.83M,6.80,143.77M
+SLDB,Solid Biosciences Inc.,368.97M,9.56,-
+GAMB,Gambling.com Group Limited,368.89M,10.16,115.74M
+AMSWA,"American Software, Inc.",368.08M,11.06,102.81M
+FMAO,"Farmers & Merchants Bancorp, Inc.",367.98M,27.20,95.41M
+BSVN,Bank7 Corp.,367.35M,39.34,78.57M
+CCIX,Churchill Capital Corp IX,367.17M,10.02,-
+BDTX,"Black Diamond Therapeutics, Inc.",365.02M,6.46,-
+ACNB,ACNB Corporation,361.74M,42.33,106.71M
+ARTNA,Artesian Resources Corporation,360.96M,35.06,103.08M
+ONEW,OneWater Marine Inc.,360.41M,24.64,1.85B
+GPAT,GP-Act III Acquisition Corp.,359.91M,10.02,-
+ALF,Centurion Acquisition Corp.,359.02M,9.99,-
+GGR,Gogoro Inc.,358.85M,1.29,333.94M
+ACB,Aurora Cannabis Inc.,356.62M,6.51,203.84M
+HBCP,"Home Bancorp, Inc.",355.05M,44.00,129.84M
+ACCD,"Accolade, Inc.",353.64M,4.42,431.53M
+IMMP,Immutep Limited,353.02M,2.43,2.68M
+ALNT,Allient Inc.,351.87M,20.89,569.06M
+FORR,"Forrester Research, Inc.",351.09M,18.42,453.42M
+BBCP,"Concrete Pumping Holdings, Inc.",350.15M,6.47,445.65M
+CBNK,"Capital Bancorp, Inc.",349.21M,25.10,157.49M
+KYTX,"Kyverna Therapeutics, Inc.",349.06M,8.09,-
+LWLG,"Lightwave Logic, Inc.",348.87M,2.89,90.27K
+AVNW,"Aviat Networks, Inc.",348.31M,27.72,385.39M
+ESPR,"Esperion Therapeutics, Inc.",347.32M,1.77,277.79M
+CMPO,"CompoSecure, Inc.",347.11M,11.57,409.36M
+MCFT,"MasterCraft Boat Holdings, Inc.",346.07M,20.38,465.97M
+WTBA,"West Bancorporation, Inc.",344.06M,20.44,76.33M
+FSBW,"FS Bancorp, Inc.",344.00M,44.97,138.83M
+TMC,TMC the metals company Inc.,343.43M,1.06,-
+ICG,Intchains Group Limited,342.48M,5.71,26.09M
+LNZA,"LanzaTech Global, Inc.",342.13M,1.73,67.69M
+CDRO,"Codere Online Luxembourg, S.A.",342.00M,7.55,151.88M
+RGP,"Resources Connection, Inc.",341.98M,10.19,632.80M
+SGHT,"Sight Sciences, Inc.",340.08M,6.76,79.40M
+FARO,"FARO Technologies, Inc.",339.63M,17.42,351.98M
+TCBX,"Third Coast Bancshares, Inc.",339.44M,24.84,151.61M
+INZY,"Inozyme Pharma, Inc.",338.77M,5.40,-
+PSNL,"Personalis, Inc.",338.48M,5.97,80.03M
+UNTY,"Unity Bancorp, Inc.",338.41M,33.91,99.26M
+OBT,"Orange County Bancorp, Inc.",336.37M,59.39,102.96M
+PGEN,"Precigen, Inc.",334.15M,1.16,4.39M
+IPXX,Inflection Point Acquisition Corp. II,333.75M,10.68,-
+ILPT,Industrial Logistics Properties Trust,333.21M,5.05,441.89M
+NEWT,"NewtekOne, Inc.",332.86M,12.82,301.04M
+JFIN,Jiayin Group Inc.,331.45M,6.25,806.05M
+BMRC,Bank of Marin Bancorp,331.29M,20.49,58.62M
+OSUR,"OraSure Technologies, Inc.",331.08M,4.44,273.54M
+ALDX,"Aldeyra Therapeutics, Inc.",330.98M,5.57,-
+XOMA,XOMA Royalty Corporation,330.65M,28.25,15.24M
+AUDC,AudioCodes Ltd.,329.97M,10.92,245.53M
+LUNR,"Intuitive Machines, Inc.",329.72M,5.24,157.77M
+AVIR,"Atea Pharmaceuticals, Inc.",329.25M,3.90,-
+CLPT,"ClearPoint Neuro, Inc.",327.84M,11.88,28.07M
+AIP,"Arteris, Inc.",327.40M,8.34,53.30M
+WEYS,"Weyco Group, Inc.",326.98M,34.70,300.23M
+NEGG,"Newegg Commerce, Inc.",326.91M,0.86,1.50B
+NAUT,"Nautilus Biotechnology, Inc.",326.07M,2.60,-
+MTLS,Materialise NV,324.87M,5.50,276.29M
+HEAR,Turtle Beach Corporation,324.39M,15.63,291.02M
+ESEA,Euroseas Ltd.,324.34M,46.24,205.17M
+MGTX,MeiraGTx Holdings plc,322.75M,4.17,8.12M
+VBNK,VersaBank,322.64M,12.42,82.59M
+AKBA,"Akebia Therapeutics, Inc.",321.74M,1.53,174.50M
+KMDA,Kamada Ltd.,321.62M,5.72,154.57M
+DENN,Denny's Corporation,321.09M,6.25,455.44M
+SNBR,Sleep Number Corporation,320.79M,14.35,1.78B
+NATH,"Nathan's Famous, Inc.",320.76M,78.53,141.39M
+TITN,Titan Machinery Inc.,319.47M,14.21,2.82B
+NODK,"NI Holdings, Inc.",319.02M,15.45,380.70M
+VNDA,Vanda Pharmaceuticals Inc.,318.26M,5.46,182.02M
+EDIT,"Editas Medicine, Inc.",318.26M,3.87,67.03M
+UXIN,Uxin Limited,317.63M,1.69,190.39M
+MAMA,"Mama's Creations, Inc.",316.36M,8.49,110.00M
+CRMD,CorMedix Inc.,315.61M,5.65,806.12K
+PEPG,PepGen Inc.,315.14M,9.67,-
+INBK,First Internet Bancorp,313.78M,36.20,101.42M
+PANL,"Pangaea Logistics Solutions, Ltd.",312.84M,6.67,503.74M
+MBAV,M3-Brigade Acquisition V Corp.,312.81M,10.01,-
+TCMD,"Tactile Systems Technology, Inc.",312.77M,13.05,281.54M
+REFI,"Chicago Atlantic Real Estate Finance, Inc.",312.23M,15.91,55.19M
+GMGI,"Golden Matrix Group, Inc.",311.77M,2.58,45.24M
+PMTS,CPI Card Group Inc.,311.68M,28.14,439.49M
+DADA,Dada Nexus Limited,310.83M,1.18,1.40B
+ADAP,Adaptimmune Therapeutics plc,309.45M,1.21,141.46M
+ANGO,"AngioDynamics, Inc.",309.32M,7.68,303.91M
+CZNC,Citizens & Northern Corporation,309.08M,20.08,103.19M
+DOMO,"Domo, Inc.",308.83M,8.09,319.63M
+FNLC,"The First Bancorp, Inc.",307.69M,27.61,77.08M
+VACH,Voyager Acquisition Corp.,307.54M,9.99,-
+NNE,NANO Nuclear Energy Inc.,307.30M,10.20,-
+IMMR,Immersion Corporation,306.38M,9.52,163.13M
+CUB,Lionheart Holdings,306.36M,9.99,-
+ACIU,AC Immune SA,304.74M,3.08,17.24M
+SPOK,"Spok Holdings, Inc.",304.57M,15.03,138.27M
+SMTI,Sanara MedTech Inc.,304.31M,34.79,72.41M
+ALIM,"Alimera Sciences, Inc.",304.01M,5.59,99.68M
+UHG,"United Homes Group, Inc.",303.34M,6.27,414.81M
+ITI,"Iteris, Inc.",303.02M,7.08,174.22M
+SBT,"Sterling Bancorp, Inc. (Southfield, MI)",301.93M,5.77,69.97M
+FRST,Primis Financial Corp.,301.86M,12.23,135.60M
+AFRI,Forafric Global PLC,301.58M,11.22,305.48M
+QURE,uniQure N.V.,301.44M,6.19,27.71M
+PROK,ProKidney Corp.,301.26M,2.39,-
+EWCZ,"European Wax Center, Inc.",300.92M,6.30,223.79M
+TCRX,"TScan Therapeutics, Inc.",300.36M,5.67,12.20M
+TALK,"Talkspace, Inc.",297.74M,1.77,172.54M
+INGN,"Inogen, Inc.",296.72M,12.51,326.65M
+HMST,"HomeStreet, Inc.",296.44M,15.72,180.52M
+GWRS,"Global Water Resources, Inc.",296.18M,12.23,52.02M
+SIMA,SIM Acquisition Corp. I,296.07M,8.00,-
+CABA,"Cabaletta Bio, Inc.",296.02M,6.06,-
+HRTX,"Heron Therapeutics, Inc.",295.75M,1.95,136.36M
+VIRC,Virco Mfg. Corporation,295.63M,18.24,280.91M
+PRLD,Prelude Therapeutics Incorporated,295.48M,5.37,-
+IBEX,IBEX Limited,295.40M,17.16,508.47M
+REAL,"The RealReal, Inc.",295.12M,2.72,565.28M
+LSAK,"Lesaka Technologies, Inc.",295.08M,4.88,551.33M
+LUNG,Pulmonx Corporation,294.04M,7.51,76.58M
+RNAC,"Cartesian Therapeutics, Inc.",294.01M,13.75,54.10M
+QRTEB,"Qurate Retail, Inc.",292.56M,4.10,10.37B
+JSPR,"Jasper Therapeutics, Inc.",291.38M,19.29,-
+ACRV,"Acrivon Therapeutics, Inc.",289.90M,9.36,-
+LX,LexinFintech Holdings Ltd.,289.37M,1.76,1.84B
+FLIC,The First of Long Island Corporation,289.08M,12.83,86.96M
+VMD,"Viemed Healthcare, Inc.",286.92M,7.39,205.70M
+FDBC,"Fidelity D & D Bancorp, Inc.",286.79M,50.00,70.43M
+BETR,Better Home & Finance Holding Company,286.69M,18.95,61.70M
+NWTN,NWTN Inc.,286.19M,1.00,583.00K
+USCB,"USCB Financial Holdings, Inc.",285.87M,14.57,66.71M
+CAN,Canaan Inc.,285.29M,0.99,209.48M
+LWAY,"Lifeway Foods, Inc.",284.87M,19.26,176.78M
+ENGN,enGene Holdings Inc.,283.55M,6.42,-
+MVBF,MVB Financial Corp.,283.25M,21.91,143.78M
+SSBK,"Southern States Bancshares, Inc.",282.65M,31.70,80.76M
+BLZE,"Backblaze, Inc.",282.62M,6.59,115.29M
+JRVR,"James River Group Holdings, Ltd.",282.18M,7.46,815.64M
+PBFS,"Pioneer Bancorp, Inc.",281.78M,11.17,74.14M
+UROY,Uranium Royalty Corp.,280.61M,2.32,31.07M
+NYXH,Nyxoah S.A.,280.09M,8.23,5.13M
+PFMT,Performant Financial Corporation,279.43M,3.62,119.23M
+LPAA,Launch One Acquisition Corp.,278.88M,9.96,-
+AEYE,"AudioEye, Inc.",278.33M,23.43,32.26M
+APEI,"American Public Education, Inc.",278.09M,15.71,610.97M
+PSTX,"Poseida Therapeutics, Inc.",277.76M,2.86,88.46M
+ENTA,"Enanta Pharmaceuticals, Inc.",277.36M,13.09,71.96M
+WSBF,"Waterstone Financial, Inc.",276.98M,15.25,132.56M
+DSGN,"Design Therapeutics, Inc.",276.87M,4.89,-
+JMSB,"John Marshall Bancorp, Inc.",276.60M,19.50,35.69M
+ASLE,AerSale Corporation,276.15M,5.19,354.55M
+SLDP,"Solid Power, Inc.",275.60M,1.54,19.74M
+BMEA,"Biomea Fusion, Inc.",275.56M,7.61,-
+WHF,"WhiteHorse Finance, Inc.",275.20M,11.84,100.46M
+PCB,PCB Bancorp,273.62M,19.23,93.74M
+MTRX,Matrix Service Company,273.09M,10.00,744.57M
+TTSH,"Tile Shop Holdings, Inc.",272.37M,6.10,359.68M
+CRVS,"Corvus Pharmaceuticals, Inc.",268.97M,4.30,-
+SCPH,scPharmaceuticals Inc.,268.65M,5.37,24.05M
+NECB,"Northeast Community Bancorp, Inc.",268.24M,22.98,104.33M
+TECX,"Tectonic Therapeutic, Inc.",268.17M,18.20,-
+CDXC,ChromaDex Corporation,267.11M,3.51,85.58M
+CIVB,"Civista Bancshares, Inc.",266.59M,16.94,147.54M
+TKNO,"Alpha Teknova, Inc.",265.98M,4.99,34.94M
+CRNT,Ceragon Networks Ltd.,264.48M,3.08,362.21M
+CZFS,"Citizens Financial Services, Inc.",263.51M,55.36,98.19M
+BDSX,"Biodesix, Inc.",262.77M,1.81,60.90M
+COFS,"ChoiceOne Financial Services, Inc.",262.72M,29.33,83.14M
+SFST,"Southern First Bancshares, Inc.",262.68M,32.21,89.00M
+PAYS,"Paysign, Inc.",262.50M,4.94,53.61M
+CBAN,"Colony Bankcorp, Inc.",262.09M,14.90,109.42M
+QRTEA,"Qurate Retail, Inc.",261.85M,0.66,10.37B
+SLAM,Slam Corp.,261.50M,11.15,-
+GILT,Gilat Satellite Networks Ltd.,261.14M,4.58,292.25M
+ZYXI,"Zynex, Inc.",259.97M,8.19,193.61M
+AIRS,"AirSculpt Technologies, Inc.",258.59M,4.49,193.03M
+AMRN,Amarin Corporation plc,258.46M,0.63,264.78M
+TRUE,"TrueCar, Inc.",258.13M,2.84,165.28M
+RITR,Reitar Logtech Holdings Limited,257.82M,4.15,14.35M
+JAKK,"JAKKS Pacific, Inc.",257.58M,23.45,675.84M
+OB,Outbrain Inc.,257.38M,5.23,909.36M
+IHRT,"iHeartMedia, Inc.",256.63M,1.69,3.75B
+BCML,BayCom Corp,256.29M,23.15,97.49M
+ARQ,"Arq, Inc.",255.96M,7.01,105.08M
+HNRG,Hallador Energy Company,255.59M,6.00,485.54M
+HPAI,Helport AI Limited,255.06M,5.55,21.31M
+NATR,"Nature's Sunshine Products, Inc.",252.26M,13.63,441.68M
+BYRN,Byrna Technologies Inc.,252.14M,11.07,59.65M
+DOGZ,Dogness (International) Corporation,251.69M,19.77,13.86M
+PDLB,"Ponce Financial Group, Inc.",250.46M,11.16,81.74M
+OBIO,"Orchestra BioMed Holdings, Inc.",250.40M,6.62,2.08M
+EGHT,"8x8, Inc.",250.24M,1.95,723.57M
+NBTX,Nanobiotix S.A.,249.92M,5.28,40.02M
+SVII,Spring Valley Acquisition Corp. II,249.59M,11.19,-
+TOYO,"TOYO Co., Ltd",249.07M,5.17,62.38M
+NKTR,Nektar Therapeutics,248.51M,1.35,93.16M
+PKBK,"Parke Bancorp, Inc.",248.29M,20.73,64.61M
+SERA,"Sera Prognostics, Inc.",247.93M,7.43,107.00K
+PCYO,Pure Cycle Corporation,247.74M,10.29,19.56M
+SOPH,SOPHiA GENETICS SA,247.62M,3.74,64.94M
+TSBK,"Timberland Bancorp, Inc.",247.50M,31.07,74.39M
+RENE,Cartesian Growth Corporation II,246.26M,11.39,-
+OMER,Omeros Corporation,245.69M,4.24,-
+TSVT,"2seventy bio, Inc.",244.62M,4.75,44.12M
+HLXB,Helix Acquisition Corp. II,244.49M,10.40,-
+RCEL,"AVITA Medical, Inc.",244.43M,9.34,54.14M
+TCX,Tucows Inc.,243.93M,22.22,350.81M
+TLS,Telos Corporation,243.51M,3.37,135.36M
+BLDE,"Blade Air Mobility, Inc.",243.15M,3.12,238.38M
+LNKB,"LINKBANCORP, Inc.",242.12M,6.48,68.14M
+PBPB,Potbelly Corporation,241.96M,8.08,477.37M
+BPRN,"Princeton Bancorp, Inc.",240.81M,38.09,71.92M
+IRBT,iRobot Corporation,240.79M,7.97,810.10M
+INSE,"Inspired Entertainment, Inc.",238.91M,8.99,317.40M
+ABEO,Abeona Therapeutics Inc.,238.88M,5.52,-
+BOOM,DMC Global Inc.,238.46M,11.90,684.23M
+UTMD,"Utah Medical Products, Inc.",238.43M,68.57,46.58M
+RZLT,"Rezolute, Inc.",238.03M,4.30,-
+RCAT,"Red Cat Holdings, Inc.",237.23M,3.18,17.84M
+RCKY,"Rocky Brands, Inc.",236.28M,31.72,462.73M
+LFMD,"LifeMD, Inc.",234.73M,5.45,178.28M
+SGC,"Superior Group of Companies, Inc.",234.17M,13.96,553.95M
+PLBC,Plumas Bancorp,232.95M,39.51,78.62M
+ARTV,"Artiva Biotherapeutics, Inc.",232.82M,10.00,32.75M
+ASUR,"Asure Software, Inc.",232.04M,8.77,115.29M
+NPCE,"NeuroPace, Inc.",231.24M,7.92,71.82M
+EPIX,ESSA Pharma Inc.,231.16M,5.21,-
+PNRG,PrimeEnergy Resources Corporation,230.95M,131.84,178.71M
+CLLS,Cellectis S.A.,230.80M,2.37,19.64M
+PROC,Procaps Group S.A.,230.16M,2.04,414.10M
+CDZI,Cadiz Inc.,229.49M,3.38,2.69M
+FVCB,"FVCBankcorp, Inc.",229.33M,12.61,44.61M
+BLFY,Blue Foundry Bancorp,229.02M,10.80,41.85M
+ZNTL,"Zentalis Pharmaceuticals, Inc.",226.83M,3.19,40.56M
+EGAN,eGain Corporation,226.38M,7.59,94.98M
+ARAY,Accuray Incorporated,226.28M,2.28,446.55M
+ORGN,"Origin Materials, Inc.",225.91M,1.55,34.06M
+VSTA,Vasta Platform Limited,225.79M,2.82,282.28M
+ZURA,Zura Bio Limited,225.65M,3.57,-
+TNYA,"Tenaya Therapeutics, Inc.",224.83M,2.85,-
+DCTH,"Delcath Systems, Inc.",224.28M,8.01,11.88M
+GAUZ,Gauzy Ltd.,224.27M,12.01,89.75M
+FCEL,"FuelCell Energy, Inc.",223.67M,0.45,87.08M
+CHMG,Chemung Financial Corporation,223.53M,47.00,96.44M
+SHIP,Seanergy Maritime Holdings Corp.,223.23M,10.83,145.31M
+ALCO,"Alico, Inc.",222.99M,29.23,46.39M
+MBCN,Middlefield Banc Corp.,221.79M,27.48,66.74M
+PROF,Profound Medical Corp.,221.55M,9.03,7.88M
+BWFG,"Bankwell Financial Group, Inc.",220.75M,28.95,81.49M
+ATAI,Atai Life Sciences N.V.,219.82M,1.31,378.00K
+RIGL,"Rigel Pharmaceuticals, Inc.",219.59M,12.48,130.20M
+LCNB,LCNB Corp.,219.36M,15.50,70.78M
+MGNX,"MacroGenics, Inc.",218.90M,3.49,41.02M
+GNFT,Genfit S.A.,218.75M,4.35,38.12M
+PYXS,"Pyxis Oncology, Inc.",218.68M,3.71,16.15M
+STRS,Stratus Properties Inc.,217.85M,26.97,42.94M
+TRVI,"Trevi Therapeutics, Inc.",217.05M,2.99,-
+NWFL,Norwood Financial Corp.,216.91M,26.98,61.89M
+SWKH,SWK Holdings Corporation,216.83M,17.54,25.77M
+GASS,StealthGas Inc.,216.57M,5.98,147.03M
+CDXS,"Codexis, Inc.",216.33M,3.05,60.89M
+TTEC,"TTEC Holdings, Inc.",216.19M,4.53,2.34B
+BCBP,"BCB Bancorp, Inc.",216.10M,12.69,91.24M
+OVLY,Oak Valley Bancorp,216.09M,26.14,76.55M
+VXRT,"Vaxart, Inc.",216.07M,0.95,13.93M
+MACI,Melar Acquisition Corp. I,216.00M,9.99,-
+FLXS,"Flexsteel Industries, Inc.",215.69M,41.83,412.75M
+RGCO,"RGC Resources, Inc.",215.21M,21.06,84.00M
+EXFY,"Expensify, Inc.",215.18M,2.43,138.53M
+SKIN,The Beauty Health Company,214.56M,1.73,366.23M
+IONR,ioneer Ltd,214.24M,3.77,-
+BLNK,Blink Charging Co.,212.42M,2.10,156.92M
+AFCG,"AFC Gamma, Inc.",210.60M,10.19,52.61M
+SNFCA,Security National Financial Corporation,208.48M,8.98,322.13M
+POET,POET Technologies Inc.,208.40M,3.16,116.26K
+OGI,Organigram Holdings Inc.,208.32M,2.02,110.30M
+VABK,Virginia National Bankshares Corporation,208.23M,38.77,51.88M
+KVAC,Keen Vision Acquisition Corporation,206.83M,10.68,-
+FSTR,L.B. Foster Company,206.31M,18.84,545.34M
+IVCB,Investcorp Europe Acquisition Corp I,205.86M,11.43,-
+SEVN,Seven Hills Realty Trust,205.68M,13.87,33.54M
+GOSS,"Gossamer Bio, Inc.",205.57M,0.91,95.84M
+MOLN,Molecular Partners AG,205.57M,6.23,7.46M
+SMLR,"Semler Scientific, Inc.",205.15M,29.34,61.74M
+FFNW,"First Financial Northwest, Inc.",205.09M,22.36,40.29M
+GPRO,"GoPro, Inc.",204.66M,1.34,931.41M
+NVX,NOVONIX Limited,204.07M,1.67,6.88M
+MVIS,"MicroVision, Inc.",203.58M,0.96,9.00M
+GHIX,"Gores Holdings IX, Inc.",202.85M,10.59,-
+SSTI,"SoundThinking, Inc.",202.61M,15.85,102.39M
+XBIT,XBiotech Inc.,200.45M,6.58,-
+MDWD,MediWound Ltd.,200.09M,18.55,20.14M
+CDLX,"Cardlytics, Inc.",199.86M,4.01,305.42M
+CRBU,"Caribou Biosciences, Inc.",199.70M,2.21,33.11M
+MYPS,"PLAYSTUDIOS, Inc.",198.21M,1.59,303.39M
+NNBR,"NN, Inc.",197.69M,3.95,481.17M
+GLSI,"Greenwich LifeSciences, Inc.",195.59M,14.88,-
+ESCA,"Escalade, Incorporated",195.39M,14.08,258.69M
+INO,"Inovio Pharmaceuticals, Inc.",194.99M,7.51,591.86K
+NKSH,"National Bankshares, Inc.",194.64M,30.62,42.85M
+API,"Agora, Inc.",194.07M,2.11,138.29M
+EML,The Eastern Company,193.64M,31.09,273.70M
+INBX,"Inhibrx Biosciences, Inc.",193.11M,13.34,1.69M
+CFFI,C&F Financial Corporation,192.71M,58.99,113.65M
+MRSN,"Mersana Therapeutics, Inc.",191.37M,1.56,29.94M
+KLTR,"Kaltura, Inc.",190.71M,1.28,176.83M
+AGBA,AGBA Group Holding Limited,190.62M,2.33,38.32M
+MHLD,"Maiden Holdings, Ltd.",190.57M,1.91,96.35M
+EM,Smart Share Global Limited,190.41M,0.74,269.75M
+OPBK,OP Bancorp,190.33M,12.85,77.02M
+CVRX,"CVRx, Inc.",190.19M,8.73,44.39M
+GEVO,"Gevo, Inc.",190.19M,0.82,18.15M
+SMID,Smith-Midland Corporation,189.89M,35.81,68.43M
+DIBS,"1stdibs.Com, Inc.",189.73M,4.78,85.88M
+IPHA,Innate Pharma S.A.,188.92M,2.21,68.13M
+RILY,"B. Riley Financial, Inc.",188.29M,6.22,1.22B
+WNEB,"Western New England Bancorp, Inc.",188.24M,8.83,74.44M
+OXSQ,Oxford Square Capital Corp.,188.09M,2.95,47.49M
+TPIC,"TPI Composites, Inc.",186.41M,3.92,1.29B
+HFFG,HF Foods Group Inc.,186.14M,3.53,1.16B
+SSP,The E.W. Scripps Company,186.01M,2.16,2.32B
+CNTX,Context Therapeutics Inc.,186.00M,2.48,-
+IVCA,Investcorp India Acquisition Corp,185.99M,11.44,-
+HQI,"HireQuest, Inc.",185.98M,13.31,36.13M
+FTEL,Fitell Corporation,185.70M,16.70,3.87M
+ULBI,Ultralife Corporation,185.68M,11.17,168.95M
+FUNC,First United Corporation,185.56M,28.70,69.63M
+TUSK,"Mammoth Energy Services, Inc.",185.29M,3.85,212.46M
+POWW,"AMMO, Inc.",185.26M,1.56,135.50M
+LFCR,"Lifecore Biomedical, Inc.",185.22M,6.00,121.52M
+BTMD,biote Corp.,184.72M,5.96,187.23M
+RGTI,"Rigetti Computing, Inc.",184.72M,0.97,12.62M
+TWIN,"Twin Disc, Incorporated",184.58M,13.19,295.13M
+SANG,Sangoma Technologies Corporation,184.39M,5.32,250.03M
+BTOC,Armlogi Holding Corp.,184.29M,4.43,169.77M
+CGEN,Compugen Ltd.,182.65M,2.04,42.72M
+LAKE,"Lakeland Industries, Inc.",182.34M,24.72,132.30M
+BYU,"BAIYU Holdings, Inc.",182.30M,3.65,120.09M
+CADL,"Candel Therapeutics, Inc.",182.24M,5.68,-
+STHO,Star Holdings,182.08M,13.67,136.77M
+SKYE,"Skye Bioscience, Inc.",180.51M,5.95,-
+DSP,Viant Technology Inc.,180.37M,11.09,243.25M
+ISTR,Investar Holding Corporation,180.07M,18.32,80.65M
+HOND,HCM II Acquisition Corp.,179.75M,7.19,-
+CPSS,"Consumer Portfolio Services, Inc.",179.15M,8.40,188.42M
+ATOS,"Atossa Therapeutics, Inc.",178.58M,1.42,-
+SGMO,"Sangamo Therapeutics, Inc.",178.57M,0.86,12.28M
+PVBC,"Provident Bancorp, Inc.",178.24M,10.67,58.74M
+OTLK,"Outlook Therapeutics, Inc.",178.13M,7.53,-
+PLL,Piedmont Lithium Inc.,178.08M,9.19,66.45M
+MFIN,Medallion Financial Corp.,177.80M,7.98,286.47M
+ESSA,"ESSA Bancorp, Inc.",177.06M,18.64,68.48M
+GBIO,Generation Bio Co.,176.86M,2.65,13.17M
+MYFW,"First Western Financial, Inc.",176.79M,18.30,80.15M
+CLAR,Clarus Corporation,176.47M,4.60,283.60M
+FLL,"Full House Resorts, Inc.",176.44M,5.07,274.99M
+VRA,"Vera Bradley, Inc.",176.34M,5.98,457.03M
+HCVI,Hennessy Capital Investment Corp. VI,176.31M,10.60,-
+QRHC,Quest Resource Holding Corporation,175.71M,8.62,285.56M
+PESI,"Perma-Fix Environmental Services, Inc.",175.07M,11.08,72.20M
+TBRG,"TruBridge, Inc.",174.95M,12.21,336.56M
+ABOS,"Acumen Pharmaceuticals, Inc.",174.83M,2.91,-
+AHG,Akso Health Group,174.81M,1.05,2.41M
+PRQR,ProQR Therapeutics N.V.,174.80M,2.14,16.90M
+CMPX,"Compass Therapeutics, Inc.",173.36M,1.26,850.00K
+RELL,"Richardson Electronics, Ltd.",173.24M,12.05,196.46M
+PTMN,Portman Ridge Finance Corporation,172.77M,18.69,69.23M
+JYNT,The Joint Corp.,171.86M,11.46,120.07M
+DXLG,"Destination XL Group, Inc.",171.79M,2.95,511.86M
+SPKL,Spark I Acquisition Corporation,171.77M,10.46,-
+SKGR,SK Growth Opportunities Corporation,171.63M,11.22,-
+ASPI,ASP Isotopes Inc.,171.39M,2.57,2.30M
+CBUS,"Cibus, Inc.",171.20M,7.56,2.96M
+DMAC,DiaMedica Therapeutics Inc.,170.99M,4.00,-
+BRKH,BurTech Acquisition Corp.,169.82M,11.20,-
+MRCC,Monroe Capital Corporation,169.65M,7.83,61.96M
+CSTE,Caesarstone Ltd.,169.23M,4.90,508.64M
+FINW,FinWise Bancorp,169.10M,12.80,67.15M
+RMNI,"Rimini Street, Inc.",168.70M,1.86,429.43M
+RMBL,"RumbleOn, Inc.",167.61M,4.75,1.29B
+DSY,Big Tree Cloud Holdings Limited,167.25M,2.93,7.98M
+STTK,"Shattuck Labs, Inc.",167.05M,3.50,4.12M
+ATLX,Atlas Lithium Corporation,166.99M,10.95,374.11K
+FCCO,First Community Corporation,166.83M,21.85,59.23M
+ESOA,Energy Services of America Corporation,166.54M,10.05,352.07M
+LCUT,"Lifetime Brands, Inc.",166.41M,7.51,678.72M
+III,"Information Services Group, Inc.",166.23M,3.40,266.49M
+PWOD,"Penns Woods Bancorp, Inc.",166.13M,22.02,64.82M
+BAER,"Bridger Aerospace Group Holdings, Inc.",165.88M,3.12,73.25M
+BRLS,Borealis Foods Inc.,165.69M,7.75,28.40M
+LVO,"LiveOne, Inc.",165.47M,1.75,123.75M
+HOFT,Hooker Furnishings Corporation,165.45M,15.74,404.98M
+MCAA,Mountain & Co. I Acquisition Corp.,165.32M,11.70,-
+TLSI,"TriSalus Life Sciences, Inc.",164.58M,5.62,24.74M
+ME,23andMe Holding Co.,163.64M,0.32,199.19M
+ATLO,Ames National Corporation,163.30M,18.16,51.28M
+BVFL,"BV Financial, Inc.",162.39M,14.26,37.41M
+ALCY,Alchemy Investments Acquisition Corp 1,161.91M,10.82,-
+ARBE,Arbe Robotics Ltd.,161.82M,2.00,1.37M
+SCLX,Scilex Holding Company,160.70M,1.22,50.83M
+CHRS,"Coherus BioSciences, Inc.",160.14M,1.39,308.13M
+FSFG,"First Savings Financial Group, Inc.",160.01M,23.44,72.09M
+INSG,Inseego Corp.,159.92M,13.02,195.50M
+MDIA,MediaCo Holding Inc.,159.73M,3.42,31.76M
+VTYX,"Ventyx Biosciences, Inc.",159.71M,2.26,-
+SHMD,SCHMID Group N.V.,159.46M,3.99,-
+KNDI,"Kandi Technologies Group, Inc.",158.99M,1.82,124.61M
+TAYD,"Taylor Devices, Inc.",158.96M,50.97,44.58M
+IBAC,IB Acquisition Corp.,157.81M,10.02,-
+OPRX,OptimizeRx Corporation,157.57M,8.60,83.20M
+TATT,TAT Technologies Ltd.,157.54M,15.95,122.67M
+MOND,"Mondee Holdings, Inc.",157.31M,1.90,232.97M
+EUDA,EUDA Health Holdings Limited,156.86M,4.53,3.71M
+FLD,FTAC Emerald Acquisition Corp.,156.75M,10.92,-
+DLHC,DLH Holdings Corp.,156.30M,11.02,401.04M
+STRT,Strattec Security Corporation,156.14M,38.38,537.77M
+FENC,Fennec Pharmaceuticals Inc.,155.95M,5.70,48.89M
+HWBK,"Hawthorn Bancshares, Inc.",155.73M,22.29,56.22M
+TELO,"Telomir Pharmaceuticals, Inc.",155.45M,5.25,-
+HITI,High Tide Inc.,155.34M,1.96,366.55M
+ACHV,"Achieve Life Sciences, Inc.",154.88M,4.51,-
+ESHA,ESH Acquisition Corp.,154.69M,10.55,-
+ACTU,"Actuate Therapeutics, Inc.",154.42M,8.08,-
+PEBK,"Peoples Bancorp of North Carolina, Inc.",154.40M,29.18,79.20M
+DRTS,Alpha Tau Medical Ltd.,153.83M,2.20,-
+SAMG,Silvercrest Asset Management Group Inc.,152.95M,16.02,119.51M
+PROP,Prairie Operating Co.,152.56M,9.21,1.55M
+RFAI,RF Acquisition Corp II,152.35M,10.15,-
+ADVM,"Adverum Biotechnologies, Inc.",152.26M,7.32,-
+RTC,Baijiayun Group Ltd,151.91M,7.37,71.90M
+AMLX,"Amylyx Pharmaceuticals, Inc.",151.82M,2.23,298.76M
+IPSC,"Century Therapeutics, Inc.",151.64M,1.79,2.04M
+RDCM,RADCOM Ltd.,151.57M,9.70,56.13M
+BFIN,BankFinancial Corporation,151.27M,12.14,55.75M
+FTLF,"FitLife Brands, Inc.",151.19M,32.88,60.68M
+CRNC,Cerence Inc.,150.91M,3.61,357.46M
+KOD,Kodiak Sciences Inc.,150.64M,2.87,-
+EDAP,EDAP TMS S.A.,150.27M,4.05,65.31M
+SOWG,Sow Good Inc.,148.76M,14.52,41.61M
+KEQU,Kewaunee Scientific Corporation,148.54M,52.30,203.76M
+CAPR,"Capricor Therapeutics, Inc.",148.38M,4.56,27.15M
+ALAR,Alarum Technologies Ltd.,146.92M,21.60,29.22M
+TZOO,Travelzoo,146.87M,11.95,84.87M
+RCMT,"RCM Technologies, Inc.",146.02M,19.14,270.18M
+SCWO,374Water Inc.,146.00M,1.10,244.73K
+PGHL,Primega Group Holdings Limited,145.92M,6.08,13.46M
+BCSA,Blockchain Coinvestors Acquisition Corp. I,144.68M,11.22,-
+MMLP,Martin Midstream Partners L.P.,144.30M,3.70,723.16M
+GUTS,"Fractyl Health, Inc.",144.26M,3.01,119.00K
+LOGC,ContextLogic Inc.,143.99M,5.48,156.00M
+GALT,Galectin Therapeutics Inc.,143.86M,2.31,-
+BANX,ArrowMark Financial Corp.,143.80M,20.21,29.95M
+QSI,Quantum-Si incorporated,143.78M,1.01,1.70M
+ATYR,"aTyr Pharma, Inc.",143.25M,1.89,588.00K
+NIU,Niu Technologies,142.78M,1.84,392.32M
+ISRL,Israel Acquisitions Corp,142.62M,11.13,-
+MASS,908 Devices Inc.,142.44M,4.11,52.69M
+TRVG,trivago N.V.,141.85M,2.03,503.10M
+DTI,Drilling Tools International Corporation,141.25M,4.07,147.83M
+UBFO,United Security Bancshares,140.83M,8.13,51.73M
+TSAT,Telesat Corporation,140.43M,10.18,471.70M
+OPTN,"OptiNose, Inc.",139.69M,0.93,75.06M
+VIGL,"Vigil Neuroscience, Inc.",139.16M,3.51,-
+CZWI,"Citizens Community Bancorp, Inc.",138.71M,13.47,60.69M
+CRDL,Cardiol Therapeutics Inc.,138.69M,1.98,-
+VOXR,Vox Royalty Corp.,138.03M,2.74,12.23M
+LTRX,"Lantronix, Inc.",137.92M,3.67,146.18M
+SMXT,"SolarMax Technology, Inc.",137.76M,3.06,36.74M
+CFBK,CF Bankshares Inc.,137.73M,21.56,43.66M
+INMB,"INmune Bio, Inc.",137.34M,6.95,85.00K
+ELUT,Elutia Inc.,137.26M,4.03,24.99M
+MAMO,Massimo Group,137.19M,3.32,135.02M
+AFBI,"Affinity Bancshares, Inc.",136.65M,21.31,30.15M
+BZUN,Baozun Inc.,136.19M,2.29,1.23B
+GRWG,GrowGeneration Corp.,136.09M,2.30,206.55M
+CSPI,CSP Inc.,135.81M,13.91,57.51M
+BIRD,"Allbirds, Inc.",135.65M,0.86,220.14M
+CRVO,CervoMed Inc.,134.70M,16.32,9.65M
+PRCH,"Porch Group, Inc.",134.62M,1.34,470.46M
+BWAY,BrainsWay Ltd.,134.12M,8.02,36.43M
+CXDO,"Crexendo, Inc.",133.84M,5.01,57.01M
+WILC,G. Willi-Food International Ltd.,133.68M,9.64,144.85M
+QUIK,QuickLogic Corporation,133.66M,9.24,24.28M
+SNCR,"Synchronoss Technologies, Inc.",133.37M,12.85,167.62M
+CTOR,"Citius Oncology, Inc.",133.34M,1.87,-
+MPAA,"Motorcar Parts of America, Inc.",133.34M,6.75,727.87M
+PRPL,"Purple Innovation, Inc.",133.30M,1.24,526.24M
+SUUN,SolarBank Corporation,133.29M,4.30,44.05M
+CBFV,"CB Financial Services, Inc.",133.07M,25.88,66.58M
+IVA,Inventiva S.A.,133.04M,2.40,25.60M
+LGO,Largo Inc.,132.93M,2.07,158.90M
+FRAF,Franklin Financial Services Corporation,132.93M,30.15,69.34M
+BLUE,"bluebird bio, Inc.",132.74M,0.69,21.73M
+NVCT,"Nuvectis Pharma, Inc.",132.43M,7.10,-
+FBYD,"Falcon's Beyond Global, Inc.",132.30M,11.50,7.04M
+CTRN,"Citi Trends, Inc.",132.14M,15.95,754.54M
+MCRB,"Seres Therapeutics, Inc.",132.11M,0.87,374.00K
+ALLT,Allot Ltd.,131.66M,3.43,93.91M
+IMUX,"Immunic, Inc.",131.52M,1.46,-
+ADAG,Adagene Inc.,130.60M,2.95,815.75K
+GATE,Marblegate Acquisition Corp.,130.60M,11.02,-
+FEIM,"Frequency Electronics, Inc.",130.47M,13.68,55.27M
+HBIO,"Harvard Bioscience, Inc.",130.40M,2.99,101.13M
+GEOS,Geospace Technologies Corporation,130.38M,10.10,129.48M
+FNGR,"FingerMotion, Inc.",130.20M,2.47,32.00M
+FGBI,"First Guaranty Bancshares, Inc.",130.05M,10.40,95.59M
+EHTH,"eHealth, Inc.",129.38M,4.40,471.20M
+GNSS,Genasys Inc.,129.35M,2.90,27.97M
+CEP,"Cantor Equity Partners, Inc.",128.26M,10.02,-
+RPTX,Repare Therapeutics Inc.,127.76M,3.01,68.68M
+AKYA,"Akoya Biosciences, Inc.",127.71M,2.58,93.22M
+ATHA,"Athira Pharma, Inc.",127.62M,3.32,-
+AXTI,"AXT, Inc.",127.44M,2.94,88.41M
+MRBK,Meridian Corporation,126.70M,11.50,90.80M
+VERU,Veru Inc.,126.53M,0.86,14.09M
+XFOR,"X4 Pharmaceuticals, Inc.",126.37M,0.75,563.00K
+NTIC,Northern Technologies International Corporation,126.13M,13.36,82.42M
+ALXO,ALX Oncology Holdings Inc.,125.89M,2.39,-
+VERI,"Veritone, Inc.",125.66M,3.30,131.96M
+KLXE,"KLX Energy Services Holdings, Inc.",125.64M,7.45,769.70M
+YIBO,Planet Image International Limited,125.54M,2.33,150.22M
+AGEN,Agenus Inc.,125.12M,5.80,159.63M
+MRAM,"Everspin Technologies, Inc.",125.02M,5.75,58.24M
+HNVR,"Hanover Bancorp, Inc.",124.70M,17.50,61.91M
+RMBI,"Richmond Mutual Bancorporation, Inc.",124.67M,12.57,41.64M
+AMTX,"Aemetis, Inc.",124.60M,2.64,278.65M
+PBYI,"Puma Biotechnology, Inc.",124.58M,2.54,219.14M
+QIPT,Quipt Home Medical Corp.,124.13M,2.86,244.23M
+TLSA,Tiziana Life Sciences Ltd,123.85M,1.22,-
+MNSB,"MainStreet Bancshares, Inc.",123.83M,16.81,68.67M
+REKR,"Rekor Systems, Inc.",123.69M,1.40,42.39M
+STKS,"The ONE Group Hospitality, Inc.",123.65M,3.97,424.31M
+PDSB,PDS Biotechnology Corporation,123.35M,3.35,-
+ECBK,"ECB Bancorp, Inc.",123.12M,13.40,24.75M
+BRAG,Bragg Gaming Group Inc.,122.85M,4.88,101.36M
+LPSN,"LivePerson, Inc.",122.85M,1.38,361.82M
+ACET,"Adicet Bio, Inc.",122.78M,1.49,-
+RDZN,"Roadzen, Inc.",122.51M,1.79,50.04M
+OPI,Office Properties Income Trust,122.10M,2.43,530.26M
+ASRT,"Assertio Holdings, Inc.",122.03M,1.28,132.19M
+LGCL,Lucas GC Limited,121.73M,1.53,207.87M
+PLMI,Plum Acquisition Corp. I,121.24M,10.79,-
+ISSC,"Innovative Solutions and Support, Inc.",121.10M,6.92,44.81M
+SFBC,"Sound Financial Bancorp, Inc.",120.93M,47.48,35.14M
+IVVD,"Invivyd, Inc.",120.64M,1.01,2.26M
+MGX,"Metagenomi, Inc.",120.52M,3.22,55.93M
+VRCA,Verrica Pharmaceuticals Inc.,120.33M,2.82,13.91M
+KOPN,Kopin Corporation,120.10M,1.04,41.55M
+VIOT,"Viomi Technology Co., Ltd",120.09M,1.76,351.63M
+ZBAO,Zhibao Technology Inc.,119.79M,3.80,18.98M
+BSLK,"Bolt Projects Holdings, Inc.",119.65M,3.59,3.44M
+CSLR,"Complete Solaria, Inc.",119.59M,1.88,59.85M
+VFF,"Village Farms International, Inc.",119.55M,1.07,313.99M
+CVGI,"Commercial Vehicle Group, Inc.",119.42M,3.69,931.75M
+HAO,Haoxi Health Technology Limited,118.97M,3.69,42.57M
+EPSN,Epsilon Energy Ltd.,118.82M,5.41,30.17M
+PLAO,Patria Latin American Opportunity Acquisition Corp.,118.76M,11.54,-
+DLTH,Duluth Holdings Inc.,118.70M,3.39,639.61M
+FNWD,Finward Bancorp,118.12M,27.38,70.04M
+ETON,"Eton Pharmaceuticals, Inc.",117.30M,4.54,31.38M
+AOUT,"American Outdoor Brands, Inc.",117.29M,9.11,201.10M
+INVZ,Innoviz Technologies Ltd.,116.80M,0.70,32.12M
+BSET,"Bassett Furniture Industries, Incorporated",116.41M,13.24,351.88M
+HMNF,"HMN Financial, Inc.",116.27M,26.71,38.26M
+RAIL,"FreightCar America, Inc.",116.26M,6.16,496.97M
+EBMT,"Eagle Bancorp Montana, Inc.",115.99M,14.80,80.56M
+RGLS,Regulus Therapeutics Inc.,115.87M,1.77,-
+APXI,APx Acquisition Corp. I,115.55M,11.66,-
+OVBC,Ohio Valley Banc Corp.,115.37M,24.49,55.88M
+IMPP,Imperial Petroleum Inc.,115.37M,3.92,159.51M
+ELDN,"Eledon Pharmaceuticals, Inc.",115.00M,2.90,-
+KGEI,Kolibri Global Energy Inc.,114.59M,3.15,54.39M
+GOEV,Canoo Inc.,114.50M,1.47,1.49M
+CAAS,"China Automotive Systems, Inc.",113.80M,3.77,594.70M
+UNB,"Union Bankshares, Inc.",113.55M,25.10,47.53M
+CFFS,CF Acquisition Corp. VII,113.49M,11.04,-
+ORKT,Orangekloud Technology Inc.,113.48M,4.99,4.61M
+AUGX,"Augmedix, Inc.",112.77M,2.29,51.58M
+PFTA,Perception Capital Corp. III,111.98M,10.78,-
+UEIC,Universal Electronics Inc.,111.50M,8.59,387.04M
+PCSC,Perceptive Capital Solutions Corp,111.45M,10.07,-
+FONR,FONAR Corporation,111.37M,17.25,102.72M
+CRDF,"Cardiff Oncology, Inc.",111.25M,2.39,665.00K
+LARK,"Landmark Bancorp, Inc.",111.09M,20.19,55.91M
+PITA,Heramba Electric plc,111.02M,2.36,-
+ALTO,"Alto Ingredients, Inc.",110.91M,1.45,1.07B
+PLMJ,Plum Acquisition Corp. III,110.80M,10.85,-
+OPRT,Oportun Financial Corporation,110.74M,3.10,824.04M
+ALOT,"AstroNova, Inc.",110.37M,14.69,145.63M
+ANL,Adlai Nortye Ltd.,110.33M,2.99,5.00M
+HURC,"Hurco Companies, Inc.",110.24M,16.90,209.54M
+WMPN,William Penn Bancorporation,109.79M,11.75,20.56M
+NUTX,Nutex Health Inc.,109.57M,21.63,275.93M
+RR,Richtech Robotics Inc.,109.37M,1.38,9.11M
+LFVN,LifeVantage Corporation,109.22M,8.60,205.45M
+FXNC,First National Corporation,109.09M,17.37,49.19M
+MGRM,Monogram Technologies Inc.,109.05M,3.44,365.00K
+TLGY,TLGY Acquisition Corporation,108.97M,11.51,-
+THCH,TH International Limited,108.83M,0.69,219.67M
+GECC,Great Elm Capital Corp.,108.42M,10.38,36.90M
+IOBT,"IO Biotech, Inc.",108.04M,1.64,-
+SRTS,"Sensus Healthcare, Inc.",107.84M,6.58,36.37M
+KRMD,"KORU Medical Systems, Inc.",107.76M,2.35,30.82M
+OPAL,OPAL Fuels Inc.,107.72M,3.79,294.01M
+OFS,OFS Capital Corporation,107.72M,8.04,53.53M
+CSLM,CSLM Acquisition Corp.,107.63M,11.31,-
+CTXR,"Citius Pharmaceuticals, Inc.",107.53M,0.60,-
+MAPS,"WM Technology, Inc.",106.64M,1.10,183.45M
+FCAP,"First Capital, Inc.",106.59M,31.80,40.80M
+RGC,Regencell Bioscience Holdings Limited,106.32M,8.17,-
+NNAG,99 Acquisition Group Inc.,106.09M,10.53,-
+PPYA,Papaya Growth Opportunity Corp. I,106.04M,11.04,-
+SBFG,"SB Financial Group, Inc.",105.97M,15.75,55.94M
+BROG,Brooge Energy Limited,105.24M,0.96,116.05M
+WPRT,Westport Fuel Systems Inc.,105.10M,6.08,325.50M
+XNET,Xunlei Limited,105.06M,1.65,320.12M
+DHAI,"DIH Holding US, Inc.",104.61M,2.58,67.62M
+HOWL,"Werewolf Therapeutics, Inc.",104.45M,2.39,9.28M
+LPTX,"Leap Therapeutics, Inc.",104.08M,2.72,-
+SFWL,Shengfeng Development Limited,103.95M,1.26,404.12M
+KPTI,Karyopharm Therapeutics Inc.,103.92M,0.83,145.67M
+MVST,"Microvast Holdings, Inc.",103.82M,0.32,349.72M
+KINS,"Kingstone Companies, Inc.",103.57M,9.36,143.11M
+BZFD,"BuzzFeed, Inc.",103.56M,2.74,227.33M
+TOUR,Tuniu Corporation,103.54M,0.84,69.22M
+ACNT,Ascent Industries Co.,102.77M,10.15,182.26M
+MAXN,"Maxeon Solar Technologies, Ltd.",102.26M,0.18,992.23M
+CKPT,"Checkpoint Therapeutics, Inc.",101.97M,2.27,78.00K
+ANIX,"Anixa Biosciences, Inc.",101.78M,3.18,-
+ORMP,Oramed Pharmaceuticals Inc.,101.11M,2.48,-
+RENB,Renovaro Inc.,100.98M,0.68,-
+DERM,Journey Medical Corporation,100.11M,4.83,77.68M
+GOCO,"GoHealth, Inc.",99.89M,9.93,700.20M
+THCP,Thunder Bridge Capital Partners IV Inc.,99.51M,10.49,-
+VTGN,"Vistagen Therapeutics, Inc.",99.29M,3.67,971.00K
+CPHC,Canterbury Park Holding Corporation,99.21M,19.81,62.10M
+XHG,XChange TEC.INC,99.10M,0.88,10.63M
+VSTM,"Verastem, Inc.",99.00M,2.46,10.00M
+OPOF,Old Point Financial Corporation,98.98M,19.50,58.41M
+TVGN,Tevogen Bio Holdings Inc.,98.98M,0.58,-
+QSG,QuantaSing Group Limited,98.91M,1.75,501.85M
+SEER,"Seer, Inc.",98.90M,1.61,14.74M
+IVAC,"Intevac, Inc.",98.85M,3.67,54.98M
+IXAQ,IX Acquisition Corp.,98.77M,11.49,-
+GAIA,"Gaia, Inc.",98.56M,4.20,84.71M
+RVSB,"Riverview Bancorp, Inc.",98.31M,4.66,46.87M
+TBMC,Trailblazer Merger Corporation I,98.22M,10.89,-
+IMAB,I-Mab,98.05M,1.22,3.90M
+ZTEK,Zentek Ltd.,97.86M,0.95,25.80K
+BOWN,Bowen Acquisition Corp,97.81M,10.67,-
+PBHC,"Pathfinder Bancorp, Inc.",97.50M,16.00,41.44M
+SHIM,Shimmick Corporation,97.41M,2.90,524.16M
+MIST,Milestone Pharmaceuticals Inc.,97.28M,1.47,-
+CASI,"CASI Pharmaceuticals, Inc.",97.06M,6.45,23.10M
+XTKG,X3 Holdings Co Ltd.,96.39M,0.35,16.82M
+CBAT,"CBAK Energy Technology, Inc.",96.23M,1.07,226.24M
+INCR,InterCure Ltd.,96.11M,2.11,98.73M
+BRID,Bridgford Foods Corporation,95.94M,10.57,236.66M
+SATL,Satellogic Inc.,95.66M,1.05,13.72M
+PFX,PhenixFIN Corporation,95.42M,47.25,22.29M
+ZENV,Zenvia Inc.,95.19M,1.84,167.71M
+GIFI,"Gulf Island Fabrication, Inc.",94.97M,5.75,133.72M
+CMTL,Comtech Telecommunications Corp.,94.88M,3.33,563.03M
+PROV,"Provident Financial Holdings, Inc.",94.85M,13.79,38.93M
+ASYS,"Amtech Systems, Inc.",94.84M,6.67,104.81M
+CTMX,"CytomX Therapeutics, Inc.",94.52M,1.21,119.57M
+RMTI,"Rockwell Medical, Inc.",94.33M,3.04,94.37M
+AFJK,"Aimei Health Technology Co., Ltd",94.23M,10.44,-
+GSIW,Garden Stage Limited,94.22M,7.39,1.41M
+SGA,"Saga Communications, Inc.",94.17M,15.04,111.70M
+BCOV,Brightcove Inc.,93.89M,2.09,200.86M
+SKYX,SKYX Platforms Corp.,93.88M,0.92,84.22M
+SRBK,"SR Bancorp, Inc.",93.84M,9.87,22.61M
+SGMT,Sagimet Biosciences Inc.,93.83M,2.94,2.00M
+SSSS,SuRo Capital Corp.,93.75M,4.01,6.48M
+EVGR,Evergreen Corporation,93.71M,11.61,-
+BSBK,Bogota Financial Corp.,93.53M,7.35,12.65M
+GLAC,Global Lights Acquisition Corp,93.52M,10.42,-
+AERT,"Aeries Technology, Inc",93.50M,2.12,67.88M
+COYA,"Coya Therapeutics, Inc.",93.46M,6.14,9.55M
+AMLI,American Lithium Corp.,93.45M,0.42,-
+FNWB,First Northwest Bancorp,93.39M,10.64,60.10M
+IFRX,InflaRx N.V.,93.04M,1.58,113.02K
+QETA,Quetta Acquisition Corporation,92.78M,10.37,-
+ASMB,"Assembly Biosciences, Inc.",92.71M,14.61,21.48M
+HLVX,"HilleVax, Inc.",92.58M,1.94,-
+PPIH,"Perma-Pipe International Holdings, Inc.",92.21M,11.50,155.33M
+DYCQ,DT Cloud Acquisition Corporation,92.18M,10.29,-
+SUNS,"Sunrise Realty Trust, Inc.",91.97M,13.28,734.23K
+TDUP,ThredUp Inc.,91.83M,0.82,322.79M
+CDTX,"Cidara Therapeutics, Inc.",91.36M,12.98,53.87M
+BCAB,"BioAtla, Inc.",91.35M,1.89,-
+BNTC,Benitec Biopharma Inc.,91.28M,9.05,7.00K
+KVHI,"KVH Industries, Inc.",91.08M,4.62,122.59M
+BKHA,Black Hawk Acquisition Corporation,90.99M,10.19,-
+CITE,Cartica Acquisition Corp,90.87M,11.36,-
+ACAB,Atlantic Coastal Acquisition Corp. II,90.66M,11.06,-
+DBVT,DBV Technologies S.A.,90.45M,0.92,13.81M
+TMTC,TMT Acquisition Corp,90.27M,11.09,-
+EPRX,Eupraxia Pharmaceuticals Inc.,90.22M,2.67,-
+SND,"Smart Sand, Inc.",90.15M,2.10,295.70M
+RBKB,"Rhinebeck Bancorp, Inc.",89.94M,8.35,40.86M
+RANI,"Rani Therapeutics Holdings, Inc.",89.92M,3.07,-
+IROH,Iron Horse Acquisitions Corp.,89.91M,10.14,-
+LUNA,Luna Innovations Incorporated,89.87M,2.59,116.61M
+MFH,Mercurity Fintech Holding Inc.,89.71M,1.48,445.93K
+ONYX,Onyx Acquisition Co. I,89.55M,11.27,-
+FFIE,Faraday Future Intelligent Electric Inc.,89.51M,7.23,1.08M
+FAT,FAT Brands Inc.,89.49M,5.26,572.01M
+FATBB,FAT Brands Inc.,89.48M,5.25,572.01M
+FSHP,Flag Ship Acquisition Corporation,88.63M,10.00,-
+AUID,authID Inc.,88.46M,8.10,553.11K
+NEOV,NeoVolta Inc.,88.41M,2.66,2.79M
+TIL,"Instil Bio, Inc.",88.13M,13.55,-
+GAQ,Generation Asia I Acquisition Limited,87.96M,11.22,-
+MNTX,"Manitex International, Inc.",87.91M,4.31,299.56M
+CMRX,"Chimerix, Inc.",87.85M,0.98,144.00K
+HSPO,Horizon Space Acquisition I Corp.,87.80M,11.21,-
+BYNO,byNordic Acquisition Corporation,87.60M,11.38,-
+MAYS,"J.W. Mays, Inc.",87.34M,43.33,21.51M
+PWUP,PowerUp Acquisition Corp.,87.20M,11.23,-
+AIRG,"Airgain, Inc.",86.57M,7.66,53.18M
+ACRS,"Aclaris Therapeutics, Inc.",86.33M,1.21,32.02M
+SY,So-Young International Inc.,86.10M,0.84,206.62M
+OVID,Ovid Therapeutics Inc.,85.88M,1.21,567.70K
+ALVR,"AlloVir, Inc.",85.59M,0.75,-
+OMGA,"Omega Therapeutics, Inc.",85.49M,1.55,6.31M
+EMCG,Embrace Change Acquisition Corp.,85.44M,11.51,-
+KOSS,Koss Corporation,85.42M,9.23,12.45M
+ALGS,"Aligos Therapeutics, Inc.",85.26M,13.83,7.97M
+SPWH,"Sportsman's Warehouse Holdings, Inc.",84.93M,2.25,1.26B
+SLS,"SELLAS Life Sciences Group, Inc.",84.92M,1.32,-
+LSB,"LakeShore Biopharma Co., Ltd",84.91M,0.45,79.42M
+RSSS,"Research Solutions, Inc.",84.88M,2.80,42.45M
+MCHX,"Marchex, Inc.",84.84M,1.97,48.82M
+TOP,TOP Financial Group Limited,84.79M,2.29,8.04M
+VMCA,Valuence Merger Corp. I,84.68M,11.49,-
+ARBK,Argo Blockchain plc,84.13M,1.49,56.13M
+ATOM,Atomera Incorporated,83.97M,3.02,640.00K
+TBNK,Territorial Bancorp Inc.,83.90M,9.75,39.01M
+CODA,"Coda Octopus Group, Inc.",83.84M,7.50,18.24M
+CDAQ,Compass Digital Acquisition Corp.,83.84M,10.76,-
+FIAC,Focus Impact Acquisition Corp.,83.71M,11.21,-
+RLMD,"Relmada Therapeutics, Inc.",83.58M,2.77,-
+BOLD,"Boundless Bio, Inc.",83.23M,3.74,-
+NPAB,New Providence Acquisition Corp. II,83.19M,12.00,-
+IKNA,"Ikena Oncology, Inc.",83.00M,1.72,1.84M
+OAKU,Oak Woods Acquisition Corporation,82.69M,10.98,-
+WIMI,WiMi Hologram Cloud Inc.,82.64M,0.84,82.55M
+LATG,Chenghe Acquisition I Co.,82.63M,11.49,-
+DPCS,DP Cap Acquisition Corp I,82.43M,11.37,-
+NB,NioCorp Developments Ltd.,82.22M,2.17,-
+WW,"WW International, Inc.",82.12M,1.03,829.45M
+INVE,"Identiv, Inc.",81.93M,3.49,109.42M
+BLEU,bleuacacia ltd,81.75M,10.82,-
+QMMM,QMMM Holdings Limited,81.73M,4.75,2.81M
+GTAC,Global Technology Acquisition Corp. I,81.68M,11.52,-
+AITR,AI Transportation Acquisition Corp,81.67M,10.42,-
+OMEX,"Odyssey Marine Exploration, Inc.",81.35M,3.95,761.11K
+RAPT,"RAPT Therapeutics, Inc.",81.33M,2.33,-
+PLCE,"The Children's Place, Inc.",81.08M,6.38,1.55B
+VTSI,"VirTra, Inc.",80.97M,7.25,31.85M
+BEEM,Beam Global,80.85M,5.53,65.89M
+TGAA,Target Global Acquisition I Corp.,80.76M,11.29,-
+XFIN,ExcelFin Acquisition Corp.,80.62M,11.06,-
+AISP,"Airship AI Holdings, Inc.",80.47M,3.39,23.57M
+PIII,P3 Health Partners Inc.,80.38M,0.50,1.40B
+RSTN,"RDE, Inc.",80.33M,3.10,83.44M
+MGYR,"Magyar Bancorp, Inc.",80.28M,12.37,30.04M
+CRGO,Freightos Limited,80.14M,1.67,21.38M
+BAYA,Bayview Acquisition Corp,79.95M,10.35,-
+PMVP,"PMV Pharmaceuticals, Inc.",79.86M,1.55,-
+SILC,Silicom Ltd.,79.83M,13.09,77.69M
+PRLH,Pearl Holdings Acquisition Corp,79.27M,11.06,-
+INAQ,Insight Acquisition Corp.,79.11M,11.30,-
+JVSA,JVSPAC Acquisition Corp.,78.78M,10.25,-
+REFR,Research Frontiers Incorporated,78.77M,2.35,1.28M
+GAN,GAN Limited,78.67M,1.73,126.74M
+YI,"111, Inc.",78.60M,0.92,2.05B
+NHTC,Natural Health Trends Corp.,78.57M,6.85,42.98M
+SDIG,"Stronghold Digital Mining, Inc.",78.50M,5.42,86.09M
+FORA,Forian Inc.,78.38M,2.52,20.37M
+MDXH,MDxHealth SA,78.32M,2.87,80.74M
+ATMV,AlphaVest Acquisition Corp,77.84M,11.11,-
+AEAE,AltEnergy Acquisition Corp.,77.79M,11.99,-
+FEBO,Fenbo Holdings Limited,77.55M,7.01,15.25M
+YTRA,"Yatra Online, Inc.",77.51M,1.33,49.60M
+PFIE,"Profire Energy, Inc.",77.26M,1.65,57.77M
+FANH,Fanhua Inc.,77.12M,1.36,451.06M
+UPC,Universe Pharmaceuticals INC,77.09M,3.26,32.31M
+GNLX,Genelux Corporation,77.07M,2.26,8.00K
+FNVT,Finnovate Acquisition Corp.,76.84M,11.45,-
+TETE,Technology & Telecommunication Acquisition Corporation,76.74M,12.02,-
+ATMC,AlphaTime Acquisition Corp,76.71M,11.16,-
+LICN,Lichen China Limited,76.63M,2.03,39.76M
+ONCY,Oncolytics Biotech Inc.,76.40M,0.99,-
+MDBH,"MDB Capital Holdings, LLC",76.29M,8.21,1.78M
+CLSD,"Clearside Biomedical, Inc.",76.24M,1.02,7.52M
+CLRB,"Cellectar Biosciences, Inc.",76.00M,2.12,-
+NEON,Neonode Inc.,75.94M,4.91,4.43M
+HYPR,"Hyperfine, Inc.",75.53M,1.04,11.94M
+CBRG,Chain Bridge I,75.47M,11.17,-
+IRAA,Iris Acquisition Corp,75.46M,10.50,-
+IVCP,Swiftmerge Acquisition Corp.,75.44M,11.03,-
+NSPR,"InspireMD, Inc.",75.32M,2.93,6.57M
+VANI,"Vivani Medical, Inc.",75.15M,1.36,-
+BYSI,BeyondSpring Inc.,74.94M,1.92,1.75M
+SLNG,"Stabilis Solutions, Inc.",74.90M,4.03,71.73M
+GNTA,Genenta Science S.p.A.,74.62M,4.08,-
+STCN,"Steel Connect, Inc.",74.38M,11.90,169.04M
+BOCN,Blue Ocean Acquisition Corp.,74.29M,11.28,-
+CNTY,"Century Casinos, Inc.",74.25M,2.42,587.39M
+BHAC,Focus Impact BH3 Acquisition Company,74.25M,10.68,-
+SPRO,"Spero Therapeutics, Inc.",74.05M,1.37,118.46M
+HNNA,"Hennessy Advisors, Inc.",73.89M,9.62,27.13M
+EURK,Eureka Acquisition Corp,73.54M,10.19,-
+NVNO,enVVeno Medical Corporation,73.45M,5.51,-
+MITA,Coliseum Acquisition Corp.,73.42M,11.08,-
+TYGO,"Tigo Energy, Inc.",73.18M,1.21,48.85M
+TELA,"TELA Bio, Inc.",73.15M,2.96,64.74M
+MSSA,Metal Sky Star Acquisition Corporation,72.72M,11.35,-
+AENT,Alliance Entertainment Holding Corporation,72.33M,1.42,1.11B
+ELVA,Electrovaya Inc.,71.79M,2.11,49.49M
+LSBK,"Lake Shore Bancorp, Inc.",71.76M,12.72,26.03M
+UBCP,"United Bancorp, Inc.",71.71M,12.05,29.50M
+UONE,"Urban One, Inc.",71.68M,2.10,460.32M
+GRDI,Griid Infrastructure Inc.,71.67M,1.00,20.94M
+PDEX,"Pro-Dex, Inc.",71.63M,20.95,49.46M
+MRNS,"Marinus Pharmaceuticals, Inc.",71.61M,1.30,30.26M
+SSIC,Silver Spike Investment Corp.,71.60M,11.52,12.42M
+VBFC,Village Bank and Trust Financial Corp.,71.44M,47.94,26.09M
+DTSQ,DT Cloud Star Acquisition Corporation,71.25M,10.05,-
+CCG,Cheche Group Inc.,71.20M,0.94,458.27M
+ABLV,Able View Global Inc.,71.18M,1.69,149.00M
+ELTK,Eltek Ltd.,70.98M,10.58,46.43M
+FRLA,Fortune Rise Acquisition Corporation,70.68M,11.27,-
+WRAP,"Wrap Technologies, Inc.",70.30M,1.59,9.13M
+NDLS,Noodles & Company,70.28M,1.54,500.92M
+DTIL,"Precision BioSciences, Inc.",70.10M,9.69,87.64M
+CHCI,"Comstock Holding Companies, Inc.",69.82M,7.08,46.87M
+ADGM,"Adagio Medical Holdings, Inc.",69.62M,5.20,266.00K
+CELU,Celularity Inc.,69.48M,3.16,22.77M
+DIST,Distoken Acquisition Corporation,69.44M,10.80,-
+SIEB,Siebert Financial Corp.,69.16M,1.73,78.88M
+LOOP,"Loop Industries, Inc.",68.91M,1.45,132.00K
+NVAC,NorthView Acquisition Corporation,68.81M,11.60,-
+HGBL,Heritage Global Inc.,68.72M,1.86,55.02M
+RRGB,"Red Robin Gourmet Burgers, Inc.",68.38M,4.34,1.28B
+ICCH,"ICC Holdings, Inc.",68.18M,22.98,87.93M
+SOND,Sonder Holdings Inc.,68.06M,6.77,573.81M
+PAVS,Paranovus Entertainment Technology Ltd.,68.01M,1.01,6.54M
+PTWO,"Pono Capital Two, Inc.",67.81M,13.00,-
+GLLI,Globalink Investment Inc.,67.59M,11.25,-
+AFAR,Aura FAT Projects Acquisition Corp,67.53M,11.68,-
+CLOE,Clover Leaf Capital Corp.,67.52M,13.60,-
+HAIA,Healthcare AI Acquisition Corp.,67.48M,11.28,-
+NCTY,The9 Limited,67.31M,7.49,25.25M
+GSIT,"GSI Technology, Inc.",67.18M,2.64,20.85M
+AUBN,"Auburn National Bancorporation, Inc.",65.72M,18.81,22.22M
+AIMAU,Aimfinity Investment Corp. I,65.44M,11.65,-
+RFAC,RF Acquisition Corp.,65.41M,11.24,-
+VOXX,VOXX International Corporation,65.41M,2.91,448.65M
+FOSL,"Fossil Group, Inc.",65.36M,1.23,1.28B
+UONEK,"Urban One, Inc.",65.27M,1.36,460.32M
+VOR,Vor Biopharma Inc.,65.25M,0.95,-
+SOTK,Sono-Tek Corporation,65.21M,4.14,21.13M
+QUBT,Quantum Computing Inc.,65.00M,0.69,264.84K
+ASCB,A SPAC II Acquisition Corp.,64.90M,11.41,-
+USGO,U.S. GoldMining Inc.,64.47M,5.20,-
+CURI,CuriosityStream Inc.,64.43M,1.18,54.80M
+HOOK,HOOKIPA Pharma Inc.,64.13M,5.32,52.16M
+AFMD,Affimed N.V.,64.11M,4.21,10.06M
+BNAI,"Brand Engagement Network, Inc.",64.01M,1.78,85.00K
+PETS,"PetMed Express, Inc.",63.65M,3.10,270.77M
+FTII,FutureTech II Acquisition Corp.,63.60M,10.91,-
+ALLK,Allakos Inc.,63.54M,0.72,-
+UBXG,U-BX Technology Ltd.,63.45M,2.35,67.13M
+SELX,Semilux International Ltd.,63.25M,1.69,1.07M
+PRE,Prenetics Global Limited,63.04M,5.16,23.23M
+CSBR,"Champions Oncology, Inc.",63.01M,4.64,50.16M
+EGIO,"Edgio, Inc.",63.00M,10.76,403.59M
+ARQQ,Arqit Quantum Inc.,62.94M,0.38,740.00K
+IPWR,Ideal Power Inc.,62.94M,8.18,143.11K
+SCYX,"SCYNEXIS, Inc.",62.84M,1.66,9.67M
+ABAT,American Battery Technology Company,62.70M,1.07,-
+BEAT,"HeartBeam, Inc.",62.42M,2.35,-
+AIRT,"Air T, Inc.",62.18M,22.53,281.81M
+ENTX,Entera Bio Ltd.,62.12M,1.71,57.00K
+BLRX,BioLineRx Ltd.,61.87M,0.74,17.05M
+MTC,"MMTec, Inc.",61.75M,0.31,869.94K
+TORO,Toro Corp.,61.71M,3.61,34.93M
+UG,"United-Guardian, Inc.",61.61M,13.41,12.31M
+BNR,Burning Rock Biotech Limited,61.55M,6.00,70.15M
+TTOO,"T2 Biosystems, Inc.",61.35M,3.51,7.16M
+UPLD,"Upland Software, Inc.",61.35M,2.25,286.37M
+SIFY,Sify Technologies Limited,61.18M,0.33,437.96M
+BOTJ,"Bank of the James Financial Group, Inc.",60.97M,13.42,43.41M
+FUSB,"First US Bancshares, Inc.",60.95M,10.61,40.51M
+GBBK,Global Blockchain Acquisition Corp.,60.81M,11.04,-
+THTX,Theratechnologies Inc.,60.61M,1.33,82.57M
+USAU,U.S. Gold Corp.,60.53M,5.64,-
+ABIO,"ARCA biopharma, Inc.",60.35M,4.16,-
+WFCF,"Where Food Comes From, Inc.",60.27M,11.25,25.72M
+JUNE,Junee Limited,59.93M,4.62,4.79M
+SSBI,Summit State Bank,59.90M,8.83,33.98M
+NAAS,NaaS Technology Inc.,59.87M,4.53,58.24M
+MNOV,"MediciNova, Inc.",59.84M,1.22,1.00M
+LOAN,"Manhattan Bridge Capital, Inc.",59.71M,5.22,7.44M
+NTRB,Nutriband Inc.,59.71M,5.41,2.02M
+HHGC,HHG Capital Corporation,59.32M,11.74,-
+EGRX,"Eagle Pharmaceuticals, Inc.",59.22M,4.56,257.55M
+INTS,"Intensity Therapeutics, Inc.",59.22M,4.30,-
+VUZI,Vuzix Corporation,59.20M,0.90,6.34M
+KRON,"Kronos Bio, Inc.",59.08M,0.98,8.41M
+IMMX,"Immix Biopharma, Inc.",59.02M,2.15,-
+MURA,Mural Oncology plc,58.95M,3.46,-
+CTSO,Cytosorbents Corporation,58.78M,1.08,37.16M
+ANGH,Anghami Inc.,58.76M,0.88,41.38M
+BYFC,Broadway Financial Corporation,58.69M,6.76,33.87M
+GRTS,"Gritstone bio, Inc.",58.66M,0.50,14.61M
+ONDS,Ondas Holdings Inc.,58.42M,0.84,9.21M
+FDSB,"Fifth District Bancorp, Inc.",58.40M,10.51,10.35M
+FARM,Farmer Bros. Co.,58.26M,2.74,342.19M
+SELF,"Global Self Storage, Inc.",58.25M,5.17,12.21M
+BAFN,BayFirst Financial Corp.,58.17M,14.07,77.69M
+CCTS,Cactus Acquisition Corp. 1 Limited,58.06M,11.44,-
+LRFC,Logan Ridge Finance Corporation,57.96M,21.66,19.95M
+CLGN,CollPlant Biotechnologies Ltd.,57.96M,5.06,689.00K
+LIVE,Live Ventures Incorporated,57.90M,18.49,463.64M
+BCG,"Binah Capital Group, Inc.",57.78M,3.48,161.90M
+BMR,Beamr Imaging Ltd.,57.70M,3.72,2.96M
+MODD,"Modular Medical, Inc.",57.31M,1.76,-
+IROQ,"IF Bancorp, Inc.",57.04M,17.75,22.41M
+EDRY,EuroDry Ltd.,56.79M,20.37,57.77M
+FAAS,DigiAsia Corp.,56.72M,0.97,57.73M
+OPXS,"Optex Systems Holdings, Inc",56.48M,8.29,32.63M
+HYMC,Hycroft Mining Holding Corporation,56.45M,2.35,-
+CNTB,Connect Biopharma Holdings Limited,56.32M,1.02,-
+FLUX,"Flux Power Holdings, Inc.",56.22M,3.37,63.85M
+SHLT,SHL Telemedicine Ltd.,56.07M,3.70,57.08M
+FTHM,Fathom Holdings Inc.,55.88M,2.66,327.31M
+RDIB,"Reading International, Inc.",55.87M,10.90,203.74M
+AIRE,reAlpha Tech Corp.,55.85M,1.26,99.04K
+CODX,"Co-Diagnostics, Inc.",55.84M,1.75,9.14M
+OPTX,"Syntec Optics Holdings, Inc.",55.58M,1.52,28.13M
+FBLG,"FibroBiologics, Inc.",55.55M,1.58,-
+ROCL,Roth Ch Acquisition V Co.,55.30M,11.24,-
+VIVK,"Vivakor, Inc.",55.18M,1.89,62.39M
+HHS,"Harte Hanks, Inc.",54.96M,7.54,187.09M
+LNSR,"LENSAR, Inc.",54.79M,4.72,45.12M
+NBST,Newbury Street Acquisition Corporation,54.59M,11.03,-
+COCH,"Envoy Medical, Inc.",54.49M,2.78,302.00K
+LEE,"Lee Enterprises, Incorporated",54.48M,8.80,616.82M
+PXS,Pyxis Tankers Inc.,54.39M,5.20,50.06M
+XGN,Exagen Inc.,54.25M,3.12,56.66M
+ANEB,"Anebulo Pharmaceuticals, Inc.",54.20M,2.09,-
+BRAC,Broad Capital Acquisition Corp.,54.15M,11.50,-
+GEG,"Great Elm Group, Inc.",54.15M,1.80,11.94M
+AVTE,"Aerovate Therapeutics, Inc.",53.98M,1.87,-
+BUJA,Bukit Jalil Global Acquisition 1 Ltd,53.42M,10.81,-
+GDC,GD Culture Group Limited,53.17M,5.45,-150.00K
+LPTH,"LightPath Technologies, Inc.",53.17M,1.37,32.78M
+AOGO,Arogo Capital Acquisition Corp.,53.07M,10.96,-
+UCL,uCloudlink Group Inc.,52.86M,1.41,86.08M
+CLRC,ClimateRock,52.58M,11.55,-
+RGS,Regis Corporation,52.58M,23.06,209.32M
+MESA,"Mesa Air Group, Inc.",52.47M,1.27,479.42M
+VCSA,"Vacasa, Inc.",52.44M,3.38,1.01B
+STBX,Starbox Group Holdings Ltd.,52.42M,0.16,12.21M
+WOK,WORK Medical Technology Group LTD,52.20M,3.60,9.86M
+RPHM,"Reneo Pharmaceuticals, Inc.",51.81M,1.55,-
+CLST,"Catalyst Bancorp, Inc.",51.78M,11.65,4.39M
+CAPT,Captivision Inc.,51.68M,1.78,14.64M
+MSAI,"MultiSensor AI Holdings, Inc.",51.59M,2.17,7.51M
+PRPH,"ProPhase Labs, Inc.",51.32M,2.69,17.97M
+LVLU,"Lulu's Fashion Lounge Holdings, Inc.",51.32M,1.23,327.30M
+BWEN,"Broadwind, Inc.",51.23M,2.33,177.83M
+PDYN,Palladyne AI Corp.,51.13M,1.91,8.73M
+RENT,"Rent the Runway, Inc.",50.99M,13.70,299.00M
+FEAM,"5E Advanced Materials, Inc.",50.67M,0.80,-
+NCSM,"NCS Multistage Holdings, Inc.",50.55M,20.20,147.07M
+BRFH,"Barfresh Food Group, Inc.",50.47M,3.42,8.82M
+AQU,Aquaron Acquisition Corp.,50.27M,11.04,-
+ALRN,"Aileron Therapeutics, Inc.",50.26M,2.32,-
+CMBM,Cambium Networks Corporation,50.22M,1.78,171.54M
+LTRN,Lantern Pharma Inc.,50.06M,4.65,-
+SWVL,Swvl Holdings Corp.,49.99M,5.87,22.85M
+IPW,iPower Inc.,49.84M,1.56,90.02M
+LVTX,LAVA Therapeutics N.V.,49.70M,1.89,7.40M
+MNY,MoneyHero Limited,49.68M,1.26,84.94M
+HSON,"Hudson Global, Inc.",49.44M,17.97,142.97M
+CPTN,"Cepton, Inc.",49.41M,3.08,21.16M
+GODN,Golden Star Acquisition Corporation,49.33M,10.88,-
+PRTS,"CarParts.com, Inc.",49.08M,0.86,633.82M
+CRWS,"Crown Crafts, Inc.",49.08M,4.76,86.72M
+MARX,Mars Acquisition Corp.,48.91M,10.93,-
+FKWL,Franklin Wireless Corp.,48.90M,4.15,41.68M
+HOUR,"Hour Loop, Inc.",48.83M,1.39,141.39M
+BCOW,"1895 Bancorp of Wisconsin, Inc.",48.79M,8.78,9.90M
+AWRE,"Aware, Inc.",48.72M,2.30,19.50M
+SHOT,"Safety Shot, Inc.",48.70M,0.94,1.03M
+KPLT,"Katapult Holdings, Inc.",48.57M,11.65,236.29M
+AGAE,Allied Gaming & Entertainment Inc.,48.50M,1.27,8.21M
+CPBI,"Central Plains Bancshares, Inc.",48.33M,11.70,17.81M
+ALSA,Alpha Star Acquisition Corporation,48.23M,11.74,-
+ESLA,"Estrella Immunopharma, Inc.",48.20M,1.33,-
+VSAC,Vision Sensing Acquisition Corp.,48.19M,11.65,-
+TRSG,Tungray Technologies Inc.,48.08M,2.94,14.36M
+LEXX,Lexaria Bioscience Corp.,47.90M,3.03,411.02K
+RAND,Rand Capital Corporation,47.85M,18.54,7.87M
+ELEV,"Elevation Oncology, Inc.",47.81M,0.81,-
+FBIO,"Fortress Biotech, Inc.",47.68M,2.09,82.62M
+PPSI,"Pioneer Power Solutions, Inc.",47.49M,4.35,41.49M
+DGHI,Digihost Technology Inc.,47.36M,1.45,38.33M
+DWSN,Dawson Geophysical Company,47.29M,1.53,91.32M
+RECT,Rectitude Holdings Ltd,47.11M,3.25,30.67M
+CARM,"Carisma Therapeutics, Inc.",46.95M,1.13,20.71M
+KTCC,Key Tronic Corporation,46.92M,4.36,559.40M
+BRNS,Barinthus Biotherapeutics plc,46.90M,1.19,-
+RLYB,Rallybio Corporation,46.88M,1.13,299.00K
+CCLD,"CareCloud, Inc.",46.86M,2.89,111.75M
+BGXX,Bright Green Corporation,46.84M,0.25,-
+OPHC,"OptimumBank Holdings, Inc.",46.74M,4.83,30.17M
+ELTX,"Elicio Therapeutics, Inc.",46.70M,4.34,-
+HOLO,MicroCloud Hologram Inc.,46.69M,0.57,28.71M
+ICMB,"Investcorp Credit Management BDC, Inc.",46.66M,3.24,25.36M
+FLNT,"Fluent, Inc.",46.57M,2.76,263.70M
+PASG,"Passage Bio, Inc.",46.50M,0.75,-
+CTRM,Castor Maritime Inc.,46.48M,4.81,84.44M
+ACAC,Acri Capital Acquisition Corporation,46.47M,11.70,-
+ADD,"Color Star Technology Co., Ltd.",46.39M,0.87,1.06M
+ARKR,Ark Restaurants Corp.,46.35M,12.86,184.54M
+NSTS,"NSTS Bancorp, Inc.",46.18M,10.00,5.57M
+GOVX,"GeoVax Labs, Inc.",46.07M,6.39,300.68K
+CETY,"Clean Energy Technologies, Inc.",45.91M,1.03,13.55M
+AKTX,"Akari Therapeutics, Plc",45.90M,3.84,-
+KZR,"Kezar Life Sciences, Inc.",45.87M,0.63,7.00M
+EHGO,Eshallgo Inc.,45.86M,2.11,16.96M
+BNIX,Bannix Acquisition Corp.,45.47M,11.14,-
+CREX,"Creative Realities, Inc.",45.44M,4.35,51.43M
+INTE,Integral Acquisition Corporation 1,45.30M,11.12,-
+BNGO,"Bionano Genomics, Inc.",45.23M,0.53,36.58M
+PALT,"Paltalk, Inc.",45.19M,4.90,10.28M
+NXTC,"NextCure, Inc.",45.04M,1.61,-
+APYX,Apyx Medical Corporation,45.04M,1.30,49.03M
+CENN,Cenntro Inc.,45.01M,1.46,26.08M
+FORL,Four Leaf Acquisition Corporation,44.90M,11.01,-
+GENK,"GEN Restaurant Group, Inc.",44.88M,9.23,195.29M
+NOVV,Nova Vision Acquisition Corporation,44.81M,12.70,-
+ICAD,"iCAD, Inc.",44.80M,1.70,18.80M
+TARA,"Protara Therapeutics, Inc.",44.77M,2.17,-
+EYEN,"Eyenovia, Inc.",44.76M,0.58,31.41K
+KACL,Kairous Acquisition Corp. Limited,44.76M,12.15,-
+GLST,"Global Star Acquisition, Inc.",44.67M,11.03,-
+CMCT,Creative Media & Community Trust Corporation,44.66M,1.96,126.53M
+DRCT,"Direct Digital Holdings, Inc.",44.62M,3.11,157.11M
+YOTA,Yotta Acquisition Corporation,44.58M,11.30,-
+HKIT,Hitek Global Inc.,44.54M,1.52,4.56M
+SYRS,"Syros Pharmaceuticals, Inc.",44.50M,1.66,4.15M
+TACT,TransAct Technologies Incorporated,44.49M,4.45,52.74M
+DRRX,DURECT Corporation,44.39M,1.43,8.41M
+LUCD,Lucid Diagnostics Inc.,44.22M,0.82,3.80M
+IGTA,Inception Growth Acquisition Limited,44.15M,11.32,-
+HUIZ,Huize Holding Limited,44.14M,0.89,167.16M
+IDN,"Intellicheck, Inc.",43.95M,2.25,19.29M
+ASRV,"AmeriServ Financial, Inc.",43.78M,2.65,45.27M
+BLAC,Bellevue Life Sciences Acquisition Corp.,43.67M,10.81,-
+OSS,"One Stop Systems, Inc.",43.55M,2.07,52.76M
+AREC,American Resources Corporation,43.51M,0.56,5.97M
+PLBY,"PLBY Group, Inc.",43.49M,0.59,125.85M
+VSTE,Vast Renewables Limited,43.46M,1.45,-
+PXLW,"Pixelworks, Inc.",43.33M,0.74,60.70M
+CALC,"CalciMedica, Inc.",43.12M,4.01,-
+VTNR,"Vertex Energy, Inc.",43.02M,0.46,3.20B
+NVNI,Nvni Group Limited,42.95M,1.50,23.56M
+EBON,Ebang International Holdings Inc.,42.93M,6.56,3.59M
+XOS,"Xos, Inc.",42.90M,5.36,63.77M
+DYAI,"Dyadic International, Inc.",42.74M,1.45,1.80M
+CFSB,"CFSB Bancorp, Inc.",42.37M,6.62,7.69M
+ECDA,"ECD Automotive Design, Inc.",42.27M,1.22,25.73M
+KSCP,"Knightscope, Inc.",42.24M,0.28,11.79M
+AXDX,"Accelerate Diagnostics, Inc.",42.15M,1.78,12.23M
+MATH,Metalpha Technology Holding Limited,42.12M,1.14,5.26M
+BGM,Qilian International Holding Group Limited,41.90M,5.86,29.87M
+NISN,"Nisun International Enterprise Development Group Co., Ltd",41.85M,10.59,386.67M
+BGFV,Big 5 Sporting Goods Corporation,41.80M,1.90,829.49M
+FSEA,"First Seacoast Bancorp, Inc.",41.67M,9.30,10.82M
+OCX,OncoCyte Corporation,41.58M,3.11,1.02M
+SWIN,Solowin Holdings,41.55M,2.60,3.44M
+SJ,Scienjoy Holding Corporation,41.44M,1.00,204.54M
+VTVT,vTv Therapeutics Inc.,40.86M,16.79,1.00M
+CLIR,ClearSign Technologies Corporation,40.72M,0.81,2.51M
+NICK,"Nicholas Financial, Inc.",40.69M,5.57,18.74M
+TCBS,"Texas Community Bancshares, Inc.",40.61M,13.80,9.79M
+RDI,"Reading International, Inc.",40.59M,1.81,203.74M
+NOTV,"Inotiv, Inc.",40.57M,1.56,501.06M
+SNT,Senstar Technologies Corporation,40.56M,1.74,33.86M
+INTG,The InterGroup Corporation,40.55M,18.54,57.70M
+USIO,"Usio, Inc.",40.49M,1.48,80.69M
+LINK,"Interlink Electronics, Inc.",40.44M,4.10,12.64M
+SYT,"SYLA Technologies Co., Ltd.",40.42M,1.55,161.34M
+FGEN,"FibroGen, Inc.",40.37M,0.40,173.82M
+DXR,Daxor Corporation,40.16M,8.30,163.42K
+RFIL,"RF Industries, Ltd.",40.10M,3.87,61.09M
+PHUN,"Phunware, Inc.",39.91M,3.52,4.12M
+EVTV,"Envirotech Vehicles, Inc.",39.86M,2.54,1.83M
+XLO,"Xilio Therapeutics, Inc.",39.66M,0.90,2.36M
+DUET,DUET Acquisition Corp.,39.60M,11.24,-
+HFBL,"Home Federal Bancorp, Inc. of Louisiana",39.59M,13.11,20.50M
+REE,REE Automotive Ltd.,39.36M,3.64,1.77M
+DSWL,"Deswell Industries, Inc.",39.04M,2.45,69.37M
+LTBR,Lightbridge Corporation,38.97M,2.67,-
+WINV,WinVest Acquisition Corp.,38.89M,11.46,-
+AADI,"Aadi Bioscience, Inc.",38.89M,1.58,23.82M
+PMN,"ProMIS Neurosciences, Inc.",38.85M,1.30,-
+STI,Solidion Technology Inc.,38.84M,0.42,6.64K
+PET,Wag! Group Co.,38.81M,0.80,85.34M
+CXAI,CXApp Inc.,38.78M,2.54,7.07M
+SYPR,"Sypris Solutions, Inc.",38.62M,1.68,139.39M
+EQ,"Equillium, Inc.",38.60M,1.09,42.62M
+GDST,Goldenstone Acquisition Limited,38.59M,11.21,-
+ECOR,"electroCore, Inc.",38.46M,5.97,21.28M
+SURG,"SurgePays, Inc.",38.31M,1.94,112.99M
+DFLI,Dragonfly Energy Holdings Corp.,38.24M,0.61,52.04M
+PBBK,"PB Bankshares, Inc.",37.85M,16.04,11.90M
+LGCB,Linkage Global Inc,37.84M,1.76,12.73M
+WTMA,Welsbach Technology Metals Acquisition Corp.,37.71M,11.20,-
+MNDO,MIND C.T.I. Ltd,37.54M,1.86,21.89M
+CUE,"Cue Biopharma, Inc.",37.43M,0.77,8.30M
+XBP,"XBP Europe Holdings, Inc.",37.41M,1.24,157.86M
+CRIS,"Curis, Inc.",37.37M,6.25,10.16M
+WAVS,Western Acquisition Ventures Corp.,37.12M,10.53,-
+OCEA,"Ocean Biomedical, Inc.",37.07M,1.07,-
+JRSH,"Jerash Holdings (US), Inc.",37.07M,3.02,123.39M
+CDTG,CDT Environmental Technology Investment Holdings Limited,36.92M,3.45,34.21M
+OM,"Outset Medical, Inc.",36.91M,0.71,116.43M
+LGVN,Longeveron Inc.,36.90M,2.57,1.23M
+ACXP,"Acurx Pharmaceuticals, Inc.",36.88M,2.27,-
+MKTW,"MarketWise, Inc.",36.51M,0.83,432.34M
+VGAS,"Verde Clean Fuels, Inc.",36.29M,3.80,-
+AIFF,"Firefly Neuroscience, Inc.",36.20M,4.60,64.00K
+IZEA,"IZEA Worldwide, Inc.",36.19M,2.20,32.83M
+AIXI,Xiao-I Corporation,36.06M,4.31,59.17M
+RPID,"Rapid Micro Biosystems, Inc.",36.05M,0.84,24.71M
+SHFS,"SHF Holdings, Inc.",36.03M,0.65,16.72M
+MCAG,Mountain Crest Acquisition Corp. V,35.89M,10.81,-
+TPST,"Tempest Therapeutics, Inc.",35.80M,1.42,-
+TPCS,TechPrecision Corporation,35.78M,3.67,30.50M
+UNCY,"Unicycive Therapeutics, Inc.",35.67M,0.38,-
+SGRP,"SPAR Group, Inc.",35.54M,1.60,258.42M
+TLF,"Tandy Leather Factory, Inc.",35.36M,4.20,74.95M
+GROW,"U.S. Global Investors, Inc.",35.34M,2.54,11.85M
+OKYO,OKYO Pharma Limited,35.19M,1.04,-
+NSYS,Nortech Systems Incorporated,35.11M,12.71,137.53M
+ATRA,"Atara Biotherapeutics, Inc.",35.09M,7.14,62.39M
+CLNN,Clene Inc.,34.94M,5.40,442.00K
+SCOR,"comScore, Inc.",34.86M,7.13,358.73M
+LASE,Laser Photonics Corporation,34.53M,2.82,4.01M
+RCON,"Recon Technology, Ltd.",34.52M,2.31,9.42M
+ORGS,Orgenesis Inc.,34.40M,0.73,662.00K
+ICCM,IceCure Medical Ltd,34.39M,0.72,3.34M
+OCUP,"Ocuphire Pharma, Inc.",34.32M,1.31,16.45M
+FRGT,"Freight Technologies, Inc.",34.25M,0.21,17.06M
+MOVE,Movano Inc.,34.21M,0.35,852.00K
+AZ,A2Z Smart Technologies Corp.,34.11M,0.65,7.14M
+TURN,180 Degree Capital Corp.,33.90M,3.39,129.30K
+NCNC,noco-noco Inc.,33.90M,0.19,-
+XTLB,XTL Biopharmaceuticals Ltd.,33.23M,2.65,-
+GAME,"GameSquare Holdings, Inc.",33.06M,1.06,84.16M
+POCI,"Precision Optics Corporation, Inc.",33.02M,5.20,19.41M
+GANX,"Gain Therapeutics, Inc.",32.94M,1.29,-
+ESGL,ESGL Holdings Limited,32.89M,1.43,6.22M
+ANTX,"AN2 Therapeutics, Inc.",32.83M,1.10,-
+MLEC,Moolec Science SA,32.76M,0.87,5.01M
+MRKR,"Marker Therapeutics, Inc.",32.70M,3.67,3.73M
+PODC,"PodcastOne, Inc.",32.67M,1.36,45.82M
+ASPS,Altisource Portfolio Solutions S.A.,32.53M,1.20,148.96M
+MTEN,Mingteng International Corporation Inc.,32.53M,5.24,8.16M
+APWC,Asia Pacific Wire & Cable Corporation Limited,32.48M,1.58,425.77M
+ALTS,ALT5 Sigma Corporation,32.43M,2.54,2.17M
+MOBX,"Mobix Labs, Inc.",32.42M,1.06,3.92M
+INKT,"MiNK Therapeutics, Inc.",32.42M,0.82,-
+NAII,"Natural Alternatives International, Inc.",32.37M,5.22,120.20M
+GTIM,Good Times Restaurants Inc.,32.37M,3.01,140.81M
+QH,Quhuo Limited,32.36M,0.36,522.13M
+ONMD,OneMedNet Corporation,32.34M,1.03,1.02M
+DECA,Denali Capital Acquisition Corp.,32.31M,11.48,-
+ABVE,Above Food Ingredients Inc.,32.24M,1.13,275.38M
+ATGL,Alpha Technology Group Limited,32.20M,2.11,1.11M
+RVPH,"Reviva Pharmaceuticals Holdings, Inc.",32.07M,0.97,-
+STRM,"Streamline Health Solutions, Inc.",31.96M,0.53,21.59M
+ICLK,iClick Interactive Asia Group Limited,31.95M,3.15,133.22M
+IMRX,Immuneering Corporation,31.73M,1.07,-
+IRIX,IRIDEX Corporation,31.70M,1.92,49.70M
+AQMS,"Aqua Metals, Inc.",31.68M,0.23,25.00K
+GLBS,Globus Maritime Limited,31.59M,1.54,30.34M
+MYNA,Mynaric AG,31.54M,1.23,5.96M
+AAME,Atlantic American Corporation,31.42M,1.54,186.00M
+FTEK,"Fuel Tech, Inc.",31.32M,1.02,26.33M
+GRYP,"Gryphon Digital Mining, Inc.",31.31M,0.77,24.57M
+FTCI,"FTC Solar, Inc.",31.28M,0.25,77.77M
+HUDI,"Huadi International Group Co., Ltd.",31.05M,2.18,83.46M
+WHLM,"Wilhelmina International, Inc.",30.94M,6.00,17.00M
+LFWD,ReWalk Robotics Ltd.,30.90M,3.52,23.28M
+BHAT,Blue Hat Interactive Entertainment Technology,30.89M,0.53,73.69M
+BTM,Bitcoin Depot Inc.,30.87M,1.73,629.50M
+MOGO,Mogo Inc.,30.75M,1.28,30.11M
+NTWK,"NetSol Technologies, Inc.",30.68M,2.69,58.73M
+MIGI,Mawson Infrastructure Group Inc.,30.61M,1.65,57.23M
+QOMO,Qomolangma Acquisition Corp.,30.56M,12.22,-
+ELBM,Electra Battery Materials Corporation,30.51M,0.54,-
+ACHL,Achilles Therapeutics plc,30.47M,0.74,-
+DARE,"Daré Bioscience, Inc.",30.34M,3.55,2.84M
+FGF,Fundamental Global Inc.,29.99M,1.05,33.50M
+AIEV,"Thunder Power Holdings, Inc.",29.87M,0.62,-
+LUMO,"Lumos Pharma, Inc.",29.65M,3.65,1.49M
+CGTX,"Cognition Therapeutics, Inc.",29.62M,0.74,-
+RAY,Raytech Holding Limited,29.58M,1.69,8.56M
+CLPS,CLPS Incorporation,29.51M,1.06,145.37M
+GRRR,Gorilla Technology Group Inc.,29.33M,2.64,64.69M
+STIM,"Neuronetics, Inc.",29.24M,0.97,72.07M
+NRBO,"NeuroBo Pharmaceuticals, Inc.",28.86M,3.40,-
+ICCC,ImmuCell Corporation,28.83M,3.68,23.22M
+SLNH,"Soluna Holdings, Inc.",28.78M,5.00,38.14M
+TKLF,"Yoshitsu Co., Ltd",28.71M,0.68,195.68M
+GTEC,Greenland Technologies Holding Corporation,28.68M,2.11,90.36M
+QNCX,"Quince Therapeutics, Inc.",28.56M,0.66,-
+OESX,"Orion Energy Systems, Inc.",28.52M,0.87,92.87M
+CGBS,Crown LNG Holdings Limited,28.17M,0.40,-
+BRLT,"Brilliant Earth Group, Inc.",28.16M,2.10,441.26M
+GMM,Global Mofy Metaverse Limited,28.09M,0.93,33.99M
+PLUR,Pluri Inc.,28.02M,5.20,341.00K
+EPOW,"Sunrise New Energy Co., Ltd.",27.97M,1.07,45.05M
+CMLS,Cumulus Media Inc.,27.94M,1.65,833.62M
+IXHL,Incannex Healthcare Inc.,27.94M,1.76,661.15K
+TOI,"The Oncology Institute, Inc.",27.92M,0.37,361.07M
+DRIO,DarioHealth Corp.,27.91M,0.93,19.15M
+AGMH,AGM Group Holdings Inc.,27.89M,1.15,92.91M
+GORV,"Lazydays Holdings, Inc.",27.77M,1.96,987.99M
+KALA,"KALA BIO, Inc.",27.69M,6.01,-
+BTAI,"BioXcel Therapeutics, Inc.",27.67M,0.68,2.40M
+VYNE,VYNE Therapeutics Inc.,27.58M,1.87,486.00K
+ITRM,Iterum Therapeutics plc,27.47M,1.21,-
+SRZN,"Surrozen, Inc.",27.47M,8.57,-
+UTSI,UTStarcom Holdings Corp.,27.36M,2.90,15.75M
+MIRA,"MIRA Pharmaceuticals, Inc.",27.34M,1.85,-
+CVV,CVD Equipment Corporation,27.11M,3.94,21.61M
+MNDR,Mobile-health Network Solutions,27.00M,0.79,11.53M
+BCLI,Brainstorm Cell Therapeutics Inc.,26.85M,0.34,-
+ICU,SeaStar Medical Holding Corporation,26.68M,6.40,-
+NWGL,Nature Wood Group Limited,26.65M,1.61,25.46M
+AEHL,Antelope Enterprise Holdings Limited,26.55M,2.18,72.00M
+DTST,Data Storage Corporation,26.51M,3.79,25.32M
+UBX,"Unity Biotechnology, Inc.",26.45M,1.57,-
+BOLT,"Bolt Biotherapeutics, Inc.",26.31M,0.69,11.17M
+RAVE,"Rave Restaurant Group, Inc.",26.26M,1.80,11.84M
+MDAI,"Spectral AI, Inc.",26.23M,1.49,22.53M
+KFFB,Kentucky First Federal Bancorp,26.20M,3.24,7.30M
+APDN,"Applied DNA Sciences, Inc.",26.16M,2.54,3.40M
+SNAL,"Snail, Inc.",26.10M,0.71,73.27M
+USEG,U.S. Energy Corp.,26.02M,0.93,25.74M
+HYFM,"Hydrofarm Holdings Group, Inc.",25.94M,0.56,210.32M
+CHR,"Cheer Holding, Inc.",25.92M,2.52,155.95M
+MKDW,MKDWELL Tech Inc.,25.87M,1.34,-
+ENLV,Enlivex Therapeutics Ltd.,25.69M,1.23,-
+YYGH,YY Group Holding Limited,25.47M,0.74,31.77M
+ZOOZ,ZOOZ Power Ltd.,25.34M,2.10,506.66K
+DALN,DallasNews Corporation,25.16M,4.70,131.65M
+VSEE,"VSee Health, Inc.",25.12M,1.71,5.74M
+PMEC,Primech Holdings Ltd.,25.11M,0.66,72.52M
+INAB,"IN8bio, Inc.",25.03M,0.54,-
+LSTA,"Lisata Therapeutics, Inc.",24.96M,3.00,-
+ACST,Acasti Pharma Inc.,24.84M,2.45,-
+NVA,Nova Minerals Limited,24.80M,6.19,32.33K
+BIOR,"Biora Therapeutics, Inc.",24.73M,0.68,860.00K
+SUGP,SU Group Holdings Limited,24.70M,1.81,20.25M
+SABS,"SAB Biotherapeutics, Inc.",24.55M,2.66,2.78M
+PSHG,Performance Shipping Inc.,24.49M,1.97,90.83M
+PSIG,PS International Group Ltd.,24.46M,0.97,140.02M
+SOHO,Sotherly Hotels Inc.,24.37M,1.25,178.34M
+DAIO,Data I/O Corporation,24.36M,2.64,24.60M
+RNXT,"RenovoRx, Inc.",24.22M,1.01,-
+NMTC,NeuroOne Medical Technologies Corporation,24.15M,0.78,3.92M
+CACO,Caravelle International Group,24.05M,0.43,133.78M
+GP,GreenPower Motor Company Inc.,23.93M,0.91,24.69M
+IZM,ICZOOM Group Inc.,23.87M,2.17,181.92M
+PIRS,"Pieris Pharmaceuticals, Inc.",23.86M,18.07,20.87M
+FEMY,Femasys Inc.,23.79M,1.07,950.10K
+FPAY,"FlexShopper, Inc.",23.67M,1.10,127.36M
+VRAX,Virax Biolabs Group Limited,23.66M,5.45,156.42K
+GDHG,Golden Heaven Group Holdings Ltd.,23.59M,0.12,25.55M
+RNLX,Renalytix Plc,23.58M,0.32,2.22M
+CNTM,"ConnectM Technology Solutions, Inc.",23.55M,0.95,20.10M
+JZXN,"Jiuzi Holdings, Inc.",23.52M,2.26,5.93M
+GBNY,"Generations Bancorp NY, Inc.",23.45M,10.46,9.06M
+NXPL,NextPlat Corp,23.34M,1.23,66.40M
+GREE,Greenidge Generation Holdings Inc.,23.25M,2.18,72.91M
+BIAF,"bioAffinity Technologies, Inc.",23.24M,1.72,7.32M
+VINC,"Vincerx Pharma, Inc.",23.15M,0.75,-
+GHSI,"Guardion Health Sciences, Inc.",23.11M,18.00,12.23M
+UCAR,U Power Limited,23.09M,6.84,2.79M
+HUDA,Hudson Acquisition I Corp.,22.81M,12.55,-
+USEA,United Maritime Corporation,22.80M,2.53,46.28M
+COOT,Australian Oilseeds Holdings Limited,22.76M,0.96,-
+SWAG,"Stran & Company, Inc.",22.70M,1.22,75.89M
+NRXP,"NRx Pharmaceuticals, Inc.",22.52M,2.08,-
+ISPO,Inspirato Incorporated,22.42M,4.35,300.94M
+CYTH,"Cyclo Therapeutics, Inc.",22.38M,0.78,1.13M
+HLP,Hongli Group Inc.,22.27M,1.82,16.00M
+CHSN,Chanson International Holding,22.24M,1.79,17.25M
+NKGN,"NKGen Biotech, Inc.",22.16M,0.86,-
+IPA,ImmunoPrecise Antibodies Ltd.,22.11M,0.81,17.84M
+HOVR,New Horizon Aircraft Ltd.,22.05M,1.03,-
+OCC,Optical Cable Corporation,21.78M,2.76,65.24M
+TWG,Top Wealth Group Holding Limited,21.75M,0.75,16.94M
+WETH,Wetouch Technology Inc.,21.72M,1.82,40.61M
+SAI,SAI.TECH Global Corporation,21.68M,0.88,6.78M
+COSM,Cosmos Health Inc.,21.65M,1.22,56.45M
+ATER,"Aterian, Inc.",21.64M,3.03,120.62M
+SGMA,"SigmaTron International, Inc.",21.63M,3.55,401.03M
+XAIR,"Beyond Air, Inc.",21.59M,0.46,1.78M
+IINN,Inspira Technologies Oxy B.H.N. Ltd.,21.52M,1.18,-
+LRE,"Lead Real Estate Co., Ltd",21.49M,1.58,118.41M
+BANL,CBL International Limited,21.48M,0.78,435.90M
+NA,Nano Labs Ltd,21.40M,0.31,11.05M
+ANY,Sphere 3D Corp.,21.37M,1.03,25.03M
+SDOT,Sadot Group Inc.,21.23M,0.46,636.38M
+JFU,9F Inc.,21.19M,1.80,58.17M
+APCX,AppTech Payments Corp.,21.17M,0.85,462.00K
+BTCS,BTCS Inc.,21.03M,1.30,1.65M
+MEIP,"MEI Pharma, Inc.",20.92M,3.14,66.75M
+JG,Aurora Mobile Limited,20.89M,3.49,40.07M
+LYRA,"Lyra Therapeutics, Inc.",20.68M,0.32,1.82M
+BBGI,"Beasley Broadcast Group, Inc.",20.62M,0.67,240.68M
+KIRK,"Kirkland's, Inc.",20.47M,1.57,463.57M
+TXMD,"TherapeuticsMD, Inc.",20.41M,1.77,996.00K
+MMV,MultiMetaVerse Holdings Limited,20.16M,0.61,9.01M
+WAVE,Eco Wave Power Global AB (publ),20.14M,3.63,306.00K
+COCP,"Cocrystal Pharma, Inc.",20.14M,1.98,-
+AACG,ATA Creativity Global,20.13M,0.64,33.43M
+QMCO,Quantum Corporation,20.11M,0.21,290.45M
+BFRG,"Bullfrog AI Holdings, Inc.",20.10M,2.56,65.00K
+CMMB,Chemomab Therapeutics Ltd.,19.91M,1.40,-
+DUOT,"Duos Technologies Group, Inc.",19.84M,2.58,5.64M
+EVGN,Evogene Ltd.,19.83M,3.88,9.19M
+CPSH,CPS Technologies Corporation,19.76M,1.36,23.98M
+BIVI,BioVie Inc.,19.74M,3.23,-
+EKSO,"Ekso Bionics Holdings, Inc.",19.74M,1.07,18.16M
+SPRB,"Spruce Biosciences, Inc.",19.72M,0.48,9.57M
+LPCN,Lipocine Inc.,19.63M,3.67,4.80M
+PXDT,"Pixie Dust Technologies, Inc.",19.48M,1.31,6.30M
+YYAI,Connexa Sports Technologies Inc.,19.46M,7.32,8.40M
+MGIH,Millennium Group International Holdings Limited,19.46M,1.73,43.08M
+CPIX,Cumberland Pharmaceuticals Inc.,19.45M,1.38,37.79M
+GNLN,"Greenlane Holdings, Inc.",19.42M,6.67,29.37M
+NEPH,"Nephros, Inc.",19.40M,1.84,13.77M
+WKSP,Worksport Ltd.,19.34M,0.65,3.73M
+VCIG,VCI Global Limited,19.13M,0.22,23.55M
+WKHS,Workhorse Group Inc.,19.10M,0.78,9.62M
+ZPTA,Zapata Computing Holdings Inc.,19.09M,0.49,5.96M
+CARA,"Cara Therapeutics, Inc.",19.09M,0.35,11.00M
+APRE,"Aprea Therapeutics, Inc.",19.07M,3.51,1.28M
+TRIB,Trinity Biotech plc,18.93M,2.00,58.65M
+ASTC,Astrotech Corporation,18.91M,11.47,2.00M
+SEED,Origin Agritech Limited,18.84M,2.98,16.52M
+FLYE,"Fly-E Group, Inc.",18.80M,0.76,32.24M
+ZKIN,"ZK International Group Co., Ltd.",18.80M,0.52,111.60M
+CSCI,COSCIENS Biopharma Inc.,18.74M,6.18,4.92M
+CJET,"Chijet Motor Company, Inc.",18.69M,3.49,9.48M
+MHUA,"Meihua International Medical Technologies Co., Ltd.",18.56M,0.73,97.10M
+GDTC,CytoMed Therapeutics Limited,18.46M,1.60,384.67K
+TRUG,"TruGolf Holdings, Inc.",18.42M,1.39,19.11M
+NERV,"Minerva Neurosciences, Inc.",18.39M,2.63,-
+WVVI,"Willamette Valley Vineyards, Inc.",18.37M,3.70,39.24M
+EDTK,Skillful Craftsman Education Technology Limited,18.32M,1.15,2.00M
+LSH,Lakeside Holding Limited,18.23M,2.52,17.62M
+PEV,Phoenix Motor Inc.,18.17M,0.52,3.12M
+IMNN,"Imunon, Inc.",18.15M,1.26,-
+SLGL,Sol-Gel Technologies Ltd.,18.00M,0.65,6.56M
+TOMZ,"TOMI Environmental Solutions, Inc.",17.96M,0.90,7.13M
+BLMZ,BloomZ Inc.,17.91M,1.44,859.07K
+CCTG,CCSC Technology International Holdings Limited,17.84M,1.54,14.75M
+GYRO,"Gyrodyne, LLC",17.81M,8.10,2.74M
+VRAR,"The Glimpse Group, Inc.",17.78M,0.98,9.99M
+HCWB,HCW Biologics Inc.,17.78M,0.47,3.92M
+HYZN,Hyzon Motors Inc.,17.65M,0.07,10.59M
+TAIT,Taitron Components Incorporated,17.64M,2.93,4.72M
+CPOP,"Pop Culture Group Co., Ltd",17.63M,1.18,31.30M
+ZAPP,Zapp Electric Vehicles Group Limited,17.61M,4.18,-
+YHGJ,Yunhong Green CTI Ltd.,17.61M,0.85,17.80M
+EZFL,EZFill Holdings Inc.,17.60M,3.10,25.85M
+NXGL,"NEXGEL, Inc.",17.60M,2.60,5.01M
+SYBX,"Synlogic, Inc.",17.54M,1.50,3.17M
+EVAX,Evaxion Biotech A/S,17.51M,3.14,278.00K
+TSBX,Turnstone Biologics Corp.,17.51M,0.76,-
+UGRO,"urban-gro, Inc.",17.49M,1.42,70.32M
+MNTS,Momentus Inc.,17.46M,1.05,3.09M
+EDUC,Educational Development Corporation,17.45M,2.03,46.50M
+BOSC,B.O.S. Better Online Solutions Ltd.,17.42M,3.03,40.44M
+JYD,Jayud Global Logistics Limited,17.30M,0.81,70.21M
+VISL,"Vislink Technologies, Inc.",17.29M,7.02,32.55M
+ABTS,Abits Group Inc.,17.24M,0.49,5.34M
+AWH,Aspira Women's Health Inc.,17.18M,1.07,8.92M
+CUTR,"Cutera, Inc.",17.11M,0.85,169.19M
+APM,Aptorum Group Limited,16.96M,3.10,431.38K
+ILAG,Intelligent Living Application Group Inc.,16.80M,0.93,6.44M
+TURB,"Turbo Energy, S.A.",16.75M,1.52,14.53M
+LOBO,Lobo EV Technologies Ltd.,16.73M,2.15,15.47M
+MBOT,Microbot Medical Inc.,16.66M,1.01,-
+INDP,"Indaptus Therapeutics, Inc.",16.62M,1.63,-
+VRM,"Vroom, Inc.",16.59M,9.12,900.45M
+ALCE,Alternus Clean Energy Inc,16.55M,0.23,-
+LIQT,"LiqTech International, Inc.",16.44M,2.83,17.72M
+PYPD,PolyPid Ltd.,16.31M,3.40,-
+MCVT,"Mill City Ventures III, Ltd.",16.28M,2.55,3.25M
+FMST,Foremost Lithium Resource & Technology Ltd.,16.28M,2.95,-
+PT,Pintec Technology Holdings Limited,16.27M,1.02,7.43M
+IMRN,Immuron Limited,16.25M,2.69,2.44M
+NRSN,NeuroSense Therapeutics Ltd.,16.16M,0.83,-
+JZ,Jianzhi Education Technology Group Company Limited,16.15M,0.80,62.13M
+BCTX,BriaCell Therapeutics Corp.,16.11M,0.86,-
+HUBC,HUB Cyber Security Ltd.,16.07M,0.53,42.66M
+LRHC,La Rosa Holdings Corp.,16.07M,1.00,50.37M
+DLPN,"Dolphin Entertainment, Inc.",15.99M,0.72,48.89M
+XELB,"Xcel Brands, Inc.",15.95M,0.68,10.06M
+NCNA,NuCana plc,15.93M,7.09,-
+OMIC,"Singular Genomics Systems, Inc.",15.82M,6.34,2.72M
+CDT,Conduit Pharmaceuticals Inc.,15.81M,0.16,-
+WKEY,WISeKey International Holding AG,15.67M,2.32,30.92M
+SYRA,Syra Health Corp.,15.66M,1.11,7.07M
+HTCR,"HeartCore Enterprises, Inc.",15.44M,0.74,17.13M
+SGLY,Singularity Future Technology Ltd.,15.43M,4.41,3.37M
+TLPH,"Talphera, Inc.",15.29M,0.90,398.00K
+JCTCF,Jewett-Cameron Trading Company Ltd.,15.25M,4.35,48.55M
+APLM,"Apollomics, Inc.",15.18M,0.14,2.10M
+CTCX,Carmell Corporation,14.96M,0.72,12.32K
+SNSE,"Sensei Biotherapeutics, Inc.",14.96M,0.59,-
+WENA,"Anew Medical, Inc.",14.88M,1.17,-
+HOFV,Hall of Fame Resort & Entertainment Company,14.87M,2.27,23.77M
+GIGM,GigaMedia Limited,14.81M,1.34,3.39M
+ZEO,Zeo Energy Corp.,14.80M,2.55,95.46M
+GCTK,"GlucoTrack, Inc.",14.79M,2.70,-
+GLTO,"Galecto, Inc.",14.65M,0.54,-
+ONCT,"Oncternal Therapeutics, Inc.",14.65M,4.95,1.85M
+CWD,CaliberCos Inc.,14.60M,0.66,72.10M
+AYTU,"Aytu BioPharma, Inc.",14.57M,2.44,93.76M
+REBN,"Reborn Coffee, Inc.",14.52M,3.87,6.20M
+EDSA,"Edesa Biotech, Inc.",14.45M,4.45,-
+GFAI,"Guardforce AI Co., Limited",14.43M,1.45,36.28M
+TENX,"Tenax Therapeutics, Inc.",14.39M,4.22,-
+GLBZ,Glen Burnie Bancorp,14.36M,4.95,11.58M
+QTI,"QT Imaging Holdings, Inc.",14.31M,0.67,3.11M
+LAES,SEALSQ Corp,14.30M,0.62,30.06M
+MTEK,Maris-Tech Ltd.,14.26M,1.81,4.03M
+CMAX,"CareMax, Inc.",14.12M,3.70,784.55M
+GVP,"GSE Systems, Inc.",14.06M,4.05,44.79M
+MDRR,"Medalist Diversified REIT, Inc.",14.04M,12.56,10.17M
+GSUN,Golden Sun Health Technology Group Limited,13.99M,7.33,6.34M
+JDZG,JIADE Limited,13.98M,0.58,2.20M
+CLRO,"ClearOne, Inc.",13.97M,0.58,14.97M
+SIDU,"Sidus Space, Inc.",13.92M,3.33,4.31M
+MBIO,"Mustang Bio, Inc.",13.90M,0.37,-
+FLGC,Flora Growth Corp.,13.81M,1.04,69.01M
+STRR,"Star Equity Holdings, Inc.",13.78M,4.26,47.15M
+JVA,"Coffee Holding Co., Inc.",13.70M,2.40,73.06M
+XELA,"Exela Technologies, Inc.",13.69M,2.15,1.02B
+AMIX,"Autonomix Medical, Inc.",13.64M,0.59,-
+NIVF,NewGenIvf Group Limited,13.62M,1.13,-
+SANW,S&W Seed Company,13.58M,0.31,68.68M
+GIPR,"Generation Income Properties, Inc.",13.50M,2.49,9.66M
+MULN,"Mullen Automotive, Inc.",13.47M,0.34,156.57K
+AEI,Alset Inc.,13.39M,1.45,9.22M
+VRME,"VerifyMe, Inc.",13.29M,1.28,25.43M
+PMD,Psychemedics Corporation,13.28M,2.28,20.79M
+SNTI,"Senti Biosciences, Inc.",13.23M,2.89,338.00K
+NCRA,"Nocera, Inc.",13.23M,0.97,26.40M
+RMCF,"Rocky Mountain Chocolate Factory, Inc.",13.21M,1.74,27.92M
+DXYN,"The Dixie Group, Inc.",13.21M,0.90,271.01M
+ELSE,"Electro-Sensors, Inc.",13.20M,3.85,8.83M
+MTEX,"Mannatech, Incorporated",13.19M,7.00,122.38M
+PETZ,"TDH Holdings, Inc.",13.11M,1.27,3.18M
+MDJH,MDJM Ltd,13.08M,1.12,144.86K
+PPBT,Purple Biotech Ltd,13.01M,0.40,-
+MSS,Maison Solutions Inc.,13.00M,0.66,58.04M
+SLE,"Super League Enterprise, Inc.",12.99M,1.23,25.03M
+FRSX,Foresight Autonomous Holdings Ltd.,12.93M,0.79,666.00K
+CNVS,Cineverse Corp.,12.88M,0.82,45.28M
+RVSN,Rail Vision Ltd.,12.86M,0.64,142.00K
+LDTC,LeddarTech Holdings Inc.,12.85M,0.44,6.05M
+ULY,Urgent.ly Inc.,12.81M,0.95,165.73M
+PMCB,"PharmaCyte Biotech, Inc.",12.80M,1.66,-
+OXBR,Oxbridge Re Holdings Limited,12.80M,2.12,-8.37M
+MBRX,"Moleculin Biotech, Inc.",12.69M,2.39,-
+RMCO,Royalty Management Holding Corporation,12.62M,0.84,644.29K
+JEWL,Adamas One Corp.,12.53M,0.45,501.38K
+SSKN,"STRATA Skin Sciences, Inc.",12.47M,2.99,32.73M
+KTRA,"Kintara Therapeutics, Inc.",12.46M,0.23,-
+BTOG,Bit Origin Ltd,12.46M,1.96,7.09M
+OP,OceanPal Inc.,12.44M,1.67,22.10M
+DPRO,Draganfly Inc.,12.33M,0.14,4.47M
+HRYU,"Hanryu Holdings, Inc.",12.27M,0.23,794.17K
+GLYC,"GlycoMimetics, Inc.",12.25M,0.19,10.00K
+CREV,Carbon Revolution Public Limited Company,12.21M,6.51,39.26M
+FCUV,Focus Universal Inc.,12.17M,0.19,839.62K
+ZCAR,"Zoomcar Holdings, Inc.",12.15M,0.16,9.52M
+CLWT,Euro Tech Holdings Company Limited,12.11M,1.57,17.94M
+MRM,MEDIROM Healthcare Technologies Inc.,12.11M,2.48,48.44M
+SONM,"Sonim Technologies, Inc.",12.09M,2.50,69.29M
+LKCO,Luokung Technology Corp.,11.95M,0.68,36.98M
+INTJ,Intelligent Group Limited,11.90M,0.91,2.63M
+YJ,Yunji Inc.,11.84M,0.60,72.68M
+BRTX,"BioRestorative Therapies, Inc.",11.76M,1.70,174.10K
+SLXN,Silexion Therapeutics Corp,11.72M,1.41,-
+GURE,"Gulf Resources, Inc.",11.68M,1.12,41.76M
+RAYA,Erayak Power Solution Group Inc.,11.64M,0.97,20.32M
+VERB,"Verb Technology Company, Inc.",11.59M,0.08,102.00K
+FBRX,"Forte Biosciences, Inc.",11.56M,0.32,-
+RDHL,RedHill Biopharma Ltd.,11.55M,9.02,6.53M
+MEDS,"TRxADE HEALTH, Inc.",11.54M,7.91,7.45M
+AKTS,"Akoustis Technologies, Inc.",11.38M,0.10,29.86M
+LIDR,"AEye, Inc.",11.37M,1.32,309.00K
+OTRK,"Ontrak, Inc.",11.21M,0.23,12.39M
+KPRX,"Kiora Pharmaceuticals, Inc.",11.20M,3.77,16.02M
+VIRX,"Viracta Therapeutics, Inc.",11.11M,0.28,-
+JXJT,JX Luxventure Limited,11.10M,1.83,31.84M
+ALPP,"Alpine 4 Holdings, Inc.",11.09M,0.41,104.20M
+CHEK,Check-Cap Ltd.,11.06M,1.89,-
+IVP,"Inspire Veterinary Partners, Inc.",11.05M,3.05,17.13M
+SPI,"SPI Energy Co., Ltd.",11.03M,0.35,209.53M
+HTOO,Fusion Fuel Green PLC,10.98M,0.63,4.58M
+OMH,Ohmyhome Limited,10.92M,0.48,3.79M
+ATHE,Alterity Therapeutics Limited,10.84M,1.30,2.34M
+NXTT,Next Technology Holding Inc.,10.81M,1.55,2.63M
+JAGX,"Jaguar Health, Inc.",10.81M,1.17,10.19M
+STEC,Santech Holdings Limited,10.78M,0.39,260.47M
+ARTW,"Art's-Way Manufacturing Co., Inc.",10.75M,2.12,27.42M
+KZIA,Kazia Therapeutics Limited,10.73M,0.36,382.00
+IKT,"Inhibikase Therapeutics, Inc.",10.67M,1.43,79.57K
+YQ,17 Education & Technology Group Inc.,10.55M,2.10,25.92M
+ARBB,ARB IOT Group Limited,10.55M,0.40,32.75M
+VVPR,VivoPower International PLC,10.43M,2.35,12.24M
+MGOL,"MGO Global, Inc.",10.30M,3.95,5.69M
+JL,J-Long Group Limited,10.30M,0.33,28.38M
+KRKR,36Kr Holdings Inc.,10.29M,0.26,47.97M
+DOMH,Dominari Holdings Inc.,10.23M,1.63,9.51M
+CTNT,Cheetah Net Supply Chain Service Inc.,10.22M,0.26,17.68M
+CARV,"Carver Bancorp, Inc.",10.21M,2.00,28.90M
+NXL,"Nexalin Technology, Inc.",10.20M,0.96,150.16K
+ELWS,"Earlyworks Co., Ltd",10.19M,3.38,1.14M
+INHD,Inno Holdings Inc.,10.18M,0.49,693.57K
+EMKR,EMCORE Corporation,10.15M,1.12,90.96M
+MTEM,"Molecular Templates, Inc.",10.14M,1.54,25.47M
+CDIO,"Cardio Diagnostics Holdings, Inc.",10.11M,0.42,39.14K
+PRPO,"Precipio, Inc.",10.08M,6.80,16.72M
+SOGP,Sound Group Inc.,10.05M,1.90,306.52M
+ERNA,Eterna Therapeutics Inc.,10.01M,1.85,162.00K
+MEGL,Magic Empire Global Limited,9.95M,0.49,1.77M
+GVH,Globavend Holdings Limited,9.90M,0.68,18.59M
+AIHS,Senmiao Technology Limited,9.88M,0.94,5.84M
+KDLY,"Kindly MD, Inc.",9.86M,1.66,3.10M
+MFI,mF International Limited,9.81M,0.74,4.09M
+KITT,"Nauticus Robotics, Inc.",9.76M,2.10,3.62M
+GWAV,"Greenwave Technology Solutions, Inc.",9.76M,0.48,33.59M
+LEDS,SemiLEDs Corporation,9.72M,1.35,5.31M
+WISA,"WiSA Technologies, Inc.",9.61M,1.71,1.79M
+ASNS,"Actelis Networks, Inc.",9.57M,1.59,6.02M
+AVTX,"Avalo Therapeutics, Inc.",9.51M,9.20,807.00K
